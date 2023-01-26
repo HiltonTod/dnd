@@ -63,7 +63,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://todhilton.com/dnd/"
     - label: "D&D Beyond Campaign"
-      icon: "fab fa-solid fa-dragon"
+      icon: "fa-brands fa-d-and-d"
       url: "https://ddb.ac/campaigns/join/37335222107732370"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
