@@ -57,9 +57,9 @@ plugins:
 author:
   name   : "Dungeons & Flagons"
   avatar : "/assets/images/dave-shevitz-dm-profile-pic.jpg"
-  bio    : "Group of guys adventuring"
+  bio    : "Group of guys adventuring & drinking"
   links:
-    - label: "Campaign @ D&D Beyond"
+    - label: "Campaign"
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "GitHub"
