@@ -59,18 +59,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Group of guys adventuring"
   links:
-    - label: "D&D Beyond Campaign"
+    - label: "Campaign @ D&D Beyond"
       icon: "fa-solid fa-dragon"
-      url: "https://ddb.ac/campaigns/join/37335222107732370"
+      url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HiltonTod/dnd/"
 
 footer:
   links:
-    - label: "D&D Beyond Campaign"
+    - label: "Campaign @ D&D Beyond"
       icon: "fa-solid fa-dragon"
-      url: "https://ddb.ac/campaigns/join/37335222107732370"
+      url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HiltonTod/dnd/"
