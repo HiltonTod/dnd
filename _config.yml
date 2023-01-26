@@ -60,7 +60,7 @@ author:
   bio    : "Group of guys adventuring"
   links:
     - label: "Campaign @ D&D Beyond"
-      icon: "fa-solid fa-dragon"
+      icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -69,7 +69,7 @@ author:
 footer:
   links:
     - label: "Campaign @ D&D Beyond"
-      icon: "fa-solid fa-dragon"
+      icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
