@@ -2,7 +2,7 @@ main:
   - title: "Campaign"
     url: /categories/#campaign
   - title: "Adventurers"
-    url: /categories/#adventurers/
+    url: /categories/#adventurers
   - title: "Tags"
     url: /tags/
   - title: "About"
