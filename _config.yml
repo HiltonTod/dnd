@@ -57,9 +57,9 @@ plugins:
 author:
   name   : "Dungeons & Flagons"
   avatar : "/assets/images/dave-shevitz-dm-profile-pic.jpg"
-  bio    : "Group of guys adventuring & drinking"
+  bio    : "A tiefling rogue, gnome artificer, halfling farmer, and half-orc barbarian make up a motley crew, adventuring in the lands of Olam."
   links:
-    - label: "Campaign"
+    - label: "D&D Beyond"
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "GitHub"
@@ -85,8 +85,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
