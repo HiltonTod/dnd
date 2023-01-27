@@ -64,19 +64,71 @@ author:
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "D&D Ref Books"
-      icon: "far fa-book"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
+      icon: "fas fa-book-open"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
       url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HiltonTod/dnd/"
-
+      
+    - label: "TEST BOOK ICON"
+      icon: "fas fa-book-open"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "far fa-book-open"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fal fa-book-open"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fad fa-book-open"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+      
+    - label: "TEST BOOK ICON"
+      icon: "fas fa-book-spells"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "far fa-book-spells"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fal fa-book-spells"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fad fa-book-spells"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+      
+    - label: "TEST BOOK ICON"
+      icon: "fas fa-book"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "far fa-book"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fal fa-book"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fad fa-book"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+      
+    - label: "TEST BOOK ICON"
+      icon: "fas fa-books"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "far fa-books"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fal fa-books"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+    - label: "TEST BOOK ICON"
+      icon: "fad fa-books"
+      url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
+      
 footer:
   links:
     - label: "Campaign @ D&D Beyond"
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "D&D Ref Books"
-      icon: "fad fa-book"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
+      icon: "far fa-book-open"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
       url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
