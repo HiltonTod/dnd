@@ -13,11 +13,14 @@ tags:
 ## Statistics
 
 **Name:** Gven Vatkem (guh·ven vat·kem)
+
 **Race:** [Half-orc](https://www.dndbeyond.com/races/2-half-orc)
+
 **Class:** [Barbarian](https://www.dndbeyond.com/classes/barbarian)
+
 **Gender:** Female
 
-[Character sheet at D&D Beyond](https://ddb.ac/characters/91974479/Q1eaiy).
+_[Character sheet at D&D Beyond](https://ddb.ac/characters/91974479/Q1eaiy)_
 
 ## Backstory
 
