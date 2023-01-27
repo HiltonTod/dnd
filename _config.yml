@@ -64,10 +64,10 @@ author:
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "D&D ref books"
-      icon: "fas fa-books"
+      icon: "fad fa-books"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
       url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/HiltonTod/dnd/"
 
 footer:
@@ -76,10 +76,10 @@ footer:
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "D&D ref books"
-      icon: "fas fa-books"
+      icon: "fad fa-books"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
       url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/HiltonTod/dnd/"
 
 defaults:
