@@ -1,7 +1,7 @@
 ---
 title: "Gven Vetkam"
 show_date: true
-date: 2023-01-23T17:30:00-00:00
+date: 2023-01-22T17:30:00-00:00
 categories:
   - adventurers
 tags:
