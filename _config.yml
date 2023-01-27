@@ -54,6 +54,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# For icons, use FontAwesome v5 icons: https://fontawesome.com/v5/search
 author:
   name   : "Dungeons & Flagons"
   avatar : "/assets/images/dave-shevitz-dm-profile-pic.jpg"
@@ -66,7 +67,7 @@ author:
       icon: "fas fa-books"
       url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
       url: "https://github.com/HiltonTod/dnd/"
 
 footer:
@@ -78,7 +79,7 @@ footer:
       icon: "fas fa-books"
       url: "https://github.com/kwmorris/DnD/tree/master/5e/Books"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/books?s=regular&f=classic
       url: "https://github.com/HiltonTod/dnd/"
 
 defaults:
