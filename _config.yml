@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Dungeons & Flagons"
   avatar : "/assets/images/dave-shevitz-dm-profile-pic.jpg"
-  bio    : "A tiefling rogue, gnome artificer, halfling farmer, and half-orc barbarian make up a motley crew, adventuring in the lands of Olam."
+  bio    : "A tiefling rogue, gnome artificer, halfling druid farmer, and half-orc barbarian make up a motley crew, adventuring in the lands of Olam."
   links:
     - label: "Campaign"
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
