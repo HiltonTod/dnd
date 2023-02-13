@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/dave-shevitz-dm-profile-pic.jpg"
   bio    : "A tiefling rogue, gnome artificer, halfling farmer, and half-orc barbarian make up a motley crew, adventuring in the lands of Olam."
   links:
-    - label: "D&D Beyond"
+    - label: "Campaign"
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
       url: "https://www.dndbeyond.com/campaigns/3733522"
     - label: "D&D Ref Books"
