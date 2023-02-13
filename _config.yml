@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HiltonTod/dnd/"
     - label: "RSS Feed"
-      icon: "far fa-rss-square"
+      icon: "fas fa-rss-square"
       url: "https://todhilton.com/dnd/feed.xml"
 
 footer:
