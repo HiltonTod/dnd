@@ -69,6 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HiltonTod/dnd/"
+    - label: "RSS Feed"
+      icon: "fal fa-rss-square"
+      url: "https://todhilton.com/dnd/feed.xml"
 
 footer:
   links:
