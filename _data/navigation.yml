@@ -3,6 +3,8 @@ main:
     url: /categories/#campaign
   - title: "Adventurers"
     url: /categories/#adventurers
+  - title: "Appendix"
+    url: /campaign/appendix/
   - title: "Tags"
     url: /tags/
   - title: "About"
