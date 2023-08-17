@@ -4,7 +4,8 @@ title: "About"
 ---
 
 A [tiefling rogue](/dnd/adventurers/dolor-vagarpie/), 
-[gnome artificer](/dnd/adventurers/xantic-gearslips/), 
-[halfling druid](/dnd/adventurers/grindlefoot/) farmer, and 
-[half-orc barbarian](/dnd/adventurers/gven-vetkam/)
+[halfling druid](/dnd/adventurers/grindlefoot/) farmer,
+[half-orc barbarian](/dnd/adventurers/gven-vetkam/),
+[dwarven bard](https://todhilton.com/dnd/adventurers/bilwin/),
+and [half-elven sorcerer](https://todhilton.com/dnd/adventurers/mond-blue/)
 travel together and find adventure in the world of Olam.
