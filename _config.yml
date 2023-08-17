@@ -16,8 +16,8 @@
 title: Dungeons & Flagons
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A tiefling rogue, gnome artificer, halfling druid farmer, and half-orc
-  barbarian make up a motley crew, adventuring in the lands of Olam.
+  A tiefling rogue, halfling druid farmer, half-orc barbarian, dwarven bard, and
+  half-elf sorcerer make up a motley crew, adventuring in the lands of Olam.
 minimal_mistakes_skin: dark
 search: true
 
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Dungeons & Flagons"
   avatar : "/assets/images/dave-shevitz-dm-profile-pic.jpg"
-  bio    : "A tiefling rogue, gnome artificer, halfling druid farmer, and half-orc barbarian make up a motley crew, adventuring in the lands of Olam."
+  bio    : "A tiefling rogue, halfling druid farmer, half-orc barbarian, dwarven bard, and half-elf sorcerer make up a motley crew, adventuring in the lands of Olam."
   links:
     - label: "Campaign"
       icon: "fas fa-dragon"  # Use v5 of Font Awesome: https://fontawesome.com/v5/icons/dragon?s=solid&f=classic
