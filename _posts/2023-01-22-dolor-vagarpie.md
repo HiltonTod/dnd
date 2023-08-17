@@ -2,6 +2,7 @@
 title: "Dolor Vagarpie"
 show_date: true
 date: 2023-01-22T17:30:00-00:00
+modified: 2023-08-02
 categories:
   - adventurers
 tags:
