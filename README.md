@@ -1,6 +1,6 @@
 # Dungeons and Flagons
 
-Cataloging the adventures of 5 guys playing Dungeons & Dragons.
+Cataloging the adventures of a group of guys playing Dungeons & Dragons.
 
 ---
 
