@@ -22,4 +22,6 @@ _[Character sheet at D&D Beyond]()_
 
 ## Backstory
 
-We know that he's been a farmer all of his life and loves the land, but not why he's out adventuring.
+We know that he's been a farmer all of his life and loves the land, which is why he's a
+[Circle of the Land](https://www.dndbeyond.com/posts/515-druid-101-circle-of-the-land) druid,
+but we don't know why he's out adventuring.
