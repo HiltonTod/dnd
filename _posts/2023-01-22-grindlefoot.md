@@ -22,6 +22,7 @@ _[Character sheet at D&D Beyond]()_
 
 ## Backstory
 
-We know that he's been a farmer all of his life and loves the land, which is why he's a
-[Circle of the Land](https://www.dndbeyond.com/posts/515-druid-101-circle-of-the-land) druid,
+We know that he's been a farmer all of his life and loves the land. That might explain why he's a
+[Circle of the Land](https://www.dndbeyond.com/posts/515-druid-101-circle-of-the-land) druid
+with an [Outlander](http://dnd5e.wikidot.com/background:outlander) background,
 but we don't know why he's out adventuring.
