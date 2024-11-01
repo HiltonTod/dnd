@@ -17,6 +17,7 @@ tags:
 -   **Race:** [Halfling](https://www.dndbeyond.com/races/14-halfling) 
 -   **Class:** [Druid](https://www.dndbeyond.com/classes/druid) 
 -   **Gender:** Male 
+-   **Height:** 3' 1-1/2"
 
 _[Character sheet at D&D Beyond]()_
 
