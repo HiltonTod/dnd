@@ -17,7 +17,7 @@ tags:
 -   **Race:** [Tiefling](https://www.dndbeyond.com/races/7-tiefling) 
 -   **Class:** [Rogue](https://www.dndbeyond.com/classes/rogue) 
 -   **Gender:** Male
--   **Height:** 5'2"
+-   **Height:** 5' 2"
 
 _[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/91913267)_
 
