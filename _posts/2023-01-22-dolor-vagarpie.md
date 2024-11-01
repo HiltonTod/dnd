@@ -16,12 +16,12 @@ tags:
 -   **Name:** Dolor Vagarpie (dow·lor vah·gar·pee)
 -   **Race:** [Tiefling](https://www.dndbeyond.com/races/7-tiefling) 
 -   **Class:** [Rogue](https://www.dndbeyond.com/classes/rogue) 
--   **Gender:** Male 
+-   **Gender:** Male
+-   **Height:** 5'2"
 
 _[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/91913267)_
 
 ## Backstory
-
 
 Dolor's parents, Amar and Alegría were well known jewelers and watchmakers, renowned for their exquisite craftsmanship. They roamed Eritz traveling the Ha-derech from Mirganor to Elsemar and back. They offered they skills acting as tinkers and craftspeople to the various communities and cities they encountered during their travels never charging more than they thought their clients could afford.
 
