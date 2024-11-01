@@ -17,6 +17,7 @@ tags:
 -   **Race:** [Rock Gnome](https://www.dndbeyond.com/races/18-gnome) 
 -   **Class:** [Artificer](http://dnd5e.wikidot.com/artificer) 
 -   **Gender:** Male
+-   **Height:** 3' 4"
 
 _[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/91907489)_
 
