@@ -31,3 +31,18 @@ Eventually as he grew older, Dolor realized that some of the rich clients his pa
 
 While he is still close with his family, Dolor wants to more deeply discover his future as a rogue and doing so while traveling with the family could put them at risk so he decided it was time to make his own way and discover his own path. 
 This is what led him to be on the road that fateful day he met the others (and Ben).
+
+<!--
+Update on Dolor's background, when Doug changed him from being pure rogue to Rogue 5/Warlock 3.
+
+From Messenger Nov 5, 2024 (8:38 AM):
+
+Doug: I went ahead and respecced Dolor to Rogue 5/Warlock 3 (taking Warlock to 5, then we will see)
+Genie patron and pact of the blade made sense (pact weapon is the gleaming blade), still the scout subclass in Rogue
+
+Doug: After traveling with Mond and Grindlefoot, Dolor has realized that he and his entire family have hidden from their legacy  because of the magic that is innate to them, this is a huge part of why he is so bent on addressing wrongs that he sees, he has spent his life feeling like he needs to hide who he truly is
+
+Doug: All of the people asking why he is here, have finally made him realize that not only does his honor demand it but also he needs to address this so he can embrace all of himself.
+
+Doug: As for where the fighter stuff went, in my mind, when he reached out to the Genie to enter into the warlock pact, he was given the option to abandon the recent training in the martial world in exchange for gaining power in the arcane world, he embraced that bargain which is how we ended up rogue 5, warlock 3 (giving up rogue makes no sense to him since it is such a core part of who he is and his history)
+-->
