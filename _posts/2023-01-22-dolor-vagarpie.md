@@ -35,6 +35,16 @@ This is what led him to be on the road that fateful day he met the others (and B
 <!--
 Update on Dolor's background, when Doug changed him from being pure rogue to Rogue 5/Warlock 3.
 
+From Messenger Nov 2, 2024 (9:44 AM):
+
+Doug: yeah, I think a respec is coming for Dolor as he discovers that he leans more towards magic than just hack and slash and delves into that part of his legacy and personality
+
+Doug: part of what is driving this is the realization that his artistry and glass blowing has always leaned on this without his conscious awareness and he is now becoming cognizant of how much he already lives in that world
+
+Doug: there will always be a rogue in his heart but the fighter feels like a path diversion he took due to assumptions and misunderstandings of what he truly needed to be himself
+
+Doug: honestly, it was pretty interesting to me how when I stopped thinking about DnD and just thought about Dolor and his life, the choices were pretty simple (I was min maxing without realizing I was min maxing)
+
 From Messenger Nov 5, 2024 (8:38 AM):
 
 Doug: I went ahead and respecced Dolor to Rogue 5/Warlock 3 (taking Warlock to 5, then we will see)
