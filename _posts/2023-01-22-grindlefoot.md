@@ -14,12 +14,12 @@ tags:
 ## Statistics
 
 -   **Name:** Grindlefoot (grin·dl·fut)
--   **Race:** [Halfling](https://www.dndbeyond.com/races/14-halfling) 
+-   **Species:** [Halfling](https://www.dndbeyond.com/species/14-halfling) 
 -   **Class:** [Druid](https://www.dndbeyond.com/classes/druid) 
 -   **Gender:** Male 
 -   **Height:** 3' 1-1/2"
 
-_[Character sheet at D&D Beyond]()_
+_[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/105024227)_
 
 ## Backstory
 
