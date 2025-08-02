@@ -13,7 +13,7 @@ tags:
 
 ## Statistics
 
--   **Name:** Grindlefoot (grin·dl·fut)
+-   **Name:** Grindlefoot (grin·dil·fut)
 -   **Species:** [Halfling](https://www.dndbeyond.com/species/14-halfling) 
 -   **Class:** [Druid](https://www.dndbeyond.com/classes/druid) 
 -   **Gender:** Male 
