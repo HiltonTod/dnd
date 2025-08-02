@@ -14,7 +14,7 @@ tags:
 ## Statistics
 
 -   **Name:** Xantic Gearslip (zan·tuhk geer·slip)
--   **Race:** [Rock Gnome](https://www.dndbeyond.com/races/18-gnome) 
+-   **Species:** [Rock Gnome](https://www.dndbeyond.com/species/18-gnome) 
 -   **Class:** [Artificer](http://dnd5e.wikidot.com/artificer) 
 -   **Gender:** Male
 -   **Height:** 3' 4"
