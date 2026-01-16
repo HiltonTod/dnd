@@ -15,7 +15,7 @@ tags:
 
 -   **Name:** Dolor Vagarpie (dow·lor vah·gar·pee)
 -   **Species:** [Tiefling](https://www.dndbeyond.com/species/7-tiefling) 
--   **Class:** [Rogue](https://www.dndbeyond.com/classes/rogue) 
+-   **Class:** [Rogue](https://www.dndbeyond.com/classes/rogue) and [Warlock](https://www.dndbeyond.com/classes/2190885-warlock)
 -   **Gender:** Male
 -   **Height:** 5' 2"
 
