@@ -19,7 +19,9 @@ tags:
 -   **Gender:** Female
 -   **Height:** 6' 8"
 
-_[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/91974479/RZD0od)_
+_[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/91974479/7sTnjR)_
+
+<!-- ORIGINAL LINK SHARED: _[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/91974479/RZD0od)_ -->
 
 ## Backstory
 
