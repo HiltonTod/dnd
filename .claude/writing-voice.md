@@ -3,12 +3,16 @@
 Derived by reading chapters 60–77, written by Tod without assistance, and chapters 78–83,
 co-written by Tod and Claude. Supporting measurements draw on the full corpus, chapters 1–83.
 
+One exception to "written by Tod": **chapter 26 carries the comment `Originally written by Liam and
+edited by Tod`**, and Liam's raw session notes are preserved below it. It is the only chapter in
+1–77 with another author's hand in it, and it reads slightly differently — more past tense, more
+summary — which is worth knowing before treating it as a style sample.
+
 Quotes below are verbatim from the repo. This file exists so the voice lives in the repo rather
 than in any one tool's memory.
 
-**Reading coverage.** Chapters 40–52 and 56–83 have been read in full — 53–55 do not exist, so that
-is every chapter from 40 on. Chapters 1–39 have not been read; observations about them are
-measurements only. Everything below is measured across all 83 chapters.
+**Reading coverage.** All 83 chapters have now been read in full (53–55 do not exist). Everything
+below is both measured and read.
 
 ## The workflow that produced these
 
@@ -119,6 +123,15 @@ gives the Mac shortcut (Option + Shift + Dash), so this is a deliberate habit, n
 **Third person, present tense, always.** "Mond hangs from a rung of the ladder." Past tense only
 for things that already happened.
 
+This holds across all 83 chapters — I checked, expecting the early ones to drift, and they don't.
+Past-tense narration verbs sit near 7–11% of the total in every era of the campaign, including
+chapters 1–13. The exceptions are exactly what the rule predicts: **a sustained history or
+flashback passage goes fully past tense and then hands back.** Ch. 5's account of the Uprising and
+the founding of the Hands of the Wand, and ch. 63's flashback, are the clearest cases — each about
+half past tense, and each set off from the surrounding scene (ch. 5 puts it under its own italic
+heading, `### _The Uprising..._`). That's the move: don't half-shift inside a paragraph, shift
+wholesale for the whole passage and mark it.
+
 **Short paragraphs, and single-sentence paragraphs as punctuation.** These do real work:
 
 > Nothing happens.
@@ -142,6 +155,30 @@ flat, precise sentence about something absurd:
 > Mond fires at the last standing warforged and misses, his bolt going wide by enough that it's
 > almost impressive.
 
+**But dry understatement is the *late* register, not the only one.** The Elsemar chapters run on
+puns and parody, and they are funny. Food Alley (ch. 19–21) is built entirely out of it: **Dolly's
+Donuts**, **Eclairvoyant's Tea Shop**, **The Fizz Hutt**, and **Waffle Wizards** — a rundown
+stone castle with an iconic yellow sign, whose manager dreams of being promoted to the Beyond the
+Wall Grill or the Red Keep Bistro by the honchos at Game of Stones Restaurants. The jokes land on
+the beat:
+
+> "Do or donut, there is no try."
+
+> "Now I'm glazed and confused."
+
+> "Now, donut go causing too much a ruckus out there."
+
+Ch. 19 is the whole mode in miniature — **242 words**, the shortest chapter in the campaign. The
+party orders a dozen donuts, the donuts come alive and attack, Dolor eats the one that jumps into
+his mouth because blueberry jelly is his favorite, and it ends on the pun. That's it. It works
+because it doesn't overstay.
+
+Helper NPCs get pun names too: the tabaxi guide **Rightside** ("Rightside will do ya right!") and
+the tabaxi cartographer **Whichway** at a map shop called **The Four Corners**.
+
+This register mostly disappears after Elsemar. It doesn't have to. A pun chapter is a legitimate
+change of pace, and the campaign has gone a long time without one.
+
 **Dialogue carries the story.** In chapters 56–77, spoken words are **24% of the prose**. The
 characters talk — to each other, to NPCs, to corpses. Scenes advance through what people say.
 See the "Yours vs. Claude's" section below: this is the single biggest thing to protect.
@@ -160,6 +197,25 @@ Comedy and competence both come from character, never from the narrator:
 - **Dolor** — fastidious, analytical, keeps things to himself. Examines a dying warforged "the way
   he'd give a timepiece whose mechanism had gone still."
 - **Mond** — showy, theatrical, a "predatory smirk." Occasionally says the tactless thing.
+
+**The party in chapters 1–13 is not the party you know.** Bilwin and Mond do not exist yet. The
+founding four are Dolor, Gven, Grindlefoot, and **Xantic, a gnome artificer** — plus McGillicutty,
+the homunculus servant Xantic builds in ch. 7, who communicates only by pantomime and dances the
+Carlton. Xantic is the engine of the early comedy: he stabs his own foot to test a healing potion,
+blows up a child's doll with an eldritch cannon before anyone can stop him, cooks a "garbage
+omelet," and knocks himself unconscious on a table before the Battle of Wayside so he misses the
+whole thing.
+
+**Bilwin and Mond enter in ch. 14**, walking the Ha-derech as strangers to each other and to
+everyone else, arriving at Wayside just after the battle ends. In the same chapter Xantic leaves
+for good, staying behind to protect the town. That is the roster changing over inside one chapter,
+and it is handled entirely through scene — no announcement.
+
+The group name also moves: **"the Mixed Nuts"** (Gven coins it under pressure in ch. 2) becomes
+**"Chimera's Bane"** (Dolor renames them in ch. 7, waking from a dream). Grak still gets it wrong
+in ch. 14: *"Well done, Mixed Nuts! Oops, I mean huzzah, Chimera's Bane!"*
+
+When writing anything that reaches back before ch. 14, check who was actually there.
 
 **Epithets are part of your voice, not a flaw to edit out.** "The dwarf," "the tiefling," "the
 half-orc," "the sorcerer" appear **411 times across chapters 56–77** — 71 per 10,000 words. The
@@ -238,11 +294,27 @@ campaign. This is the hardest thing to imitate and the most important to get rig
 | The sphinx | Bored and deadpan; answers only what it was built to answer |
 | Dave Chevits | Fences with knitting needles; opens by disambiguating themself from David Shevitz |
 | Tham (Thamnoki Grumblebuster) | Heavy phonetic Scots, every line. "Ach, aye. This is whit I wis lookin' for! Cannae leave wi'oot some scran, noo can I." |
+| Cap'n Don Karnahge | Phonetic Scots plus delight in his own machinery. "It wirks! It really wirks!" Two rules on his ship, and rule one is "dinnae faw aff" |
+| Cindel | Self-mythologizing. "Huzzah!", a billowing cape, and a shaft of sunlight that finds her *and only her* on an overcast day |
+| Xantic | Gnome artificer, ch. 1–14. Curiosity with no brakes and no sense of consequence |
+| Rightside (tabaxi) | Helpful, eager, and derails mid-sentence whenever light catches something shiny — held consistently across ch. 16, 24, 26 |
+| Grak (goblin) | Takes offense at everything, wears no pants, and is deadly serious about both. "It's time for my pants." |
+| Hanseath, in person (ch. 32) | Spills half of every drink into his beard. "Dig deep enough, and the mountain's always there." Then: "Now, what the fuck are you doing?" |
+| Fred (half-orc pastry chef) | Slow, dry, delivers puns without acknowledging them |
 | Whelm (warhammer) | Telepathic, olde dwarven, single-minded about giants. "Aye, lad! Where them giants be hidin'?" |
 | Umberto Noblin | Gnome historian; answers a question by first listing his own book titles |
 | The water elemental (ch. 57) | Telegraphic pidgin, arriving through Dolor's translation. "No mood for fighting today. Friend offer escape, but tiny. No fit." |
 
 Give every new NPC one rule like this and hold it for every line they speak.
+
+**Phonetic Scots is your most-reused dialect, and it is getting crowded.** The tortle at the Hall
+of Records (ch. 16), Cap'n Don Karnahge (ch. 22–34), and Tham (ch. 52) are all written the same
+way, and Captain Inda's pirate is adjacent. Two of them carry working notes in the file — ch. 16
+links a Scots translator, ch. 34 keeps a plain-English version of Don's speech in a comment — so
+this is a deliberate tool, not an accident. It is effective and it is a lot of work to read. Before
+reaching for it a fifth time, give the new NPC a different axis: a rhythm (Gertrude's three-word
+sentences), a formatting tic (Redbud's `...one ...word ...at ...a ...time`), or a category error
+(404's error messages). Those distinguish an NPC without taxing the reader.
 
 Two of these are worth noting as a pattern in their own right: **magic items talk.** Whelm nags
 Bilwin through three straight chapters (50, 51, 52), always about giants, always at the wrong
@@ -299,10 +371,17 @@ and make the cost visible.
 
 ## Verse
 
-Prophecies and riddles are set as markdown blockquotes with `<br>` line breaks (ch. 20, 45, 47, 48,
+Prophecies and riddles are set as markdown blockquotes with `<br>` line breaks (ch. 45, 47, 48,
 50). The White Plume prophecy runs five stanzas. Gustaf's reaction is the model for how to undercut
 your own verse: *"the author could have used an editor. Evocative imagery and clear structure, but
 the cadence is uneven and phrasing repetitive."*
+
+The blockquote is not only for verse. Ch. 20 gives four full paragraphs of blockquote — no `<br>`,
+no line breaks — to Thistlewick Brandlestrum climbing onto a stool to deliver an unhinged oration
+about **kombucha**: "the elixir of the enlightened, the nectar of the ancients… a celestial tango
+of opposites that finds unity in your mouth." Nothing plot-relevant happens in it. It is a comic
+aria, and the blockquote is what marks it as a performance rather than dialogue. Use the form when
+a character delivers a set piece, not just when something rhymes.
 
 ## Banter inside combat
 
@@ -356,12 +435,33 @@ Housekeeping stays terse: `Long rest….`
 
 Guest players get a trailing italic credit: `_Guest player: Kimber Hilton as Mercy, the warforged_`
 
+The device starts at ch. 39 and has been used five times: ch. 39 and 42 (Nyx Whiskerfang, played by
+two *different* guest players — Chris Sells, then Kimber Hilton), ch. 47 (Dave Chevits), and ch. 77
+and 78 (Mercy). A recurring guest character surviving a change of player is worth remembering: the
+character belongs to the campaign, not to the guest.
+
 ## Continuity
 
 Reach back. Chapter 80 calls on the chimera, the kraken, and the Hertilod from the god's heart.
 Chapters 81–82 build Dolor's parents-built-this-colossus thread across two sessions. NPCs are
 remembered by name and their earlier behavior. Check the appendix
 (`_posts/2023-01-23-appendix.md`) for people, places, and history before inventing a detail.
+
+**Origins worth knowing, since the signature items all come from chapters 1–39:**
+
+- **Gleaming Blade** is looted off a goblin corpse in ch. 7 and mistaken for a rusty old sword;
+  Dolor attunes to it in ch. 9 and learns it belonged to a paladin.
+- **Tempest Edge** is a *gift* from **Veylara**, a storm giant, in ch. 32 — it is her boot dagger,
+  sister-forged to her own greatsword, and it is longer than Gven is tall. **This debt is still
+  open.** Gven promised to return the blade one day, and Veylara holds her family's Gruumsh
+  medallion — carved by Gven's father — as the counter-gift, worn as an earring. Any scene that
+  wants to land on Gven should know this exists.
+- **Bilwin's hurdy-gurdy** spends thirty chapters as a joke — he plays it terribly and mostly uses
+  the case as a club — until ch. 34 and 37, where he plays beautifully in Dwarven and only Gven
+  can understand the words. The instrument being genuinely good when it matters is a setup that
+  took a very long time to pay off.
+- **Torp is Davanor** (ch. 28), Gven's brother turned zealot, planning the genocide of every magic
+  user in Eritz. Gven's whole reason for being on the road in ch. 1 is looking for him.
 
 ## Chapter openings
 
@@ -426,12 +526,33 @@ drafted chapters cut the hedging verbs to near zero, which is a genuine improvem
 
 ## Abandoned experiments — don't revive
 
-- **List-form combat.** Combat was originally written as a bulleted list, one item per player's
-  turn per round. It was replaced by prose because prose reads far better. The
-  `<!-- Step-by-step -->` blocks in chapters 2, 3, 38, 39, and 43 are transitional residue from
-  that switch — the mechanical list moved into a comment while the prose was written from it.
-  **Do not create `<!-- Step-by-step -->` sections.** Combat goes straight to prose. The last use
-  of either form was chapter 43, forty chapters ago.
+- **List-form combat.** This was a much bigger and later thing than an earlier draft of this file
+  recorded, and the sequence ran the other way. The real history:
+
+  | Chapters | Combat form |
+  |---|---|
+  | 1–4 | Prose. Ch. 1 puts it under a rendered `## Fight choreography` heading; ch. 2–4 keep the mechanical list in `<!-- Step-by-step -->` comments and write prose from it |
+  | 6–36 | **Rendered bulleted lists were the published combat text** — one bullet per turn, damage numbers on the page, under a visible `## Fight choreography` H2 |
+  | 38, 39, 43 | Prose again, list demoted back into `<!-- Step-by-step -->` comments |
+  | 44–83 | Prose only, mechanics entirely in comments |
+
+  Twenty chapters carry the rendered heading: 1, 6, 7, 8, 9, 10, 12, 13, 14, 17, 21, 25, 27, 29,
+  30, 31, 33, 35, 36, 38. Ch. 13's Battle of Wayside runs twelve numbered rounds as a pure list.
+  So the `<!-- Step-by-step -->` blocks at 38/39/43 are not residue of an abandoned start — they
+  are the **transition back out** of a thirty-chapter published-list era, the last stage before
+  the mechanics disappeared into comments for good.
+
+  The conclusion is unchanged and now better supported: **prose won, and it is not close.** Ch. 13
+  as a list is unreadable next to ch. 35's jungle or ch. 38's grung fight. **Do not create
+  `<!-- Step-by-step -->` sections and never render mechanics on the page.** But know that the
+  early chapters look the way they do because that *was* the format, not because they were
+  drafts.
+
+  Two heading variants show the form was used for more than fights: `## Encounter choreography`
+  (ch. 10, the stealth rescue of Vera from the hill giant) and `## Storm choreography` (ch. 30,
+  eight rounds of the crew climbing masts in a gale). The storm one is genuinely effective as a
+  structure — a non-combat set piece with initiative and rounds — and is worth remembering as a
+  way to stage a group physical crisis, even though it should be written as prose now.
 
 - **Bulleted lists** appear in 18 chapters, all at ch. 36 or earlier (loot tallies, mostly). You
   stopped, and the prose is better for it — with **one deliberate exception**: ch. 58 sets out what
@@ -441,9 +562,30 @@ drafted chapters cut the hedging verbs to near zero, which is a genuine improvem
   the reader four plot facts they'll need later without a paragraph of throat-clearing. Reserve the
   form for that: notes, ledgers, and research the characters are reading — never for what the party
   did or what it looted.
-- **`<details>` collapsible blocks** appear only in chapters 25 and 28.
-- **The narrator addressing the reader** happens exactly once, in ch. 16: "_For brevity's sake, the
-  narrator has left out much of the dialog…_" Never repeated.
+- **`<details>` collapsible blocks** appear only in chapters 25 and 28 — and they are not a prose
+  device at all. They hold an author-facing *synopsis* of the chapter, bulleted, written when the
+  prose wasn't finished in time. Ch. 28 says so in a comment: "The following summary was
+  temporarily written up, giving me time to fully vet the conversation between Gven and Torp."
+  Useful to know as a stopgap; the two that shipped were never replaced with prose.
+
+- **The narrator addressing the reader** was recorded here as happening exactly once, in ch. 16
+  ("_For brevity's sake, the narrator has left out much of the dialog…_"). **That is wrong.** Ch.
+  16 is the most explicit instance, not the only one. Direct second person to the reader shows up
+  in narration at least four more times, all early:
+
+  > You note that the patrons treat the younger woman with respect, not the typical bawdiness you
+  > might encounter in such a crowd. *(ch. 2)*
+
+  > You don't mess with the Pride and Comfort without experiencing the consequences. *(ch. 5)*
+
+  > There are still plenty of ways to spend your hard-earned coin… *(ch. 22)*
+
+  > Rightside looks as you'd expect a wet cat to look. *(ch. 26)*
+
+  There is also a narrator's conspiratorial "…, mind you" in ch. 20, 24, 34, and once as late as
+  ch. 74. The habit fades after the Elsemar arc rather than stopping dead. **Still don't do it** —
+  the guidance was right even though the history wasn't — but don't be surprised to find it, and
+  don't "fix" it in an old chapter.
 
 ## Proofreading
 
@@ -454,6 +596,11 @@ times. Others that recur: `concious`, `acquiesence`, `irridescent`, `death throw
 None of it hurts the storytelling, and the voice is strong enough to carry them — but a spellcheck
 pass before publishing is the single cheapest improvement available. Watch `halfing` especially;
 spellcheck may not flag it.
+
+One a spellcheck will never catch: **Nyx's surname is spelled two ways.** Ch. 39's prose calls him
+"Nyx Whisperfang" four times, while its own guest-player credit — and ch. 41 and 42 — say
+"Whiskerfang." Whiskerfang is the one that stuck. Same class of error to watch for with any name
+introduced mid-fight.
 
 ## Don't
 
