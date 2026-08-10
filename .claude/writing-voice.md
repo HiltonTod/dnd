@@ -256,19 +256,6 @@ mid-melee — *"You really need a better skin care routine"* … *"It's a specia
 all-natural, organic ingredients that I apply twice a day."* Combat is where character comedy
 happens, not a break from it.
 
-## How combat gets drafted
-
-Five chapters (2, 3, 38, 39, 43) preserve `<!-- Step-by-step -->` beat sheets in comments — a
-mechanical list of who did what for how much damage — with the prose written from it afterward:
-
-```
-* Grindlefoot - Scoops up a handful of sand and casts Fog Cloud above their heads…
-* Mond - Casts his signature pink Lightning Bolt at one of the smaller soldiers, for 30 points
-  damage, killing them instantly.
-```
-
-If notes arrive in this shape, that's the source material. Narrate from it; don't reproduce it.
-
 ## Markers and devices
 
 - `_The group has learned the secret of X, …_` — italic, closes a secret-learned beat (ch. 65, 70, 71, 76)
@@ -361,6 +348,13 @@ Those five adverbs total roughly **30 per 10,000 words** — about one every twe
 drafted chapters cut the hedging verbs to near zero, which is a genuine improvement worth keeping.
 
 ## Abandoned experiments — don't revive
+
+- **List-form combat.** Combat was originally written as a bulleted list, one item per player's
+  turn per round. It was replaced by prose because prose reads far better. The
+  `<!-- Step-by-step -->` blocks in chapters 2, 3, 38, 39, and 43 are transitional residue from
+  that switch — the mechanical list moved into a comment while the prose was written from it.
+  **Do not create `<!-- Step-by-step -->` sections.** Combat goes straight to prose. The last use
+  of either form was chapter 43, forty chapters ago.
 
 - **Bulleted lists** appear in 20 chapters, nearly all before ch. 36 (loot tallies, mostly). You
   stopped, and the prose is better for it.
