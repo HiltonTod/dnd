@@ -6,6 +6,11 @@ co-written by Tod and Claude. Supporting measurements draw on the full corpus, c
 Quotes below are verbatim from the repo. This file exists so the voice lives in the repo rather
 than in any one tool's memory.
 
+**Reading coverage.** Chapters 40–49 and 60–83 have been read in full. Chapters **50, 51, 52, 56,
+57, 58, and 59 have not** — 53–55 do not exist. Everything below is measured across all 83 chapters,
+but the qualitative observations come only from the chapters read. The unread run sits inside the
+puzzle/set-piece arc (ch. 41–52), so that section is the most likely to need expanding.
+
 ## The workflow that produced these
 
 From your own note in `2026-05-04-chapter-78.md`:
