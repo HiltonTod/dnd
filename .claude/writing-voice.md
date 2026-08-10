@@ -1,8 +1,10 @@
 # Writing voice
 
-Derived by reading chapters 78–83 (the Claude-drafted, hand-edited run) against chapter 77 (the
-last fully hand-written one). Quotes below are verbatim from the repo. This file exists so the
-voice lives in the repo rather than in any one tool's memory.
+Derived by reading chapters 60–77, written by Tod without assistance, and chapters 78–83,
+co-written by Tod and Claude. Supporting measurements draw on the full corpus, chapters 1–83.
+
+Quotes below are verbatim from the repo. This file exists so the voice lives in the repo rather
+than in any one tool's memory.
 
 ## The workflow that produced these
 
