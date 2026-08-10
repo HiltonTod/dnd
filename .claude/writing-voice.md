@@ -145,9 +145,70 @@ Spells and rules terms are inline links to D&D Beyond, described in-world rather
 mechanically where possible: "three crackling beams of energy," "a bolt of light," "his spiritual
 beer stein."
 
-**One interior beat per chapter, at most.** The model is Gven's paragraph in chapter 80 — a
-mid-combat recollection of the chimera, the kraken, the Hertilod, landing on "And this creature
-chose the wrong barbarian." It earns the kill that follows. Overusing this would wreck it.
+A mid-combat interior beat is allowed and effective — Gven's paragraph in chapter 80 recalls the
+chimera, the kraken, and the Hertilod before landing on "And this creature chose the wrong
+barbarian," earning the kill that follows. One per fight is plenty.
+
+## The round-robin — your signature structure
+
+Outside combat, the move that recurs more than any other is **giving every companion an interior
+beat in sequence**, one short section each:
+
+- **Ch. 63** — four dreams after the first night in Lord Neverwinter's manor
+- **Ch. 67** — five bath scenes, one per character, each surfacing a private preoccupation
+- **Ch. 68** — four dream recollections, capped by Mond's joke that he slept fine
+- **Ch. 76** — the warforged each answer "did you choose your name, or was it given?"
+
+This is where the campaign's emotional continuity lives: Bilwin's lost dwarven company, Gven's
+brother, Mond's freedom to use magic openly, Grindlefoot's spider-self, Dolor's parents' workshop.
+Combat advances plot; the round-robin advances character.
+
+Use it at every rest, arrival, or downtime beat. Vary the frame — dreams, baths, a shared question,
+a quiet evening around Dolor's glory hole. Chapters 78–83 contain **none** of these, which is a
+bigger loss than the dialogue drop.
+
+## Non-combat chapters are a mode, not a gap
+
+Chapters 63, 74, and 75 have essentially no fighting and are among the strongest in the run: the
+two months settling into Neverwinter and the arrival of Eva Brightbroom; Tasha turning Gven into a
+goldfish and letting her suffocate to teach her manners; Grindlefoot scrying his garden through a
+potato; Bilwin's three yes-or-no questions to a drunk Hanseath.
+
+Don't treat a session light on combat as a thin chapter. It's an opportunity.
+
+## NPC voice is the craft
+
+Every named NPC gets a distinct verbal signature, and they're the most memorable thing in the
+campaign. This is the hardest thing to imitate and the most important to get right:
+
+| NPC | Register |
+|---|---|
+| Gertrude (cyclops) | Three-to-five-word sentences. "I'll smash for you!" "Mine." "Go find friend. After smash." |
+| Redbud (treant) | `...One ...word ...at ...a ...time`, literally typed that way |
+| Ikasa (blink dog) | Excited fragments, dog logic. "You smell like fire. I like it." |
+| 404 (warforged) | Error messages. "Name not found!" "Purpose found!" |
+| Captain Inda | Heavy phonetic pirate. "Aye, so might a skulking bilge-rat…" |
+| Tasha | Arch and camp. "Speak for yourself, darling. Some of us are _always_ fabulous." |
+| Eva Brightbroom | Mary Poppins, never once acknowledged. "I never explain anything." |
+| Hanseath | Drunk god who breaks the fourth wall on game rules |
+| Maltok | Flat, literal telepathy. "Feels sturdy. It would work in battle. And kill fish." |
+
+Give every new NPC one rule like this and hold it for every line they speak.
+
+## Markers and devices
+
+- `_The group has learned the secret of X, …_` — italic, closes a secret-learned beat (ch. 65, 70, 71, 76)
+- `_The adventurers advance to level N._` — italic, ends the chapter
+- `Long rest....` / `Short rest....` — four dots, on its own line
+- `_Guest player: Name as Character_` — italic credit at the end
+- Player-drawn maps embedded as images, credited to Mond or Gustaf
+
+## Profanity
+
+Used sparingly and always as a punchline or a pressure release, never as texture. "Well, fuck."
+ends chapter 63. Elden shrugs "Fuck you all" and jumps into a portal. Kycera's "Get that fucker!"
+launches a fight. Grindlefoot's "Do you want to fuck yarn or do you want this?" is the biggest
+laugh in the run. Keep it rare enough that it lands.
 
 ## Emotional scenes
 
@@ -232,6 +293,16 @@ drafted chapters cut the hedging verbs to near zero, which is a genuine improvem
 - **`<details>` collapsible blocks** appear only in chapters 25 and 28.
 - **The narrator addressing the reader** happens exactly once, in ch. 16: "_For brevity's sake, the
   narrator has left out much of the dialog…_" Never repeated.
+
+## Proofreading
+
+Chapters 60–77 carry roughly 48 recurring misspellings. `halfing` for `halfling` alone appears 11
+times. Others that recur: `concious`, `acquiesence`, `irridescent`, `death throws` (for "throes"),
+`occured`, `catastrophy`, `posessions`, `accomodations`, `demeaner`, `respit`.
+
+None of it hurts the storytelling, and the voice is strong enough to carry them — but a spellcheck
+pass before publishing is the single cheapest improvement available. Watch `halfing` especially;
+spellcheck may not flag it.
 
 ## Don't
 
