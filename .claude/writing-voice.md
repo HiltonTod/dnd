@@ -526,8 +526,13 @@ drafted chapters cut the hedging verbs to near zero, which is a genuine improvem
 
 ## Abandoned experiments — don't revive
 
-- **List-form combat.** This was a much bigger and later thing than an earlier draft of this file
-  recorded, and the sequence ran the other way. The real history:
+- **List-form combat.** **All combat is prose. That is the standard for every chapter, including
+  the early ones.** The bulleted turn-by-turn lists still sitting in chapters 6–36 are not a style
+  to respect or preserve — they are an unrewritten backlog the author intends to convert to prose
+  and hasn't gotten to yet. Treat them as work not yet done, never as precedent.
+
+  With that established, the history is worth recording because it tells you which chapters need
+  the work. An earlier draft of this file had the sequence backwards:
 
   | Chapters | Combat form |
   |---|---|
@@ -536,17 +541,24 @@ drafted chapters cut the hedging verbs to near zero, which is a genuine improvem
   | 38, 39, 43 | Prose again, list demoted back into `<!-- Step-by-step -->` comments |
   | 44–83 | Prose only, mechanics entirely in comments |
 
-  Twenty chapters carry the rendered heading: 1, 6, 7, 8, 9, 10, 12, 13, 14, 17, 21, 25, 27, 29,
-  30, 31, 33, 35, 36, 38. Ch. 13's Battle of Wayside runs twelve numbered rounds as a pure list.
-  So the `<!-- Step-by-step -->` blocks at 38/39/43 are not residue of an abandoned start — they
-  are the **transition back out** of a thirty-chapter published-list era, the last stage before
-  the mechanics disappeared into comments for good.
+  So the `<!-- Step-by-step -->` blocks at 38/39/43 are the **transition out** of the list era —
+  the mechanics moving into comments while prose was written from them — not residue of an
+  abandoned start.
 
-  The conclusion is unchanged and now better supported: **prose won, and it is not close.** Ch. 13
-  as a list is unreadable next to ch. 35's jungle or ch. 38's grung fight. **Do not create
-  `<!-- Step-by-step -->` sections and never render mechanics on the page.** But know that the
-  early chapters look the way they do because that *was* the format, not because they were
-  drafts.
+  **The rewrite worklist.** Nineteen chapters still have rendered mechanics on the page and want
+  converting: **6, 7, 8, 9, 10, 12, 13, 14, 17, 21, 25, 27, 29, 30, 31, 33, 35, 36, 38.** (Ch. 1
+  has the `## Fight choreography` heading but its combat is already prose — it only needs the
+  heading dropped.) Ch. 13's Battle of Wayside is the biggest job: twelve numbered rounds, pure
+  list, no prose at all.
+
+  When converting, the model is ch. 38 — same fight, both forms, side by side in one file. The
+  comment says "Green grung 4 - Grapples Dolor and rubs his hands over Dolor's neck"; the prose
+  says the fourth creature "lands on Dolor's back, grabs hold tightly of his neck, and secretes a
+  slimy substance onto his skin," and later Dolor wonders where a naked frog was keeping a knife.
+  Keep the list in the comment as the working record, write the prose from it, drop the numbers.
+
+  **Never create `<!-- Step-by-step -->` sections in new work, and never render mechanics on the
+  page.**
 
   Two heading variants show the form was used for more than fights: `## Encounter choreography`
   (ch. 10, the stealth rescue of Vera from the hill giant) and `## Storm choreography` (ch. 30,
