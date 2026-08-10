@@ -4,9 +4,13 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–39**, read in full. Chapters 40–83 are not yet written up here at this
-depth. The threads below are traced as far as ch. 39; where one is known to continue later it says
-so, but the later arcs deserve their own pass.
+**Coverage: chapters 1–39**, read in full, cross-checked against the appendix. Chapters 40–83 are
+not yet written up here at this depth. The threads below are traced as far as ch. 39; where one is
+known to continue later it says so, but the later arcs deserve their own pass.
+
+Note that **chapters 53–55 do not exist as posts** — they were sessions that never got written up.
+The appendix records their content (the arrival in Neverwinter, the Gilded Glyph, Hallix Mausoleum,
+meeting Alustriel Silverhand), and ch. 56 opens as if the reader had been there.
 
 ---
 
@@ -18,10 +22,14 @@ Four strangers walking the Ha-derech west toward Elsemar, each for their own rea
 in ch. 2, then **Chimera's Bane** from ch. 7 on, after Dolor renames them coming out of a dream.
 
 They save a halfling shopkeeper, **Ben Dabbler**, from bandits and follow him home to Wayside. Ben
-farms **Hero's Wort**, a stimulant crop, and a **chimera** has been burning his fields. The elf
-**Cindel** — scorched armor, billowing cape, a shaft of sunlight that finds her and only her on an
+farms **Hero's Wort**, a stimulant crop, and a **chimera** has been burning his fields. **Cindel
+Trueshot** — scorched armor, billowing cape, a shaft of sunlight that finds her and only her on an
 overcast day, "Huzzah!" — sells them the job and a recipe for Chimera's Bane, which she later
 admits is "a traditional preparation for battling chimeras, but it's also total bullshit."
+(Chapters 1–4 call Cindel an elf; the appendix calls her half-elven. Unresolved.)
+
+The road they're on is **the Ha-derech**, and the appendix preserves the joke: *ha-derech* already
+means "the road," so everyone calling it "the Ha-derech" is saying "the the road."
 
 The job goes sideways: Cindel and her band, **the Low Elves**, are caught stealing Ben's crop
 because Hero's Wort makes her faster and sharper and she needs to be better. The party fights them,
@@ -60,6 +68,11 @@ No announcement, no summary. The roster turns over inside one chapter, entirely 
 Gven's search for her brother **Torp**, who left their tribe eight years ago for his *Coming Out*
 and was seen in Elsemar looking unhappy, in a building topped by a statue of a merchant standing on
 an orc.
+
+The appendix supplies the detail that makes this an arc rather than an errand: **Gven is on her own
+*Coming Out* journey while searching for him.** Both siblings walked out of the same tribe on the
+same rite of passage. Torp came back a zealot. Whatever Gven becomes is the other answer to the
+same question, and the campaign has been running that comparison since ch. 5 without stating it.
 
 Elsemar is where the campaign's politics live. Since **The Conflict** (also called The Uprising),
 magic and religion are legal but watched: the **Hands of the Wand** monitor arcane users, the **Eyes
@@ -155,6 +168,13 @@ in ch. 34 and 37, and only Gven can understand the words.
 the exact amount owed and nothing more. "Justice wears many faces." Gleaming Blade is looted off a
 goblin as a rusty sword in ch. 7 and turns out to be a paladin's. His running gag — the agile rogue
 who is the only one who ever falls — starts in ch. 36 and pays off across 37 and 38.
+
+He is called a rogue but doesn't fight like one class: by ch. 38 he's using Action Surge and Second
+Wind (fighter) alongside Uncanny Dodge (rogue), and later chapters give him Green-Flame Blade and
+Toll the Dead. The appendix explains the last of it — **his warlock powers come from a deal with
+Fenseck**, an efreeti/djinni, who first appears disguised as **Dave Chevits**, the halfling with the
+knitting needles locked under the ziggurat in ch. 47. Dolor's patron was in the room, in costume,
+before the reader knew there was a patron.
 
 **Grindlefoot** — quiet competence, played straight. Wild shapes into whatever the moment needs and
 gets stuck in his own webbing at least twice. Comic cover story: whenever he has to vanish, the

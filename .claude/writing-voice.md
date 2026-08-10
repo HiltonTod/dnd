@@ -292,7 +292,7 @@ campaign. This is the hardest thing to imitate and the most important to get rig
 | Gustaf Mondalbrot | Verbose archaeologist; digresses, name-drops his own adventures, undercuts himself |
 | Nyx (tabaxi) | Laconic, dry. "I got hungry." Feline tells slipped in — a purr, a lope |
 | The sphinx | Bored and deadpan; answers only what it was built to answer |
-| Dave Chevits | Fences with knitting needles; opens by disambiguating themself from David Shevitz |
+| Dave Chevits | Fences with knitting needles; opens by disambiguating themself from David Shevitz. **This is a disguise** — see below |
 | Tham (Thamnoki Grumblebuster) | Heavy phonetic Scots, every line. "Ach, aye. This is whit I wis lookin' for! Cannae leave wi'oot some scran, noo can I." |
 | Cap'n Don Karnahge | Phonetic Scots plus delight in his own machinery. "It wirks! It really wirks!" Two rules on his ship, and rule one is "dinnae faw aff" |
 | Cindel | Self-mythologizing. "Huzzah!", a billowing cape, and a shaft of sunlight that finds her *and only her* on an overcast day |
@@ -316,10 +316,17 @@ reaching for it a fifth time, give the new NPC a different axis: a rhythm (Gertr
 sentences), a formatting tic (Redbud's `...one ...word ...at ...a ...time`), or a category error
 (404's error messages). Those distinguish an NPC without taxing the reader.
 
-Two of these are worth noting as a pattern in their own right: **magic items talk.** Whelm nags
+**Dave Chevits is not a person.** The appendix records that the knitting halfling locked under the
+ziggurat in ch. 47 is **Fenseck**, the efreeti/djinni who granted Dolor his warlock powers, wearing
+a disguise. That means the funniest NPC introduction in the run is also a patron quietly inspecting
+his own warlock, and any later scene with Fenseck can reach back to it. Don't write Dave Chevits as
+a one-off gag character — he isn't one.
+
+Three of these are worth noting as a pattern in their own right: **magic items talk.** Whelm nags
 Bilwin through three straight chapters (50, 51, 52), always about giants, always at the wrong
-moment. Wave introduces itself to Dolor with four words and nothing else: *"I am Wave."* A sentient
-item gets the same treatment as an NPC — one rule, held.
+moment. Wave introduces itself to Dolor with four words and nothing else: *"I am Wave."* And
+**Blackrazor** (ch. 47) completes the set — the three sentient weapons of White Plume Mountain, all
+recovered, all talkative. A sentient item gets the same treatment as an NPC: one rule, held.
 
 Bilwin's running gags recur across chapters and should be reached for rather than reinvented.
 Ch. 56 has him spelling out "sar-kay-oh-ef-uh-guy" so the wights won't know what the party is
@@ -446,6 +453,29 @@ Reach back. Chapter 80 calls on the chimera, the kraken, and the Hertilod from t
 Chapters 81–82 build Dolor's parents-built-this-colossus thread across two sessions. NPCs are
 remembered by name and their earlier behavior. Check the appendix
 (`_posts/2023-01-23-appendix.md`) for people, places, and history before inventing a detail.
+
+**Trust the appendix, but not blindly.** It is the reference of record and it is thorough — 100+
+named characters, every shop and road, the magic items with their full mechanics. Five things in it
+are known to be wrong or stale as of this writing, so verify against the chapter before repeating
+any of them:
+
+- **Eyes of the Star and Hand of the Wand have their descriptions swapped.** Ch. 5 is explicit:
+  Hands of the Wand track *magic users* and are magic users themselves; Eyes of the Star monitor
+  *religious* groups. The appendix says the reverse. The names side with ch. 5 — wand, arcane.
+- **"Everwinter" should be "Evernight."** Ch. 59, 60, and 63 all say Evernight, and so does ch.
+  59's tag. Only the appendix says Everwinter.
+- **The Davanor entry is stale** — "unknown gender and species… person of interest in Torp's
+  disappearance." Ch. 28 revealed Davanor *is* Torp. The two are still separate entries in separate
+  sections.
+- **Seven entries link to chapters 53, 54, and 55, which don't exist** (see below).
+- **Cindel** is "half-elven" in the appendix but "elf" every time she appears in ch. 1–4.
+
+**Chapters 53–55 are unwritten sessions, not a numbering skip.** The appendix documents things
+that happened in them — Maelis Varn, the Gilded Glyph, the Fucking Duck, Hallix Mausoleum, the
+party meeting Alustriel Silverhand — and ch. 56 opens with "The adventurers leave The Gilded
+Glyph," a shop the reader has never seen. Those seven appendix links are 404s on the live site.
+If a chapter ever needs to reach back to the arrival in Neverwinter, the appendix is currently the
+only account of it.
 
 **Origins worth knowing, since the signature items all come from chapters 1–39:**
 
