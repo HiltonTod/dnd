@@ -20,18 +20,40 @@ second one finds the beats. Don't hand over a first draft as though it's finishe
 
 ## What changed at chapter 78
 
-The break between 77 and 78 is sharp, and everything after 78 keeps the new shape:
+Not a clean break. Chapter 78 is a hinge, but only some of what shifted there is real, and almost
+none of it is an improvement to copy wholesale.
 
-| | Ch. 77 and earlier | Ch. 78 onward |
+**Genuine reversals — these are what to fix:**
+
+| | Ch. 61–77 | Ch. 78–83 |
 |---|---|---|
-| Combat | Every attack narrated, round by round | Compressed; only what turns the scene |
-| Paragraphs | Dense, 5–8 lines | Short, often 1–3 sentences |
-| Line endings | Hard-wrapped at ~120 chars | No hard wrapping, one line per paragraph |
-| Em dash | Unspaced — `experience—and survival` | Spaced — `already made — it shows in their bearing` |
-| Emotional beats | Summarized | Given room, sometimes a full scene |
-| **Dialogue** | **24% of prose is spoken words** | **5%** |
+| Spoken words as % of prose | 24.3% | **5.0%** |
+| Round-robin interior sequences | ch. 63, 67, 68, 76 | **none** |
+| Chapters with little or no combat | ch. 63, 74, 75 | **none** — all six are dungeon crawl |
+| Words per chapter | 2,608 | 2,045 |
+| Spaced em dash ` — ` | 0 in 151k words | 27.7 per 10k |
 
-Match the newer column on compression and paragraphing. **Do not match it on dialogue** — see below.
+Each of these runs *against* your own trajectory. Chapter length had been growing (r = +0.54) and
+dialogue rising (r = +0.18) across the whole campaign.
+
+**Continuations, not breaks** — you were already heading here, so there is nothing to undo:
+
+- Sentence length 16.3 → 14.5 words, extending a decline since chapter 1 (r = −0.55)
+- Paragraph length 52.1 → 39.9 words, extending a decline since chapter 1 (r = −0.47)
+- `-ly` adverbs 18.0 → 13.9 per 1,000 words
+- Hedging verbs (`begins to`, `seems to`, `appears to be`) cut to near zero — a real gain
+
+**Overstated.** Combat compression is real but modest: 578 words per round in ch. 61–77 versus 415
+in 78–83, a 28% reduction rather than a categorical change. Chapter 78 itself runs 744 words per
+round, the densest in the recent run.
+
+**Not stylistic at all.** The hard-wrapping change (your lines wrap near 120 characters; the drafted
+files run one long line per paragraph) is an artifact of pasting out of a chat window.
+
+**Wrong in an earlier draft of this file, corrected here:** emotional beats were *not* previously
+summarized. Chapters 63, 66, 67, 68, and 74 give them more room than anything in 78–83 — five bath
+scenes, a childhood flashback with Torp, Grindlefoot's whole farming backstory. What 78–83 has is
+one very good scene (Mercy and Filch) and no round-robins at all.
 
 ## Your style was already moving
 
