@@ -6,10 +6,9 @@ co-written by Tod and Claude. Supporting measurements draw on the full corpus, c
 Quotes below are verbatim from the repo. This file exists so the voice lives in the repo rather
 than in any one tool's memory.
 
-**Reading coverage.** Chapters 40–49 and 60–83 have been read in full. Chapters **50, 51, 52, 56,
-57, 58, and 59 have not** — 53–55 do not exist. Everything below is measured across all 83 chapters,
-but the qualitative observations come only from the chapters read. The unread run sits inside the
-puzzle/set-piece arc (ch. 41–52), so that section is the most likely to need expanding.
+**Reading coverage.** Chapters 40–52 and 56–83 have been read in full — 53–55 do not exist, so that
+is every chapter from 40 on. Chapters 1–39 have not been read; observations about them are
+measurements only. Everything below is measured across all 83 chapters.
 
 ## The workflow that produced these
 
@@ -79,6 +78,17 @@ and dialogue *rising* (r = +0.18) — and 78–83 reverse both.
 
 The longest run of ≤10%-dialogue chapters anywhere before this was **4**, back at chapter 10. The
 drafted run is **6 consecutive**. That is the anomaly.
+
+**But dialogue rate tracks mode, not just era.** Reading the dungeon-crawl chapters confirms it:
+ch. 51 (the turnstile, the drain valve, the spinning cylinder) runs about 9% dialogue and ch. 59
+(the Vecna vision and the ghoul pit) about 8% — both as low as anything in 78–83, both written by
+you alone. Ch. 57, which is mostly the party talking to a water elemental and to Umberto, runs
+about 22% in the same arc.
+
+So a chapter that is one long corridor of rooms and fights will come in low, and that is fine. What
+78–83 did was string **six** of them together with no talking chapter in between to reset. The fix
+is not to force dialogue into a dungeon chapter — it's to make sure a dungeon run is broken up by a
+Sarcelle, an Umberto, or a Tham.
 
 ## Yours vs. Claude's
 
@@ -227,8 +237,21 @@ campaign. This is the hardest thing to imitate and the most important to get rig
 | Nyx (tabaxi) | Laconic, dry. "I got hungry." Feline tells slipped in — a purr, a lope |
 | The sphinx | Bored and deadpan; answers only what it was built to answer |
 | Dave Chevits | Fences with knitting needles; opens by disambiguating themself from David Shevitz |
+| Tham (Thamnoki Grumblebuster) | Heavy phonetic Scots, every line. "Ach, aye. This is whit I wis lookin' for! Cannae leave wi'oot some scran, noo can I." |
+| Whelm (warhammer) | Telepathic, olde dwarven, single-minded about giants. "Aye, lad! Where them giants be hidin'?" |
+| Umberto Noblin | Gnome historian; answers a question by first listing his own book titles |
+| The water elemental (ch. 57) | Telegraphic pidgin, arriving through Dolor's translation. "No mood for fighting today. Friend offer escape, but tiny. No fit." |
 
 Give every new NPC one rule like this and hold it for every line they speak.
+
+Two of these are worth noting as a pattern in their own right: **magic items talk.** Whelm nags
+Bilwin through three straight chapters (50, 51, 52), always about giants, always at the wrong
+moment. Wave introduces itself to Dolor with four words and nothing else: *"I am Wave."* A sentient
+item gets the same treatment as an NPC — one rule, held.
+
+Bilwin's running gags recur across chapters and should be reached for rather than reinvented.
+Ch. 56 has him spelling out "sar-kay-oh-ef-uh-guy" so the wights won't know what the party is
+after, and the joke gets picked up twice more in the same chapter, including as its closing line.
 
 ## Puzzle and set-piece chapters
 
@@ -241,11 +264,38 @@ some of the most inventive writing in the run:
   walks into a pit: *"There's a pit down that passage."*
 - Golems numbered 5, 7, 9, 11, 13 — pick the one that doesn't belong, ch. 48
 - Nine orbs, one real key, ch. 49
-- Timing two geysers on a 5-minute and 3-minute cycle to cross hanging discs, ch. 49–50
+- Timing two geysers on a 5-minute and 3-minute cycle to cross hanging discs, ch. 49
+- A one-way turnstile with no reverse, ch. 51
+- A ten-foot pool with a valve wheel at the bottom that drains the level, ch. 51
+- A thirty-foot spinning cylinder painted like a barber's pole, greased, with a fire trap that
+  triggers on contact, ch. 51
+- A translucent bubble holding back a cavern of boiling water, with a giant crab guarding the
+  trident Wave in the sand at its center, ch. 52
 
-Write the solution as a character thinking aloud, not as narration explaining. Dolor gets "I think
-it's more complex, most likely an exclusive binary operation"; Mond asks for ten minutes and comes
-back with the pattern.
+**Two solution modes, and the second is at least as common as the first.**
+
+*Solved.* A character reasons it out aloud, and the reasoning is the scene — not narration
+explaining it afterward. Dolor gets "I think it's more complex, most likely an exclusive binary
+operation"; Mond asks for ten minutes and comes back with "the geyser closest to us erupts every
+5 minutes… and the geyser on the far side, every 3."
+
+*Bypassed.* Just as often the party refuses the puzzle on its own terms and goes around it with an
+ability or with muscle — and the writing gets its comedy from **what the bypass costs**:
+
+- Ch. 50 abandons the geyser timing entirely once the rope is destroyed. Grindlefoot wild-shapes
+  into a giant spider and ferries everyone across the ceiling in butt-yarn. It works — except
+  Golem Number 9 is too heavy, the webbing snaps, and the golem sinks into the boiling mud, calm
+  the whole way down, waving at Gustaf before it goes under.
+- Ch. 51 answers the turnstile with Mond freezing it brittle and Gven and Dolor snapping it, which
+  leaves her slumped on the floor in exhaustion.
+- Ch. 51 answers the spinning cylinder with Dolor simply going in — he slips, ends up prone, the
+  floor bursts into flame under him, and he rolls out the far end. "If it's not a rope it's
+  something else."
+
+Neither mode is the correct one. The bypass is not a failure state to write around: it produces
+Grindlefoot's spider ferry and Dolor's second bad experience with being tied to things, and those
+are better scenes than a clean solve would have been. Write whichever one the table actually did,
+and make the cost visible.
 
 ## Verse
 
@@ -263,7 +313,9 @@ happens, not a break from it.
 
 ## Markers and devices
 
-- `_The group has learned the secret of X, …_` — italic, closes a secret-learned beat (ch. 65, 70, 71, 76)
+- `_The group has learned the secret of X, …_` — italic, closes a secret-learned beat. First used in
+  ch. 56, then 57, 65, 70, 71, 76. The `secret-learned` tag is on one more chapter than the marker
+  is (ch. 59, where the party receives Vecna's gift but no italic line closes it)
 - `_The adventurers advance to level N._` — italic, ends the chapter
 - `Long rest....` / `Short rest....` — four dots, on its own line
 - `_Guest player: Name as Character_` — italic credit at the end
@@ -330,9 +382,16 @@ Torp?" / "Now I'm glazed and confused." / "Smells like barbeque." / "that wasn't
 Other endings in use: `_The adventurers advance to level N._` (10 chapters), `Long rest….`, and
 occasionally a closing image.
 
-Watch for repetition. **Chapters 45, 46, 48, 49, 50, 51, and 52 all end with the identical map
-image** — seven chapters in a row closing on the same caption. Whatever else varies, vary the last
-beat.
+Watch for repetition. **Chapters 45, 46, 48, 49, 50, 51, and 52 all end with the same map image and
+the identical caption** — seven of the eight chapters in that span. (Ch. 47 carries the map too but
+ends on a guest-player credit instead, and ch. 43 and 44 break the run before it starts.) Whatever
+else varies, vary the last beat.
+
+The framing device around those maps does vary, and that's what saves them: Gustaf sits down to
+update the map while the others rest (ch. 50), narrates his own enthusiasm (ch. 51), or hides in the
+entry passage insisting the party surely has the giant crab under control (ch. 52). In ch. 50 the
+map beat carries real weight — Gustaf is quietly mourning Golem Number 9, the "kindred cartography
+spirit" who drowned in the mud an hour earlier.
 
 ## Crutches worth watching
 
@@ -348,6 +407,19 @@ Measured across chapters 56–77. None of these are wrong; all are load-bearing 
 | `begins to` + verb | 7.3 per 10k | "begins to walk" → "walks" |
 | `seems to` | 5.4 per 10k | Hedge |
 | `appears to be` | 4.2 per 10k | Hedge |
+| `the group/party/companions decides` | 25 uses, 24 chapters | See below |
+
+**Correction to an earlier draft of this file:** "the party decides to…" was listed as a *don't*,
+on the reasoning that characters act and groups don't deliberate on the page. That is not supported
+by the corpus. The construction appears about 25 times across 24 chapters, spread evenly from ch. 3
+to ch. 80 — including in the drafted run. It is a genuine, low-frequency habit, roughly one use
+every three chapters, not a foreign tic.
+
+It is still worth watching, because it does flatten a beat when the alternative was available. Ch.
+51's "The rest of the party decides to remain on the original side" is the weak form. Ch. 58's
+answer to the same problem is the strong one: "Gven votes with her feet, opening the previously
+hidden door in the south wall" — a character settles the group's decision by acting, and the
+sentence is funnier for it. Prefer that when it's within reach. Don't hunt down every instance.
 
 Those five adverbs total roughly **30 per 10,000 words** — about one every twelve sentences. The
 drafted chapters cut the hedging verbs to near zero, which is a genuine improvement worth keeping.
@@ -361,8 +433,14 @@ drafted chapters cut the hedging verbs to near zero, which is a genuine improvem
   **Do not create `<!-- Step-by-step -->` sections.** Combat goes straight to prose. The last use
   of either form was chapter 43, forty chapters ago.
 
-- **Bulleted lists** appear in 20 chapters, nearly all before ch. 36 (loot tallies, mostly). You
-  stopped, and the prose is better for it.
+- **Bulleted lists** appear in 18 chapters, all at ch. 36 or earlier (loot tallies, mostly). You
+  stopped, and the prose is better for it — with **one deliberate exception**: ch. 58 sets out what
+  Dolor finds in the necromancer's marginalia as a four-item list (the tangible quality of secrets,
+  the siphoning ritual, the first test subject, the Crevices of Dusk). That one earns it. A list of
+  *discovered documents* reads as the party's findings rather than as a session log, and it hands
+  the reader four plot facts they'll need later without a paragraph of throat-clearing. Reserve the
+  form for that: notes, ledgers, and research the characters are reading — never for what the party
+  did or what it looted.
 - **`<details>` collapsible blocks** appear only in chapters 25 and 28.
 - **The narrator addressing the reader** happens exactly once, in ch. 16: "_For brevity's sake, the
   narrator has left out much of the dialog…_" Never repeated.
@@ -380,7 +458,6 @@ spellcheck may not flag it.
 ## Don't
 
 - Bulleted or summarized session recaps
-- "The party decides to…" — characters act, groups don't deliberate on the page
 - Dice numbers, hit points, or rules math in the prose
 - Second person, or any authorial aside to the reader
 - Narrating every single attack (that's the pre-78 mode)
