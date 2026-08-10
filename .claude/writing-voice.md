@@ -1,18 +1,18 @@
 # Writing voice
 
-Derived by reading chapters 60–77, written by Tod without assistance, and chapters 78–83,
-co-written by Tod and Claude. Supporting measurements draw on the full corpus, chapters 1–83.
+**Derived by reading all 83 chapters in full**, plus the appendix — the complete campaign, ch. 1
+through 83. (Chapters 53–55 do not exist; they were sessions that never got written up.) Every
+observation below is both read and measured, and quotes are verbatim from the repo.
 
-One exception to "written by Tod": **chapter 26 carries the comment `Originally written by Liam and
-edited by Tod`**, and Liam's raw session notes are preserved below it. It is the only chapter in
-1–77 with another author's hand in it, and it reads slightly differently — more past tense, more
-summary — which is worth knowing before treating it as a style sample.
+Chapters 1–77 are written by Tod; chapters 78–83 are co-written by Tod and Claude. **One exception:
+chapter 26 carries the comment `Originally written by Liam and edited by Tod`**, with Liam's raw
+session notes preserved below it. It is the only chapter in 1–77 with another author's hand in it,
+and it reads slightly differently — more past tense, more summary — which is worth knowing before
+treating it as a style sample.
 
-Quotes below are verbatim from the repo. This file exists so the voice lives in the repo rather
-than in any one tool's memory.
-
-**Reading coverage.** All 83 chapters have now been read in full (53–55 do not exist). Everything
-below is both measured and read.
+Two companion files sit alongside this one: `story-so-far.md` for plot and character arcs, and
+`to-do-list.md` for tracked fixes. This file exists so the voice lives in the repo rather than in
+any one tool's memory.
 
 ## The workflow that produced these
 
