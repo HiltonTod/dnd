@@ -31,6 +31,26 @@ The break between 77 and 78 is sharp, and everything after 78 keeps the new shap
 
 Match the newer column on compression and paragraphing. **Do not match it on dialogue** — see below.
 
+## Your style was already moving
+
+Measured across all 80 chapters, two of the four shifts at ch. 78 are not a break at all — they are
+your own three-year trajectory, accelerated:
+
+| Chapters | words | dialogue % | sentence len | paragraph words |
+|---|---|---|---|---|
+| 1–20 | 1,653 | 14.7% | 19.5 | 77.5 |
+| 21–40 | 1,619 | 27.6% | 18.5 | 62.5 |
+| 41–60 | 2,338 | 18.8% | 17.3 | 48.5 |
+| 61–77 | 2,608 | 24.2% | 16.3 | 52.1 |
+| 78–83 | 2,045 | **5.2%** | 14.6 | 39.9 |
+
+Sentence length has fallen steadily since chapter 1 (r = −0.55) and so has paragraph length
+(r = −0.47). The drafted chapters continue both. But chapter length had been *growing* (r = +0.54)
+and dialogue *rising* (r = +0.18) — and 78–83 reverse both.
+
+The longest run of ≤10%-dialogue chapters anywhere before this was **4**, back at chapter 10. The
+drafted run is **6 consecutive**. That is the anomaly.
+
 ## Yours vs. Claude's
 
 Measured across the full 151,865-word pre-Claude corpus (chapters 1–77) against the drafted run.
@@ -102,8 +122,13 @@ Comedy and competence both come from character, never from the narrator:
   he'd give a timepiece whose mechanism had gone still."
 - **Mond** — showy, theatrical, a "predatory smirk." Occasionally says the tactless thing.
 
-First names only. No epithet-juggling — "the dwarf" and "the tiefling" appear, but sparingly, and
-never three different labels for one character in a paragraph.
+**Epithets are part of your voice, not a flaw to edit out.** "The dwarf," "the tiefling," "the
+half-orc," "the sorcerer" appear **411 times across chapters 56–77** — 71 per 10,000 words. The
+drafted chapters cut that to 24 per 10k, which is one reason they read as less like you.
+
+Use them. The failure mode to avoid isn't using an epithet, it's stacking three different labels
+for one character inside a single paragraph — Gven as "Gven," "the half-orc," and "the barbarian"
+in four sentences. One alternate label per character per paragraph, then back to the name.
 
 ## Combat
 
@@ -159,6 +184,55 @@ Chapters 81–82 build Dolor's parents-built-this-colossus thread across two ses
 remembered by name and their earlier behavior. Check the appendix
 (`_posts/2023-01-23-appendix.md`) for people, places, and history before inventing a detail.
 
+## Chapter openings
+
+**28% of chapters (22 of 80) open with a participial recap phrase** — "Having defeated the animated
+pastries…", "After vanquishing the gnolls…", "Standing in front of the entrance…", "Looking for any
+signs of weakness…". It's an effective "previously on" device and unmistakably yours, but at better
+than one chapter in four it has become predictable.
+
+Vary it. Chapters that open cold on an image or a line of dialogue are among the strongest in the
+run — ch. 31 opens on `"You're an interesting sight."`, ch. 63 on `"Pardon me, your brother?"`.
+
+## Endings
+
+**34% of chapters end on a line of dialogue.** That's your most consistent structural signature
+across all 80 chapters, and it's usually a joke or a character beat: "Where the fuck have you been,
+Torp?" / "Now I'm glazed and confused." / "Smells like barbeque." / "that wasn't optimal."
+
+Other endings in use: `_The adventurers advance to level N._` (10 chapters), `Long rest….`, and
+occasionally a closing image.
+
+Watch for repetition. **Chapters 45, 46, 48, 49, 50, 51, and 52 all end with the identical map
+image** — seven chapters in a row closing on the same caption. Whatever else varies, vary the last
+beat.
+
+## Crutches worth watching
+
+Measured across chapters 56–77. None of these are wrong; all are load-bearing enough to notice.
+
+| Crutch | Rate | Note |
+|---|---|---|
+| `suddenly` | 6.7 per 10k | Usually deletable — the event is already sudden |
+| `slowly` | 6.5 per 10k | |
+| `quickly` | 6.0 per 10k | |
+| `slightly` | 5.7 per 10k | Hedges the image it modifies |
+| `immediately` | 5.3 per 10k | |
+| `begins to` + verb | 7.3 per 10k | "begins to walk" → "walks" |
+| `seems to` | 5.4 per 10k | Hedge |
+| `appears to be` | 4.2 per 10k | Hedge |
+
+Those five adverbs total roughly **30 per 10,000 words** — about one every twelve sentences. The
+drafted chapters cut the hedging verbs to near zero, which is a genuine improvement worth keeping.
+
+## Abandoned experiments — don't revive
+
+- **Bulleted lists** appear in 20 chapters, nearly all before ch. 36 (loot tallies, mostly). You
+  stopped, and the prose is better for it.
+- **`<details>` collapsible blocks** appear only in chapters 25 and 28.
+- **The narrator addressing the reader** happens exactly once, in ch. 16: "_For brevity's sake, the
+  narrator has left out much of the dialog…_" Never repeated.
+
 ## Don't
 
 - Bulleted or summarized session recaps
@@ -166,4 +240,4 @@ remembered by name and their earlier behavior. Check the appendix
 - Dice numbers, hit points, or rules math in the prose
 - Second person, or any authorial aside to the reader
 - Narrating every single attack (that's the pre-78 mode)
-- Three synonyms for the same character in one paragraph
+- Three different labels for the same character inside one paragraph
