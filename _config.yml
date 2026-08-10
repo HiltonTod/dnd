@@ -34,16 +34,19 @@ include:
   - _pages
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Setting this REPLACES Jekyll's defaults rather than adding to them, so the default
+# entries below must stay listed or files like the Gemfile start getting published.
+# Dotfiles and dot-directories (.claude/, .git/) are skipped by Jekyll automatically.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CLAUDE.md
 
 # Plugins (previously gems:)
 plugins:
