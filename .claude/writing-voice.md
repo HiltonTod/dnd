@@ -178,6 +178,8 @@ barbarian," earning the kill that follows. One per fight is plenty.
 Outside combat, the move that recurs more than any other is **giving every companion an interior
 beat in sequence**, one short section each:
 
+- **Ch. 42** — each companion says why they're really on this journey, capped by Grindlefoot's
+  "I'm looking for tasty nuts, really, that's about it"
 - **Ch. 63** — four dreams after the first night in Lord Neverwinter's manor
 - **Ch. 67** — five bath scenes, one per character, each surfacing a private preoccupation
 - **Ch. 68** — four dream recollections, capped by Mond's joke that he slept fine
@@ -216,8 +218,56 @@ campaign. This is the hardest thing to imitate and the most important to get rig
 | Eva Brightbroom | Mary Poppins, never once acknowledged. "I never explain anything." |
 | Hanseath | Drunk god who breaks the fourth wall on game rules |
 | Maltok | Flat, literal telepathy. "Feels sturdy. It would work in battle. And kill fish." |
+| Gustaf Mondalbrot | Verbose archaeologist; digresses, name-drops his own adventures, undercuts himself |
+| Nyx (tabaxi) | Laconic, dry. "I got hungry." Feline tells slipped in — a purr, a lope |
+| The sphinx | Bored and deadpan; answers only what it was built to answer |
+| Dave Chevits | Fences with knitting needles; opens by disambiguating themself from David Shevitz |
 
 Give every new NPC one rule like this and hold it for every line they speak.
+
+## Puzzle and set-piece chapters
+
+A whole mode the Mournland arc has little of. Chapters 41–52 are built around them, and they're
+some of the most inventive writing in the run:
+
+- The seasons door in ch. 41, solved as an exclusive-binary operation
+- Offerings placed in a god's four open hands, ch. 42
+- The sphinx's riddle at the three-way junction, ch. 45 — and its deadpan follow-up after the party
+  walks into a pit: *"There's a pit down that passage."*
+- Golems numbered 5, 7, 9, 11, 13 — pick the one that doesn't belong, ch. 48
+- Nine orbs, one real key, ch. 49
+- Timing two geysers on a 5-minute and 3-minute cycle to cross hanging discs, ch. 49–50
+
+Write the solution as a character thinking aloud, not as narration explaining. Dolor gets "I think
+it's more complex, most likely an exclusive binary operation"; Mond asks for ten minutes and comes
+back with the pattern.
+
+## Verse
+
+Prophecies and riddles are set as markdown blockquotes with `<br>` line breaks (ch. 20, 45, 47, 48,
+50). The White Plume prophecy runs five stanzas. Gustaf's reaction is the model for how to undercut
+your own verse: *"the author could have used an editor. Evocative imagery and clear structure, but
+the cadence is uneven and phrasing repetitive."*
+
+## Banter inside combat
+
+Fights are not tonally sealed off. In ch. 47 a black knight and Gven trade skincare advice
+mid-melee — *"You really need a better skin care routine"* … *"It's a special compound of
+all-natural, organic ingredients that I apply twice a day."* Combat is where character comedy
+happens, not a break from it.
+
+## How combat gets drafted
+
+Five chapters (2, 3, 38, 39, 43) preserve `<!-- Step-by-step -->` beat sheets in comments — a
+mechanical list of who did what for how much damage — with the prose written from it afterward:
+
+```
+* Grindlefoot - Scoops up a handful of sand and casts Fog Cloud above their heads…
+* Mond - Casts his signature pink Lightning Bolt at one of the smaller soldiers, for 30 points
+  damage, killing them instantly.
+```
+
+If notes arrive in this shape, that's the source material. Narrate from it; don't reproduce it.
 
 ## Markers and devices
 
