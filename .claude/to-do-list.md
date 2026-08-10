@@ -121,9 +121,8 @@ Roughly 48 recurring misspellings in ch. 60–77 alone, and the same pattern ear
 
 ## 5. Tags and metadata
 
-- [ ] **Ch. 78 is missing `co-written-with-claude`.** It was the first Claude-drafted chapter — its
-      own trailing comment says so — but only 79–83 carry the tag. Its current tags are
-      `eve-of-ruin`, `fight`, `guest-player`, `landro`, `mournland`
+- [x] ~~**Ch. 78 is missing `co-written-with-claude`.**~~ **Done** in PR #85 (commit `6be349e`).
+      Chapters 78–83 now all carry the tag, so the drafted run is tagged consistently end to end.
 
 ---
 

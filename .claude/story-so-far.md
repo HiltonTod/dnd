@@ -4,9 +4,8 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–39**, read in full, cross-checked against the appendix. Chapters 40–83 are
-not yet written up here at this depth. The threads below are traced as far as ch. 39; where one is
-known to continue later it says so, but the later arcs deserve their own pass.
+**Coverage: chapters 1–83**, the complete campaign, read in full and cross-checked against the
+appendix.
 
 Note that **chapters 53–55 do not exist as posts** — they were sessions that never got written up.
 The appendix records their content (the arrival in Neverwinter, the Gilded Glyph, Hallix Mausoleum,
@@ -149,20 +148,187 @@ Her advice: "don't trust your senses overly much."
 The arc ends mid-approach, still short of the temple, fighting an undead tyrannosaurus that vomits
 zombies.
 
+## Arc IV — The Temple of Aish (ch. 40–52)
+
+The dungeon crawl the campaign is still, in a sense, inside. The party crosses Amonah to the volcano
+temple, and the antagonist finally acquires a name — or rather refuses to: **The One**.
+
+The approach establishes what's wrong with the island. A jungle village is burned with **horizontal**
+scorch marks, which is not how lightning behaves. A young acolyte lies dead outside a shrine to
+B'raq, hand outstretched, still clutching her holy symbol; Dolor slips a piece of blue glass into
+her pocket before they move on. **B'raq's symbol on the shrine has been overwritten**, scorched over
+with a symbol nobody recognizes — the mark of The One, which recurs on every zealot they meet after.
+
+In a burial mound they wake **Zimon, god of the seasons**, and get the arc's thesis in four
+sentences. The tombs were built to keep the gods asleep. Something took a piece of Zimon, used it,
+and discarded it: *"I was made to punish the people of the jungle who loved me."* Whatever did it
+was **neither god nor mortal**. The party seals the tomb, and Bilwin blesses it in the only register
+he has — "Without seasons there are no crops, and then no beer, which is sad."
+
+They pick up **Gustaf Mondalbrot**, an archaeologist who had been hiding from the zealots inside a
+puzzle room, correctly assuming they were too stupid to open it. Around the campfire in ch. 42 the
+party says out loud, for the first time, why each of them is really here: Gven to stop her brother,
+Dolor because someone should do the right thing, Mond because his kind are being hunted, Bilwin to
+find his faith and *learn what happened during the years he cannot remember*. Grindlefoot is looking
+for tasty nuts.
+
+The temple itself is a five-chapter gauntlet, opened by a prophecy on a corpse: retrieve three
+weapons — **Wave**, **Whelm**, **Blackrazor** — and bring them to The One, who will judge your worth.
+*"Your choice is made, it can't be undone."* Gustaf's review: "the author could have used an editor."
+
+What they find inside, in order: a bored **sphinx** with a riddle and no interest in helping; an
+inverted **ziggurat** stocked with tiered aquariums that Dolor empties into each other so the
+occupants fight it out; **Blackrazor** under a halfling's bed, guarded by a knitting warrior who
+turns out to be **Fenseck**, Dolor's own patron in disguise; **Golem Number 9**, chosen from five by
+Dolor because nine is the only one that isn't prime, who follows them faithfully and dies falling
+into boiling mud; **Whelm** under a dwarven vampire's sarcophagus; and **Wave** in a chest guarded
+by a giant crab, inside a bubble holding back a cavern of boiling water. Along the way they collect
+**Tham**, a Scots-mouthed dwarf who had locked himself in a pantry with the drink and stayed there.
+
+Gustaf carries Blackrazor because he's the only one it can't seduce, and rigs a scabbard for it out
+of Dave Chevits's knitted scarves.
+
+## The gap (ch. 53–55)
+
+Three unwritten sessions. Per the appendix: the party leaves Amonah — Gven's later summary in ch. 63
+says they were *"suddenly transported to Neverwinter"* — arrives on a different plane, shops at the
+**Gilded Glyph** and the **Fucking Duck**, first encounters **Alustriel Silverhand**, and finds
+**Hallix Mausoleum**. Ch. 56 opens as they leave the Gilded Glyph.
+
+## Arc V — Neverdeath and Evernight (ch. 56–63)
+
+Lord Neverember hires them to find people who went into Neverdeath Graveyard and didn't come out. It
+looks like a job. It's the hinge of the campaign.
+
+They recover **Sarcelle Malinosh**, a sorceress stripped of her magic, who saw a skeletal figure on a
+hilltop in a vision that still frightens her: *"It was Vecna."* Then **Umberto Noblin**, a gnome
+historian who specializes in exactly the wrong deity and explains Vecna's betrayal by his general
+**Kas**. Then the cult itself — cultists siphoning *secrets* out of victims as a tangible energy, and
+notes referencing **Crevices of Dusk**, gateways to another plane.
+
+Interrupting that ritual in ch. 59 is the moment everything changes. The party frees the caged elf,
+the ceremony collapses, and Vecna's gaze turns on them directly. They wake in coffins in
+**Evernight**, the Shadowfell mirror of Neverwinter, carrying **a permanent metaphysical link to
+Vecna** — the ability to sense and use secrets. Nobody asked for it.
+
+Getting home takes three chapters: buying information from **Sangora** at a market of blood
+vendors, the **Dolindar** family tomb and its ghost housekeeper Newmy ("Oh, there's dust in every
+crevice around here"), two *lonely sorrowsworn* that nearly kill Bilwin, and an anagram door. They
+come out through a sarcophagus.
+
+Waiting for them: **Indrina Lamsensettle** dead in an open casket, Lord Neverember's mother — and an
+envelope on her chest addressed to Gven, in her brother's handwriting. *"You move faster than we
+expected, but we cannot leave you to your own devices."* **Torp is tracking them across planes.**
+
+Ch. 63 is the campaign's one long exhale: **two months of ordinary life**. Lord Neverember deeds them
+five houses on a cul-de-sac in the Bluelake District. Grindlefoot plants a garden. Dolor builds a
+glass-blowing glory hole and the others sit around it in mismatched chairs most evenings. Bilwin
+brews. And **Eva Brightbroom** knocks on the door and moves in — a domestic attendant who spars
+better than Gven, out-botanizes Grindlefoot, engineers Mond's basement, and answers every question
+about how she knows any of it with "I never explain anything." Bilwin prepays her a lifetime's salary
+and rewrites his will in her favor.
+
+Then the kiln flares, the world goes dark, and they're standing in a stranger's parlor.
+
+> "Well, fuck."
+
+## Arc VI — The Rod of Seven Parts (ch. 64–83)
+
+**They were summoned by accident.** Three archmages — **Alustriel Silverhand**, **Mordenkainen**, and
+**Tasha** — cast *Wish* to negate Vecna's power and got five adventurers instead. Mordenkainen's
+salvage plan: banish Vecna with the **Chime of Exile** to a plane parallel to Eritz where Tasha can
+watch him, but he must be weakened first, which means assembling the **Rod of Seven Parts**.
+
+Alustriel is blunt about the odds and clear about why she thinks they might survive anyway. Not
+strength, not righteousness — *"It's the bond of friendship that so obviously holds you together…
+A power that Vecna does not understand."*
+
+**The first piece — the Underdark (ch. 64–67).** Web's Edge, a Lolth cult safehouse. They bluff past
+**Maltok**, a telepathic boar-headed guard, by having Gven simply out-stare him into handing over his
+post. They free **Gertrude**, a cyclops grieving a deep gnome friend, and leave a drow named S'ril to
+die when Bilwin's prayer confirms he's lying. The piece is guarded by **Ker-arach**, a spiderdragon
+who speaks into Grindlefoot's head and names the thing he'd never said aloud: *"We are kin in our
+wrongness. You are caught between spider and halfling."* Gertrude stays behind to hold off fifteen
+cultists — "Go find friend. After smash."
+
+**The second piece — the Astral Plane (ch. 68–74).** The **Lambent Zenith**, a spelljammer broken into
+three pieces inside the corpse of a dead god whose heart is still beating. The acting captain
+**Illren** is a **slaad** wearing a dead officer's shape, feeding on the crew's fear and holding the
+first mate in a memory-curse. They break it, kill him, and work across the wreck: **Redbud** the
+treant who grew himself into the ship's hull and calls himself its soul, **Ikasa** the blink dog,
+**Captain Inda** and her broken clockwork wing, which Dolor repairs.
+
+The piece is inside a **hertilod**, which swallows Gven whole. She survives by remembering, at the
+last moment, that Veylara's blade can call lightning once a day — and the beast is fatally
+susceptible to it. She cuts her way out through the length of its neck from the inside.
+
+**The third piece — the Mournland (ch. 75–83, ongoing).** Eberron's dead nation of Cyre, where magic
+works wrong and the corpses never decay. They need a **docent** to unlock the rod's next direction,
+and get one from the **warforged pilgrims** of Ialos — **Mercy**, **Justice**, **Charity**, **Pious**,
+and **404** — who search the ruins for artifacts and ask each other whether their names were chosen or
+given. It points them at **Landro**, a colossus half-buried in Mount Ironrot.
+
+Mercy joins them to face an old guilt: a lost companion named **Filch**. They find Filch in a tunnel
+inside Landro, powered down but not dead, and Mercy — who has no gestures for this — puts both arms
+around the whole body and talks quietly until the clicking starts.
+
+> "Mercy. Where the hell have you been?"
+
+Inside Landro the party is stalked by **Glaive**, a Lord of Blades lieutenant, through shrieking
+mushrooms, a sleeping woman named **Alamar-Vatashi**, a looping ghost who can't be told he's dead, a
+blazebear, Cyran ghosts, and a golem that pretends to be a table. **The gray fluid leaking through
+the colossus carries memories** — and when Dolor steps in it, he hears his own parents' voices
+calling out charge levels during Landro's construction.
+
+Ch. 83 ends the drafted run with Glaive dead and Gven crouched over the body, tracing the letters
+carved into its chest and realizing **the warforged carved its own name** — the only name it could
+reach, the weapon it carried. She sits with the thought that if she'd been handed freedom with
+nothing underneath it, she isn't sure she'd have come out differently.
+
 ---
 
 ## Character threads
 
-**Gven** — the spine of chapters 1–39. Looking for her brother; finds him and finds him monstrous;
-chooses to understand rather than kill. Fear is a tool, not a weakness (ch. 13). Carries Tempest
-Edge on loan and owes both the blade and a reunion to Veylara. Her father's medallion hangs from a
-storm giant's ear.
+**Gven** — the spine of the whole campaign. Looking for her brother; finds him and finds him
+monstrous; chooses to understand rather than kill. Fear is a tool, not a weakness (ch. 13). Carries
+Tempest Edge on loan and owes both the blade and a reunion to Veylara; her father's medallion hangs
+from a storm giant's ear.
+
+Two hard rules govern her. **She refuses Haste** — after Grindlefoot's spell left her exhausted
+mid-fight in ch. 47 she snapped "I fight by my own powers, no one else's," and by ch. 60 her
+subconscious rejects the spell outright, which confuses the halfling considerably. And **she is
+always first through the door**, which ch. 80 finally explains: as a child, showing fear was a
+faster route to trouble than anything outside could offer.
+
+The campaign has been quietly wearing on her. Ch. 74 opens on a memory of Torp at fifteen sweeping
+her legs out and telling her to *plant your foot — make roots with it*, which is also the last
+uncomplicated thing that ever passed between them. Ch. 74 also has **Tasha turn her into a goldfish
+and let her asphyxiate on the tile floor** to teach her manners after she propositions Alustriel
+once too often; she takes the lesson. By ch. 82 she's content to lean on a wall and let Mond have a
+fight. By ch. 83 she can look at a dead enemy and recognize the same fight she's been having.
 
 **Bilwin** — arrives as a punchline in ch. 14 and is treated as one for a while. The turn is early
 though: in ch. 15 he buries a dead wizard he never met, pours out his beer over the grave, and it's
 the first time the group sees him serious. Then Hanseath comes back and the joke acquires a floor.
 Running gag with real weight: he plays badly for thirty chapters, then plays beautifully in Dwarven
 in ch. 34 and 37, and only Gven can understand the words.
+
+**His missing years are the campaign's longest slow burn**, and it is still unresolved. Flagged in
+ch. 30 as "a tickling memory of time that he cannot quite bring to the front," named at the campfire
+in ch. 42, and cracked open in ch. 64 the instant Mordenkainen says *Rod of Seven Parts* — because
+Bilwin once quested for a piece of it, with a company of dwarves, and forgot all of it. In ch. 66,
+under attack, he calls on them and **they come**: six ethereal dwarves who fight beside him and clear
+the spiders off his body. *"The quest has not ended, my friends."*
+
+He knows now that they fell and didn't get up, that one was a bard who saved his life (which is
+plausibly why he keeps trying and failing to be one), and that he cannot go home until whatever it
+was is finished. In ch. 74 Alustriel walks him back through it and hits a wall his own subconscious
+built around their deaths. What comes through instead is a single overheard sentence:
+**"We will start with the one and the rest will come after."**
+
+His comic engine remains fully intact: he casts *Speak with Dead* by accident (twice), banishes an
+opponent by telling it to go away while he's reading maps, and in ch. 83 asks the room, mid-battle,
+"I just want to get back to sleep. Are we done?"
 
 **Dolor** — tinkerer's son, whose parents were pacifists cheated by wealthy clients, so he burgled
 the exact amount owed and nothing more. "Justice wears many faces." Gleaming Blade is looted off a
@@ -171,10 +337,24 @@ who is the only one who ever falls — starts in ch. 36 and pays off across 37 a
 
 He is called a rogue but doesn't fight like one class: by ch. 38 he's using Action Surge and Second
 Wind (fighter) alongside Uncanny Dodge (rogue), and later chapters give him Green-Flame Blade and
-Toll the Dead. The appendix explains the last of it — **his warlock powers come from a deal with
-Fenseck**, an efreeti/djinni, who first appears disguised as **Dave Chevits**, the halfling with the
-knitting needles locked under the ziggurat in ch. 47. Dolor's patron was in the room, in costume,
-before the reader knew there was a patron.
+Toll the Dead. **His warlock powers come from a deal with Fenseck**, an efreeti/djinni who first
+appears disguised as **Dave Chevits**, the knitting halfling under the ziggurat in ch. 47 — the
+patron was in the room, in costume, before the reader knew there was a patron. Ch. 67 gives the
+reason: Dolor had wanted to be a rogue since childhood and found he wasn't good enough at it. His
+arrows went wide, ropes defeated him. Fenseck offered an alternative and he took it.
+
+**The parents thread is the campaign's live mystery and it is entirely his.** His mother and father
+were tinkerers in Eritz, jewelers and watchmakers, pacifists. Then:
+
+- Ch. 74 — a warforged book in Sigil is written in a **substitution cipher** Dolor last saw as a
+  child on a timepiece component in his parents' workshop. It is not native to Eritz.
+- Ch. 74 — at Thoom's House of Boom he buys a pocket watch that stutters time and, opening the case,
+  recognizes **his parents' work**.
+- Ch. 81 — stepping in Landro's leaking gray fluid, he hears a memory that is not his: technicians
+  calling charge levels during the colossus's construction. **He knows the voices.**
+- Ch. 82 — the dead pilot's helmet carries **the same insignia as his parents' workshop**.
+
+He has told no one. Ch. 82: *"The tiefling keeps his findings to himself, at least for now."*
 
 **Grindlefoot** — quiet competence, played straight. Wild shapes into whatever the moment needs and
 gets stuck in his own webbing at least twice. Comic cover story: whenever he has to vanish, the
@@ -183,26 +363,77 @@ in ch. 38: he disturbs a bee hive by accident, apologizes to the bees in their o
 seeds and grows a forest around their hive — "for generations after this day, the buzzing inhabitants
 of that hive speak reverently about the *Great One Who Spoke To Us*."
 
+**The spider is not a costume.** Ch. 66 gives his backstory: a self-taught druid on a farm northeast
+of Wayside whose vegetables outgrew everyone's, who discovered wild shape by accident chasing a dog,
+and who was driven out when a neighbor found him asleep in a meadow of his own webbing under a
+harvest moon. He never had a teacher, so nobody warned him that an affinity can become an addiction.
+Ker-arach names it in ch. 65, he sits with it in the bath in ch. 67 — *he misses the spider dragon,
+or rather what it meant* — and by the end of ch. 66 the shape no longer costs him a casting. He
+simply thinks it and it is so. He is the only member of the party with an ongoing pull toward being
+something other than himself, and the campaign has never treated it as a joke.
+
+His other register is domestic: hammocks of butt-yarn for the whole party, goodberries so nobody
+starves in the Mournland, and ch. 75, where he asks Tasha to let him check on his garden and scries
+it through a pocket potato while Eva pulls weeds and tells him to stop lollygagging.
+
 **Mond** — arrives silent, answers "yep," and stays the most guarded of the five. Being a registered
 magic user in a city that watches magic users is his whole situation. He learns to sail and takes
 real pleasure in the Iron Vulture's mechanics. Signature: a pink lightning bolt.
+
+**His arc is the quietest and the most nearly complete.** In Eritz his nature is an atrocity to be
+hidden behind a lapel pin. In Neverwinter it simply isn't. He says it plainly in the bath in ch. 67
+and again in the Astral Plane in ch. 70: he has never felt this free, and he is not sure he wants
+to go home to living less than a full life. He remodels his Neverwinter house into "a mystical maze
+of the arcane" during the two months off. He also picks up Gustaf's map-making habit, which is its
+own small argument that he intends to stay.
 
 **Xantic** — ch. 1–14 only. Curiosity with no brakes: stabs his own foot to test a potion, blows up
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open in ch. 1–39
+## Threads left open at ch. 83
 
-- **Tempest Edge is borrowed.** Gven owes Veylara the sword's return and holds nothing of her
-  family's in the meantime.
-- **Torp is alive** and still in Elsemar planning genocide. Gven's last words to him were that she'd
-  try to understand.
-- **The red gate** inside the volcano temple, and whatever the increased pilgrimages mean.
-- **Lyra's favor.** She drew a symbol in the dirt — a U with a tick through the top right — and said
-  to mark it anywhere and a ranger would come. Never used.
-- **The Heart of the People.** Tella's contact for reaching him is **Brooj**, the loxodon archivist at
-  Elsemar's Hall of Records.
-- **The crow** that adopted Bilwin after the wizard's burial and followed the party down the road.
-- **The tiny blue fae** who inspected the camp in ch. 35, admired Tempest Edge, nodded to Dolor, and
-  left without a word.
-- **Xantic and Trill** in Wayside. **Cindel and the Low Elves** still there too.
+**Live and load-bearing:**
+
+- **The Rod of Seven Parts.** Two of seven recovered. The third is somewhere above them in Landro's
+  head; the party is in the chest, having just survived Glaive. Four more after that.
+- **Dolor's parents built Landro** — cipher, watch, voices in the fluid, workshop insignia — and he
+  hasn't told anyone. Why tinkerer pacifists from another plane worked on a Cyran war machine is
+  unanswered.
+- **Bilwin's dead company**, and the sentence he surfaced under Alustriel's guidance: *"We will start
+  with the one and the rest will come after."* Tasha has offered to try again when he's ready.
+- **Torp / Davanor** is alive, still pursuing genocide in Eritz, and tracking his sister across
+  planes. Their last exchange was a letter on a corpse.
+- **Vecna**, the link he forced on the party in ch. 59, and the Chime of Exile plan that requires
+  the whole rod.
+- **Tempest Edge is borrowed.** Gven owes Veylara the blade's return; the storm giant wears her
+  father's medallion as an earring.
+- **Getting home.** The party has been on other planes since roughly ch. 53 and Mond, at least, is
+  no longer certain he wants to go back.
+
+**Owed, promised, or simply left:**
+
+- **The pilot's helmet and the empty gemstone** from Landro, promised to the warforged pilgrims of
+  Ialos on the way out.
+- **Mercy and Filch**, returned to Ialos. **Gertrude**, last seen swinging a greatclub into fifteen
+  cultists. **Ikasa** wants to find Palenna; the appendix says Palenna was rescued.
+- **Eva Brightbroom** is keeping five houses and a garden in Neverwinter and does not explain
+  anything.
+- **The One** on Amonah — the entity that is neither god nor mortal, that carved its symbol over
+  B'raq's shrine and tore a piece off Zimon. The party took its three weapons and left the island
+  without ever meeting it. Nothing has closed this.
+- **Lyra's favor.** A symbol drawn in dirt outside Wayside — mark it anywhere and a ranger comes.
+  Never used, three years and several planes ago.
+- **The Heart of the People**, and Tella's contact **Brooj** at Elsemar's Hall of Records.
+- **The crow** that adopted Bilwin after the wizard's burial. **The tiny blue fae** who inspected the
+  camp in ch. 35 and nodded to Dolor. **Xantic and Trill** in Wayside; **Cindel and the Low Elves**
+  still there.
+
+## The recurring structure
+
+Worth knowing before drafting: the campaign keeps making the same move, and it works every time.
+**Someone the party has no reason to help asks for help, and they do it, and it costs them.** Preva's
+husband, Vera, the town of Wayside, Rightside, Sarcelle, Umberto, Elden, Figaro's crew, Redbud and
+Ikasa, Captain Inda's wing, Mercy's lost friend, and finally a blind golem that only wanted its maps
+back. Alustriel names it in ch. 67 as the reason they might survive Vecna at all. Gven complains
+about it in the bath in ch. 67 and does it again eight chapters later.

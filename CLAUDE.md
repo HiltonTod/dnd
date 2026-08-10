@@ -82,13 +82,13 @@ not as cruft to clean up.
 
 ### The Claude tag
 
-Chapters 79–83 carry the tag `co-written-with-claude`. **If you help write or substantially revise
+Chapters 78–83 carry the tag `co-written-with-claude`. **If you help write or substantially revise
 a chapter, add that tag.** It's how the author tracks provenance. (Distinct from `ai-generated` on
 `2025-09-01-chapter-62-ai.md`, a one-off fully-AI alternate version of chapter 62 published
 alongside the human-written one.)
 
-Note: chapter 78 was the first Claude-drafted chapter — its trailing comment says so — but it was
-never tagged. The drafted run is really 78–83.
+Chapter 78 was the first Claude-drafted chapter — its trailing comment says so — and went untagged
+for a while; it was tagged retroactively, so the drafted run 78–83 is now consistent.
 
 ## Internal links — read this before writing any
 
