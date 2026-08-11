@@ -63,18 +63,28 @@ beard floats just under the water. **Check where you are in the timeline before 
 - **Horns** long, running from his forehead back beyond his head.
 - **Tail** 4–5 feet long, 6–8 inches in diameter at the base.
 - **Face** moderate bone structure and size, no facial hair.
-- **Complexion** the source doc says **bluish** — but every chapter that describes him says
-  **purple**, and ch. 76 is specific: *"a deeper shade of purple, almost lavender in its coolness."*
-  The chapters win; ch. 76 sets it against Mercy's vibrant purple plating deliberately.
+- **Complexion** purple. Ch. 76 is the most specific: *"a deeper shade of purple, almost lavender in
+  its coolness"* — set deliberately against Mercy's vibrant purple plating in the same paragraph.
 - **Height** 5′2″. **Build** muscular and stocky.
 - **Clothing** nondescript travel clothes and a leather jacket. **Likes the colour purple.** Wears a
   **pendant made by his parents** — a blown-glass diamond on an intricate silver chain.
 - **Weapons** (as briefed) bow and arrow, plain daggers.
 - **Demeanor** solemn, respectful, high moral standards, always wants to do the right thing.
 
-**Class note.** The doc lists him as a straight Rogue, which was true for the era it covers. He has
-since multiclassed: fighter abilities by ch. 38 (Action Surge, Second Wind) and **warlock** from
-ch. 47, when Fenseck grants him the pact. See `story-so-far.md`.
+**Class note.** The source doc lists him as a straight Rogue, which was true for the chapters it
+covers. He has since multiclassed: fighter abilities by ch. 38 (Action Surge, Second Wind) and
+**warlock** from the Amonah temple.
+
+On the warlock pact specifically, since it's easy to cite wrong: **ch. 47 is the reveal, not the
+event.** Dave Chevits drops the disguise on his way out — *"Call for Fenseck when you next need
+me"* — and Dolor recognises the efreeti he made the pact with. But he is already casting Eldritch
+Blast in **ch. 46**, at the ziggurat's glass wall. Ch. 67 and 68 both place the pact vaguely "in the
+temple on Amonah" (ch. 45–52); it is never shown on the page. Ch. 67 gives the motive: he'd wanted
+to be a rogue since childhood and found he wasn't good enough at it — arrows going wide, ropes
+defeating him — and Fenseck offered an alternative.
+
+(Ch. 27 also contains Eldritch Blasts, but they're cast *at* Dolor by enemy clerics. His Hellish
+Rebuke from ch. 6 on is a tiefling racial trait, not warlock.)
 
 **The pendant matters.** His parents were jewelers and glassblowers, and the parents thread is the
 campaign's live mystery — he builds a glory hole in Neverwinter in ch. 63 and finds their work again
@@ -169,6 +179,10 @@ worth knowing from it:
 - **"Rewrite battles from lists into prose"** is listed there as in-progress work, which is the same
   backlog tracked in `to-do-list.md`.
 
-Because it covers chapters 1–28, some entries are frozen at that point in the campaign — Dolor's
-class is the clearest case. Prefer the chapters where they conflict, and prefer this doc for
-physical description, which the chapters rarely give in full.
+Because it covers chapters 1–28, some entries are frozen at that point in the campaign — **Dolor's
+class is the clearest case**, listed as a straight Rogue, which predates his fighter abilities and
+the warlock pact. Prefer the chapters where the two disagree, and prefer this doc for physical
+description, which the chapters rarely give in full.
+
+*(The doc originally gave Dolor's complexion as bluish, which conflicted with every chapter that
+describes him. Tod corrected it to purple at the source, so the two now agree.)*
