@@ -57,6 +57,22 @@ Alustriel Silverhand.
 
 - [ ] Decide: write them, or renumber, or leave them as a gap and fix the links to point elsewhere
 
+**Ch. 55 was the party's first-ever magic shopping trip** and its consequences are already loose in
+the prose. Full item list is in `characters.md` under "Gear bought off-page." Four items were bought
+and paid for but have **never once appeared in a chapter**:
+
+- [ ] **Mond — Draconic Sigil Tattoo** (2,000 gp). Free *shield* once/long rest, and a
+      drop-to-1-HP-and-explode effect that has never fired on the page
+- [ ] **Dolor — Signet Ring of Wyrmkind Favor** (4,000 gp). +2 Cha and advantage on Intimidation and
+      Persuasion. He does a lot of talking to NPCs; this has never been visible in any of it
+- [ ] **Grindlefoot — Collar of Breath and Blood** (4,500 gp). Deliberately re-specced from an amulet
+      to a **collar so it stays on when he wild shapes** — a visual that should appear every
+      transformation and never has
+- [ ] **Grindlefoot — Seed Pouch of Old Barrows** (500 gp). Grows cover, healing herbs, or odd fruit
+      overnight; refills each new moon. An unused story device, and a very Grindlefoot one
+- [ ] **Bilwin — Ironbound Wardchain** (2,000 gp) is probably the "dwarf's chainmail" in ch. 66 and
+      73, but is never named, and its once-a-day save-from-zero has never visibly triggered
+
 ---
 
 ## 3. Appendix corrections

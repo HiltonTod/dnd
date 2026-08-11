@@ -12,9 +12,10 @@ so below.
 Companion files: `writing-voice.md` for how to write them, `story-so-far.md` for what happened to
 them, `to-do-list.md` for tracked fixes.
 
-> **Room to grow:** magical weapons and gear are only partly recorded here — Gven's are complete
-> because the source doc lists them. Bilwin's Whelm and Sunburst Shield, Dolor's Gleaming Blade and
-> pocket watch, and Grindlefoot's silvered staff live in `story-so-far.md` and the appendix for now.
+> **Gear** is recorded in two places: each character's own entry for what they carry day to day, and
+> **Gear bought off-page — chapter 55** at the bottom, which is the full list from the Neverwinter
+> shopping trip that was never written. Items acquired on-page (Whelm, Gleaming Blade, the Sunburst
+> Shield, Dolor's pocket watch) are described in `story-so-far.md` and the appendix.
 
 ---
 
@@ -131,13 +132,11 @@ for harming. He has it silvered and carved with plant filigree in ch. 63.
 | Wooden Gruumsh amulet | before ch. 1 | Carved by her father. **Given to Veylara in ch. 32** — she no longer wears it |
 | Plain greatsword | before ch. 1 | Nondescript, non-magical, ~5 feet, scabbard across her back |
 | **Tempest Edge** | ch. 32 | Veylara's gift. Lightning once/day as a bonus action; lightning resistance; on a crit, a deafening thunderclap |
-| **Vestment of the Bound Sigil** | **ch. 55** | Sleeveless longcoat, arcane glyphs woven beneath the surface. +2 AC over light armour; once/day the sigils flare to absorb 10 damage |
+| **Vestment of the Bound Sigil** | **ch. 55** | See below |
+| **Boots of Striding and Springing** | ch. 63 | Bought on-page from a gnome cordwainer |
 
-The longcoat is bought at the Gilded Glyph in Neverwinter in **chapter 55 — one of the unwritten
-sessions**, which is why it appears in the prose from ch. 59 onward with no introduction. It's the
-"shimmering longcoat" and "enchanted coat" the later chapters keep referring to.
-
-Note the scabbard moves: across her back early, at her hip by ch. 77.
+The longcoat is the "shimmering longcoat" and "enchanted coat" the later chapters keep referring to
+from ch. 59 onward. Note the scabbard moves: across her back early, at her hip by ch. 77.
 
 ## Mond Blue
 
@@ -168,6 +167,47 @@ The source entry is unfinished: **hair, clothing, and weapons are blank.** If he
 those are open to invention. He leaves the party in ch. 14 to stay in Wayside.
 
 ---
+
+## Gear bought off-page — chapter 55
+
+**This is the single biggest continuity trap in the campaign.** Alustriel transported the party to
+Neverwinter, where magic and religion are openly legal and there are actual magic shops — the first
+time they've had access to any. They spent heavily. **Chapter 55 was never written**, so *none* of
+this has an on-page acquisition scene, and items simply start appearing in later chapters as though
+the reader saw them bought.
+
+Session date May 12, 2025. Source: Tod's `MagicItems-Level9-Neverwinter` doc.
+
+| Character | Item | Cost | Effect | On the page? |
+|---|---|---|---|---|
+| **Gven** | **Vestment of the Bound Sigil** | 4,500 gp | +2 AC even over light armour or robes; once/day the sigils flare to absorb 10 damage from one attack | ✅ ch. 59 on |
+| **Bilwin** | **Battle axe** | 750 gp | +1 to attack and damage | ✅ ch. 56 on |
+| **Bilwin** | **Bag of Holding** | 1,250 gp | A fancy-looking bag | ✅ ch. 57, 58 |
+| **Bilwin** | **Ironbound Wardchain** | 2,000 gp | AC 16. Once/long rest, when reduced to 0 HP, drop to 1 instead — the links pulse dull blue when it fires | ⚠️ unnamed |
+| **Mond** | **Bag of Holding** | 1,000 gp | Scorched inside, hence discounted. Auto-transfers items in possession; retrieve by name | ✅ ch. 57 |
+| **Mond** | **Draconic Sigil Tattoo** | 2,000 gp | Glowing abstract dragon. Once/long rest cast *shield*. Once/long rest, damage that would drop him to 0 instead leaves him at 1 and bursts into draconic flame — 2d10 to enemies within 10 ft | ❌ never |
+| **Dolor** | **Signet Ring of Wyrmkind Favor** | 4,000 gp | Insignia of an ancient noble dragon. +2 Charisma (max 22); advantage on Intimidation and Persuasion against creatures of Int 6+ | ❌ never |
+| **Grindlefoot** | **Collar of Breath and Blood** | 4,500 gp | Red crystal set in bronze, warm to the touch. +1 Constitution; once/long rest *Enhance Ability (Bear's Endurance)* free; advantage on Concentration checks | ❌ never |
+| **Grindlefoot** | **Seed Pouch of Old Barrows** | 500 gp | 3d6 magical seeds. Planted and watered — or *Druidcraft* cast nearby — they grow overnight into thick bushes (half cover), healing herbs (*Cure Wounds* 1d8+3, one use), or strange hybrid fruit with random effects. **Refills every new moon** | ❌ never |
+
+**Three things worth acting on:**
+
+- **Four items have never appeared in the prose at all.** Mond's tattoo, Dolor's ring, and both of
+  Grindlefoot's. They're owned and paid for; they simply haven't been written.
+- **Grindlefoot's collar was specifically re-specced.** It was going to be an amulet, and he asked
+  for a collar *so it would still be on him when he transforms*. That's a visual that should be
+  showing up every time he wild shapes into a spider or a dire wolf, and never has. (Don't confuse
+  it with Ikasa's talking collar in ch. 71.)
+- **The Seed Pouch is an unused story device**, and a very Grindlefoot one — a bag that grows cover,
+  healing, or a surprise overnight, and refills on the new moon.
+
+Bilwin's **Ironbound Wardchain** is the ⚠️: it's almost certainly the "dwarf's chainmail" that gets
+slashed in ch. 66 and broken through in ch. 73, but it's never named and its once-a-day
+save-from-zero has never visibly fired.
+
+**The other shopping trip, ch. 63, *is* written**, so those items have proper introductions: Dolor's
+studded leather sewn with lucky copper pieces, Gven's Boots of Striding and Springing, Grindlefoot's
+staff silvered and carved with plant filigree, and Bilwin's Sunburst Shield.
 
 ## Source notes
 
