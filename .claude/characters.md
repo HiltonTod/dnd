@@ -23,7 +23,7 @@ them, `to-do-list.md` for tracked fixes.
 | | Species | Class | Height | Age | Looks about |
 |---|---|---|---|---|---|
 | **Bilwin** | Dwarf | Cleric & Bard | 4′1″ | 30 | 40 human |
-| **Dolor Vagarpie** | Tiefling | Rogue *(see note)* | 5′2″ | 30 | 30 human |
+| **Dolor Vagarpie** | Tiefling | Rogue & Warlock | 5′2″ | 30 | 30 human |
 | **Grindlefoot** | Halfling | Druid | 3′1½″ | 30 | 25–30 human |
 | **Gven Vetkam** | Half-orc | Barbarian | 6′8″ | 23 | 23 human |
 | **Mond Blue** | Half-elf | Sorcerer | 5′10″ | 31 | 31 human |
@@ -57,7 +57,7 @@ beard floats just under the water. **Check where you are in the timeline before 
 
 ## Dolor Vagarpie
 
-**Tiefling · male · 30**
+**Tiefling · Rogue & Warlock · male · 30**
 
 - **Hair** dark, to the middle of his back. **Eyes** dark, possibly black. **Ears** pointed.
 - **Horns** long, running from his forehead back beyond his head.
@@ -71,11 +71,7 @@ beard floats just under the water. **Check where you are in the timeline before 
 - **Weapons** (as briefed) bow and arrow, plain daggers.
 - **Demeanor** solemn, respectful, high moral standards, always wants to do the right thing.
 
-**Class note.** The source doc lists him as a straight Rogue, which was true for the chapters it
-covers. He has since multiclassed: fighter abilities by ch. 38 (Action Surge, Second Wind) and
-**warlock** from the Amonah temple.
-
-On the warlock pact specifically, since it's easy to cite wrong: **ch. 47 is the reveal, not the
+**When the warlock half started**, since it's easy to cite wrong: **ch. 47 is the reveal, not the
 event.** Dave Chevits drops the disguise on his way out — *"Call for Fenseck when you next need
 me"* — and Dolor recognises the efreeti he made the pact with. But he is already casting Eldritch
 Blast in **ch. 46**, at the ziggurat's glass wall. Ch. 67 and 68 both place the pact vaguely "in the
@@ -85,6 +81,12 @@ defeating him — and Fenseck offered an alternative.
 
 (Ch. 27 also contains Eldritch Blasts, but they're cast *at* Dolor by enemy clerics. His Hellish
 Rebuke from ch. 6 on is a tiefling racial trait, not warlock.)
+
+**Open question — fighter features.** Three times *before* the pact, Dolor uses abilities the
+chapters explicitly link to the **Fighter** class: `Second Wind` in ch. 36 and `action surge` twice
+in ch. 38, both linked to fighter class pages. That doesn't fit Rogue & Warlock. It could be an
+early multiclass that was later rebuilt, or the wrong link picked while drafting. **Tod or Doug
+would know; nothing has been assumed here.**
 
 **The pendant matters.** His parents were jewelers and glassblowers, and the parents thread is the
 campaign's live mystery — he builds a glory hole in Neverwinter in ch. 63 and finds their work again
@@ -179,10 +181,12 @@ worth knowing from it:
 - **"Rewrite battles from lists into prose"** is listed there as in-progress work, which is the same
   backlog tracked in `to-do-list.md`.
 
-Because it covers chapters 1–28, some entries are frozen at that point in the campaign — **Dolor's
-class is the clearest case**, listed as a straight Rogue, which predates his fighter abilities and
-the warlock pact. Prefer the chapters where the two disagree, and prefer this doc for physical
-description, which the chapters rarely give in full.
+Because it covers chapters 1–28, some entries could go stale as the campaign moves on — a class
+gained late, a piece of gear traded away. **As of now the doc and the chapters agree on everything
+here**, so treat the doc as authoritative for physical description, which the chapters rarely give
+in full, and the chapters as authoritative for anything that changed after ch. 28.
 
-*(The doc originally gave Dolor's complexion as bluish, which conflicted with every chapter that
-describes him. Tod corrected it to purple at the source, so the two now agree.)*
+*(Two entries were out of date when this file was first written and Tod corrected them at the
+source: Dolor's complexion, which said bluish where every chapter says purple, and his class, now
+Rogue & Warlock. The only thing still unreconciled is the fighter-feature question noted in his
+entry above.)*
