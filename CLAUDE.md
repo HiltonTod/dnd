@@ -60,7 +60,10 @@ They mix arc names (`eve-of-ruin`, `rod-of-seven-parts`), locations (`mournland`
 ## Writing chapters
 
 **Read `.claude/writing-voice.md` before drafting or editing any chapter prose.** It documents the
-voice in detail, derived from chapters 78–83 measured against the earlier corpus, with examples.
+voice in detail, derived from a full read of all 83 chapters, with examples. Alongside it:
+`.claude/characters.md` (what the party look like and how they carry themselves),
+`.claude/story-so-far.md` (arcs, character threads, what's still unresolved), and
+`.claude/to-do-list.md` (tracked fixes).
 
 The short version: narrative prose, third person, **present tense** ("Mond hangs from a rung of the
 ladder…"), past tense only for things that already happened. Recent chapters run 2,000–4,600 words.
