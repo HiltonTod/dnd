@@ -10,9 +10,9 @@ session notes preserved below it. It is the only chapter in 1–77 with another 
 and it reads slightly differently — more past tense, more summary — which is worth knowing before
 treating it as a style sample.
 
-Two companion files sit alongside this one: `story-so-far.md` for plot and character arcs, and
-`to-do-list.md` for tracked fixes. This file exists so the voice lives in the repo rather than in
-any one tool's memory.
+Three companion files sit alongside this one: `story-so-far.md` for plot and character arcs,
+`characters.md` for what the party look like and how they carry themselves, and `to-do-list.md` for
+tracked fixes. This file exists so the voice lives in the repo rather than in any one tool's memory.
 
 ## The workflow that produced these
 
@@ -184,6 +184,10 @@ characters talk — to each other, to NPCs, to corpses. Scenes advance through w
 See the "Yours vs. Claude's" section below: this is the single biggest thing to protect.
 
 ## Characters
+
+This section is about how they *behave*. For what they look like, wear, and carry — heights, hair,
+Gven's tusks and single pauldron, Grindlefoot's bowler hat and bare feet, the state of Bilwin's
+beard at a given point in the campaign — see **`characters.md`**.
 
 Comedy and competence both come from character, never from the narrator:
 
