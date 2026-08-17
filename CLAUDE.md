@@ -62,8 +62,9 @@ They mix arc names (`eve-of-ruin`, `rod-of-seven-parts`), locations (`mournland`
 **Read `.claude/writing-voice.md` before drafting or editing any chapter prose.** It documents the
 voice in detail, derived from a full read of all 83 chapters, with examples. Alongside it:
 `.claude/characters.md` (what the party look like and how they carry themselves),
-`.claude/story-so-far.md` (arcs, character threads, what's still unresolved), and
-`.claude/to-do-list.md` (tracked fixes).
+`.claude/story-so-far.md` (arcs, character threads, what's still unresolved),
+`.claude/to-do-list.md` (tracked fixes), and `.claude/appendix-guide.md` (updating the appendix —
+see below).
 
 The short version: narrative prose, third person, **present tense** ("Mond hangs from a rung of the
 ladder…"), past tense only for things that already happened. Recent chapters run 2,000–4,600 words.
@@ -74,6 +75,21 @@ decided to." Dice outcomes are narrated as events, never as numbers in the prose
 distinct scenes).
 
 Links to D&D Beyond for monsters, spells, and rules are common and welcome.
+
+### Finishing a chapter means updating the appendix
+
+A chapter is not done when the prose is done. `_posts/2023-01-23-appendix.md` is the campaign's
+reference of record, and nothing about writing a chapter forces you to open it, so it goes stale
+silently.
+
+**After the chapter file is written and before opening the PR, do the appendix pass**: list the
+proper nouns the chapter introduces or touches, append the new chapter's link to every entry that
+already exists, add entries for anything named and load-bearing that has none, and check whether
+the chapter has moved something between sections — ch. 84 turned Landro from an Object into a
+Character and an Object. Record any secret learned, resolved, or spent.
+
+`.claude/appendix-guide.md` has the procedure, the format rules, and the checks to run before
+committing. Read it before editing the appendix.
 
 ### Session notes live in HTML comments
 
