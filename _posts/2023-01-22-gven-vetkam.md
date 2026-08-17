@@ -13,7 +13,7 @@ tags:
 
 ## Statistics
 
--   **Name:** Gven Vatkem (guh·ven vat·kem)
+-   **Name:** Gven Vetkam (guh·ven vet·kam)
 -   **Species:** [Half-orc](https://www.dndbeyond.com/species/2-half-orc) 
 -   **Class:** [Barbarian](https://www.dndbeyond.com/classes/barbarian) 
 -   **Gender:** Female
@@ -27,7 +27,7 @@ _[Character sheet at D&D Beyond](https://www.dndbeyond.com/characters/91974479/7
 
 On a blistering hot sunny day 23 years ago, in the grassy plains of The Badlands, a female half-orc baby entered the world unlike most others, with an uncharacteristically calm demeanor. She didn't scream or fuss or cry, rather, she quietly took in her surroundings, seeming to catalog everything of practical use. At least that's the story that Chok (chaak) and Gwendolyne Silje (gwen·doh·line sil·yuh) of the Sky Bisons tribe, Gven's (guh·ven) parents, like to tell anyone who will listen. 
 
-While Gven Vatkem (vat·kem) has the physical size, muscle, and passion of her father's half-orc heritage, she has also learned that it's often wiser to be silent. This affords her the time and opportunity to listen, observe, analyze, and consider her options before deciding to unleash the barbarian's rage that she knows how to use so well. Her parents have helped her cultivate these skills as she's grown older and stronger, skills that are particularly uncharacteristic for half-orcs, such as herself. 
+While Gven Vetkam (vet·kam) has the physical size, muscle, and passion of her father's half-orc heritage, she has also learned that it's often wiser to be silent. This affords her the time and opportunity to listen, observe, analyze, and consider her options before deciding to unleash the barbarian's rage that she knows how to use so well. Her parents have helped her cultivate these skills as she's grown older and stronger, skills that are particularly uncharacteristic for half-orcs, such as herself. 
 
 As a young adult half-orc, Chok was a traveling blacksmith of exceptional skill. He eventually settled with the Sky Bison tribe, where he was tolerated, even accepted by some, despite his orc heritage. Gwendolyne was the tribe's fiercest barbarian warrior, most astute tracker, and determined hunter. She was also a voice of reason, maturity, and leadership in the tribe, despite her young age. She was loved and respected by all members of the tribe. 
 

@@ -344,7 +344,12 @@ reason: Dolor had wanted to be a rogue since childhood and found he wasn't good 
 arrows went wide, ropes defeated him. Fenseck offered an alternative and he took it.
 
 **The parents thread is the campaign's live mystery and it is entirely his.** His mother and father
-were tinkerers in Eritz, jewelers and watchmakers, pacifists. Then:
+were tinkerers in Eritz, jewelers and watchmakers, pacifists. They are named **Amar** and
+**Alegría**, and he has a sister, **Lucha**, a painter — but only in his character post
+(`_posts/2023-01-22-dolor-vagarpie.md`). **No chapter has ever named any of the three.** The
+prose says "his parents" every time, ch. 81 included. The names are published where a curious
+reader can find them and unspoken where it would land; that is a reveal still sitting on the
+table. Then:
 
 - Ch. 74 — a warforged book in Sigil is written in a **substitution cipher** Dolor last saw as a
   child on a timepiece component in his parents' workshop. It is not native to Eritz.
