@@ -118,6 +118,75 @@ historical rate. **Keep** the tighter sentences and lower adverb count — those
 Em dashes are unspaced: `experience—and survival`. Your own reference note in the chapter files
 gives the Mac shortcut (Option + Shift + Dash), so this is a deliberate habit, not an accident.
 
+## Contractions — contract by default in narration
+
+Added after chapter 84, where this went wrong badly enough to be the most audible thing separating
+the draft from your prose. It survived two revision passes unnoticed.
+
+Measured on **narration only** — everything outside quotation marks, with HTML comments, link URLs
+and ch. 2's curly quotes normalised out — in contractions per 1,000 narration words:
+
+| | Chapters | Pooled | Median | Range |
+|---|---|---|---|---|
+| **You, ch. 1–77** | 74 | **16.9** | 16.7 | 7.4–46.5 |
+| — excluding the list-combat era | 55 | 17.4 | 17.1 | 8.3–35.8 |
+| — the list-combat chapters alone | 19 | 15.2 | 15.1 | 7.4–46.5 |
+| **You, ch. 56–77** | 22 | 17.6 | 16.9 | 12.0–35.8 |
+| **Claude-drafted, you-edited, 78–83** | 6 | **18.5** | 19.1 | 11.1–23.1 |
+| **Ch. 84, unedited** | 1 | **5.7** | — | — |
+
+**The drafted-and-edited chapters are not the problem — they're slightly above your own baseline.**
+78–83 pool at 18.5 against your 16.9. Every one of the six sits inside your range. Whatever your
+editing pass does to a Claude draft, it lands the narration on target or a shade past it.
+
+**Chapter 84 is not at the low end of the range. It is below the floor.** Your lowest chapter in
+77 is ch. 32 at 8.3; the lowest in the drafted run is ch. 79 at 11.1. Chapter 84 came in at 5.7 —
+under two thirds of the lowest number anywhere in the campaign, and about a third of the norm.
+
+Dialogue was never the problem in any era. Chapter 84's dialogue sits at 37.8, comfortably inside
+your 32–36. The failure is entirely in narration.
+
+The mechanism is a small set of forms that get written out instead of contracted. Raw counts, and
+the rate per 10,000 narration words:
+
+| Written out | You, 1–77 (113k words) | Drafted+edited, 78–83 (11.7k) | Ch. 84 (3.5k) |
+|---|---|---|---|
+| `it is` | 14 (1.2) | 2 (1.7) | **15 (42.8)** |
+| `does not` | 2 (0.2) | 3 (2.6) | **9 (25.7)** |
+| `that is` | 19 (1.7) | 1 (0.9) | **7 (20.0)** |
+| `they are` | 8 (0.7) | 0 (0.0) | **7 (20.0)** |
+| `there is` | 9 (0.8) | 5 (4.3) | **6 (17.1)** |
+| `he is` | 7 (0.6) | 1 (0.9) | **6 (17.1)** |
+| `is not` | 5 (0.4) | 5 (4.3) | **5 (14.3)** |
+| `are not` | 2 (0.2) | 0 (0.0) | 2 (5.7) |
+| `cannot` | 14 (1.2) | 1 (0.9) | 2 (5.7) |
+| `did not` | 2 (0.2) | 0 (0.0) | 0 (0.0) |
+| **All ten, per 10k** | **7.3** | **15.4** | **168.3** |
+
+That last row is the whole finding. You write these out **7.3 times per 10,000 words** of
+narration. Your edit of a Claude draft roughly doubles that to 15.4, which is still rare enough to
+be invisible. Chapter 84 ran at **168.3 — twenty-three times your rate.**
+
+Concretely: you wrote "does not" **twice in three years and 113,000 words.** Chapter 84 used it
+**nine times in one chapter.**
+
+**So: write `doesn't`, `isn't`, `can't`, `won't`, `wouldn't`, `hasn't`, `it's`, `that's`,
+`there's`, `they're`.** In your voice the expanded form isn't neutral — it reads as emphasis, and
+it only lands if it's rare. Chapter 84's one genuinely earned use:
+
+> He is not messing with them.
+
+That works because the line before it is a character claiming the opposite. But "and does not take
+the head off" three scenes earlier earns nothing; it's just stiff. The fix is almost always
+mechanical — contract it and move on.
+
+Watch for it particularly in these two places, which is where they cluster:
+
+- **Negated present-tense narration**, which this campaign runs on: "he does not press him,"
+  "distance does not hold still," "Mond does not ask a single question." All three want `doesn't`.
+- **Single-sentence paragraphs used as punctuation**, where the expanded form sounds portentous:
+  "One of them does not." → "One of them doesn't."
+
 ## Voice
 
 **Third person, present tense, always.** "Mond hangs from a rung of the ladder." Past tense only

@@ -83,15 +83,41 @@ defeating him — and Fenseck offered an alternative.
 (Ch. 27 also contains Eldritch Blasts, but they're cast *at* Dolor by enemy clerics. His Hellish
 Rebuke from ch. 6 on is a tiefling racial trait, not warlock.)
 
-**Open question — fighter features.** Three times *before* the pact, Dolor uses abilities the
+**The fighter features — answered.** Three times *before* the pact, Dolor uses abilities the
 chapters explicitly link to the **Fighter** class: `Second Wind` in ch. 36 and `action surge` twice
-in ch. 38, both linked to fighter class pages. That doesn't fit Rogue & Warlock. It could be an
-early multiclass that was later rebuilt, or the wrong link picked while drafting. **Tod or Doug
-would know; nothing has been assumed here.**
+in ch. 38. This was previously an open question here. It is not: the answer is in a comment block
+in his own character post, `_posts/2023-01-22-dolor-vagarpie.md`, where Doug explains the respec.
+
+He was rebuilt from pure rogue to **Rogue 5 / Warlock 3**, in November 2024. The patron is a
+**genie** (which is what Fenseck is), and the pact is **Pact of the Blade — Gleaming Blade is the
+pact weapon**. The fighter levels were traded away *in the fiction*, not retconned:
+
+> when he reached out to the Genie to enter into the warlock pact, he was given the option to
+> abandon the recent training in the martial world in exchange for gaining power in the arcane
+> world, he embraced that bargain
+
+Doug's reasoning is worth knowing because it reframes the character: the family "have hidden from
+their legacy because of the magic that is innate to them, this is a huge part of why he is so bent
+on addressing wrongs that he sees, he has spent his life feeling like he needs to hide who he truly
+is." The glass-blowing was always the tell — "his artistry and glass blowing has always leaned on
+this without his conscious awareness."
 
 **The pendant matters.** His parents were jewelers and glassblowers, and the parents thread is the
 campaign's live mystery — he builds a glory hole in Neverwinter in ch. 63 and finds their work again
 in ch. 74 and 82.
+
+**His family have names, and none of them have been spoken in a chapter.** From the backstory in
+his character post: his parents are **Amar** and **Alegría**, jewelers and watchmakers who roamed
+Eritz along the Ha-derech between Mirganor and Elsemar, "never charging more than they thought
+their clients could afford." He has a **sister, Lucha**, a painter — Dolor turned sand into glass,
+she painted.
+
+**Reveal status, stated precisely:** the names are *published* — the character post is live at
+`/dnd/adventurers/dolor-vagarpie/`, so a reader who goes looking has them. They have **never
+appeared in any of the 81 chapters**, including the entire Landro arc (ch. 75–84), which is built
+end to end on his parents having helped construct the colossus. When Dolor hears their voices in
+the gray fluid in ch. 81, the prose says "his parents." It does not name them. **That reveal is
+still available.**
 
 ## Grindlefoot
 
@@ -147,12 +173,25 @@ from ch. 59 onward. Note the scabbard moves: across her back early, at her hip b
 - **Complexion** darker — brown. **Height** 5′10″. **Build** slight and thin.
 - **Clothing** nondescript travel clothes in earth tones — pants, shirt, light jacket, boots.
 - **Weapon** a light crossbow he keeps hidden where possible, under his jacket or in his pack.
+- **Staff** a wooden staff. **Origin unrecorded** — it is not in the source doc and no chapter
+  shows him acquiring it; Tod confirms he carries one but doesn't recall when he got it. From
+  ch. 84 it carries **Landro's crystal** seated in its head, with the wood grown closed around it
+  by Grindlefoot's *Druidcraft*.
 - **Demeanor** logical-minded. Tries not to be noticed, keeps to the shadows, and **doesn't talk
   much because he doesn't want to be recognised as a magic user.**
 
 That last clause is the whole character. The reticence is not shyness, it is self-protection in a
 country that outlaws what he is — which is exactly why the Neverwinter chapters land so hard for
 him. See his thread in `story-so-far.md`.
+
+**His height disagrees across sources**: 5′10″ here (from the book-proposal doc), 5′9″ in his own
+character post `_posts/2023-01-22-mond-blue.md`. Unreconciled.
+
+**Where his character went after Elsemar** is recorded in a comment block in that same post, from
+Sanjaya and Dave: he hid his magic until hiding stopped being worth it, and now "fully embraces
+his nature." Dave's summary — *"he'd had enough bigotry for a lifetime and was done putting up
+with that shit."* Worth knowing before writing him as merely reticent; by the Rod era he has no
+patience left for zealots.
 
 ## Xantic Gearslip
 
