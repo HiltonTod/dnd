@@ -1,8 +1,8 @@
 # Characters
 
-Physical descriptions and demeanor for the five player characters, plus Xantic. Use this when
-writing anything that describes what someone looks like, wears, carries, or how they carry
-themselves.
+Physical descriptions and demeanor for the five player characters, plus Xantic (ch. 1–14) and
+Landro, the construct intelligence who joins the party in ch. 84. Use this when writing anything
+that describes what someone looks like, wears, carries, or how they carry themselves.
 
 **Source:** the "Characters" section of *D&D Book 1 — proposal & outline*
 ([Google Doc](https://docs.google.com/document/d/1SfqiQzS9lZKa2k7G9hgkHG0S2DFLctDo1T01YmUPbJA/edit)),
@@ -11,6 +11,9 @@ so below.
 
 Companion files: `writing-voice.md` for how to write them, `story-so-far.md` for what happened to
 them, `to-do-list.md` for tracked fixes.
+
+The "At a glance" table below covers the six the source doc describes. Landro has no species,
+class, height or age, so it sits outside the table with its own section.
 
 > **Gear** is recorded in two places: each character's own entry for what they carry day to day, and
 > **Gear bought off-page — chapter 55** at the bottom, which is the full list from the Neverwinter
@@ -204,6 +207,48 @@ patience left for zealots.
 
 The source entry is unfinished: **hair, clothing, and weapons are blank.** If he needs describing,
 those are open to invention. He leaves the party in ch. 14 to stay in Wayside.
+
+## Landro
+
+**Construct intelligence · no species or class · joins the party ch. 84**
+
+Not a player character, and not in the source doc — everything here comes from the chapters. Landro
+travels with the party permanently from ch. 84 on, so it needs describing the same way they do.
+
+It thinks aloud before it addresses anyone, speaks in careful formal deductions, and apologizes for
+a vocabulary it hasn't had a use for in centuries. After the adventurers transferred it into the
+dead pilot's control crystal, it travels with them seated in the head of Mond's staff — grown
+closed around it by Grindlefoot's *Druidcraft* — and speaks to them telepathically.
+
+**Two bodies, and it is neither of them.** Landro is the mind built to pilot the colossus, not the
+colossus itself: *"The construct is not me either."* It has appeared in two forms.
+
+- **Embodied (ch. 84 only).** It draws the gray fluid up off the floor into a humanoid column —
+  head, shoulders, arms, nothing below the waist. Thick and unhurried, heavy as cold honey climbing
+  a spoon; it holds its shape where water would not. Where a face would be there are two dim red
+  points that settle on each person in turn.
+- **In the crystal (ch. 84 on).** A gemstone the size of a large marble, cut the way a watchmaker's
+  jewel is cut, taken from the dead pilot's hand in ch. 82. It cannot leave the crystal. Its voice
+  arrives in everyone's head at once, and it does not like being tapped.
+
+**Voice rule — hold this.** Landro's speech is **formal and uncontracted**, always: "It is my
+house," "I have not had a use for words in some time," "That is extremely annoying." That register
+is the character — a mind that learned language before the war and hasn't used it since. It is a
+deliberate exception to the contraction guidance in `writing-voice.md`; do not contract Landro.
+As a crystal it also narrates the obvious, deadpan: *"Those are trees." "Why would one walk on
+ground?"*
+
+**What it wants.** Its memory stops at the war and it has learned nothing new since, so it asks for
+memories. Given one, it responds to what it finds rather than to the person: handed Mercy and Filch,
+it said *"no definition of meaning is a lonely place to be."*
+
+**Two things it said that nobody has explained.** Both are live and neither should be resolved
+casually:
+
+- To **Bilwin**: *"You came back."* Bilwin has no memory of ever being there. This lands on his
+  missing years and the dwarven company that quested for a piece of this same rod.
+- To **Dolor**: *"You look familiar."* Dolor said nothing, and still has not told anyone his parents
+  helped build the thing.
 
 ---
 
