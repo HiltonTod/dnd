@@ -4,7 +4,7 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–83**, the complete campaign, read in full and cross-checked against the
+**Coverage: chapters 1–84**, the complete campaign, read in full and cross-checked against the
 appendix.
 
 Note that **chapters 53–55 do not exist as posts** — they were sessions that never got written up.
@@ -232,7 +232,7 @@ Then the kiln flares, the world goes dark, and they're standing in a stranger's 
 
 > "Well, fuck."
 
-## Arc VI — The Rod of Seven Parts (ch. 64–83)
+## Arc VI — The Rod of Seven Parts (ch. 64–84)
 
 **They were summoned by accident.** Three archmages — **Alustriel Silverhand**, **Mordenkainen**, and
 **Tasha** — cast *Wish* to negate Vecna's power and got five adventurers instead. Mordenkainen's
@@ -284,6 +284,28 @@ Ch. 83 ends the drafted run with Glaive dead and Gven crouched over the body, tr
 carved into its chest and realizing **the warforged carved its own name** — the only name it could
 reach, the weapon it carried. She sits with the thought that if she'd been handed freedom with
 nothing underneath it, she isn't sure she'd have come out differently.
+
+**Ch. 84 finishes the colossus.** Grindlefoot tries a shape he's never tried — a tiny African dwarf
+frog — and cannot release it for the better part of a day, which the campaign does not explain. The
+party climbs to the head and finds the third piece floating above a ten-foot ceramic brain, and the
+gray fluid pooled beneath it stands up and introduces itself.
+
+**Landro is the mind, not the machine.** It was built to pilot the colossus, has been alone since
+the war with its memory stopped where its crew died trying to free it, and asks to be given a
+memory because it has learned nothing new since. Dolor consents; it takes Mercy finding Filch, and
+answers *"no definition of meaning is a lonely place to be."* Then it looks at Dolor and says **"You
+look familiar,"** and at Bilwin and says **"You came back."** Neither is explained. Bilwin has no
+memory of ever being there.
+
+It asks to come with them. Dolor gives it the control crystal taken from the dead pilot in ch. 82 —
+the one promised to Ialos — and Mond seats it in the head of his staff, where Grindlefoot later
+grows the wood closed around it. Landro leaving the colossus starts a one-minute self-destruct and
+wakes four guardians; Dolor grabs the rod and runs, Mond turns the others to vapour, and they drift
+out of the mouth barely faster than a walk. The colossus goes up behind them, the only real light
+any of them have seen in the Mournland.
+
+They return through the obsidian portal to the Sanctum with **three of seven pieces**, and advance
+to **level 13**.
 
 ---
 
@@ -396,17 +418,26 @@ own small argument that he intends to stay.
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open at ch. 83
+## Threads left open at ch. 84
 
 **Live and load-bearing:**
 
-- **The Rod of Seven Parts.** Two of seven recovered. The third is somewhere above them in Landro's
-  head; the party is in the chest, having just survived Glaive. Four more after that.
+- **The Rod of Seven Parts.** **Three of seven recovered.** The third grants *Reverse Gravity* once
+  a day. The pieces are being kept separate rather than assembled: Bilwin carries commune, Mond the
+  arcane gate. Four more to find, and the next direction is unknown at the end of ch. 84.
 - **Dolor's parents built Landro** — cipher, watch, voices in the fluid, workshop insignia — and he
   hasn't told anyone. Why tinkerer pacifists from another plane worked on a Cyran war machine is
-  unanswered.
+  unanswered. **Landro looked at him in ch. 84 and said "You look familiar."** He said nothing.
+  Their names, Amar and Alegría, have still never been spoken in a chapter.
 - **Bilwin's dead company**, and the sentence he surfaced under Alustriel's guidance: *"We will start
   with the one and the rest will come after."* Tasha has offered to try again when he's ready.
+  **Landro told him "You came back"** in ch. 84 and would not elaborate; Bilwin has no memory of it.
+  This is the first outside confirmation that his missing years touch this arc.
+- **Landro travels with the party** from ch. 84, in a crystal on Mond's staff. It cannot leave the
+  crystal, speaks telepathically, and knows things about Bilwin and Dolor that they do not.
+- **Grindlefoot could not release a wild shape** for most of a day in ch. 84. Unexplained on the
+  page, and it sits directly on his existing thread — the affinity that has been quietly becoming
+  something more since ch. 66.
 - **Torp / Davanor** is alive, still pursuing genocide in Eritz, and tracking his sister across
   planes. Their last exchange was a letter on a corpse.
 - **Vecna**, the link he forced on the party in ch. 59, and the Chime of Exile plan that requires
@@ -418,8 +449,10 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
 **Owed, promised, or simply left:**
 
-- **The pilot's helmet and the empty gemstone** from Landro, promised to the warforged pilgrims of
-  Ialos on the way out.
+- **The pilot's helmet** from Landro, still promised to the warforged pilgrims of Ialos. **The
+  gemstone promised alongside it in ch. 82 is now Landro's vessel** and is not theirs to give — Gven
+  raised it, and Dolor's answer was "they get the helmet." The debt is half paid at best, and Ialos
+  has not been told.
 - **Mercy and Filch**, returned to Ialos. **Gertrude**, last seen swinging a greatclub into fifteen
   cultists. **Ikasa** wants to find Palenna; the appendix says Palenna was rescued.
 - **Eva Brightbroom** is keeping five houses and a garden in Neverwinter and does not explain

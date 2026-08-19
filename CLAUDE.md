@@ -11,7 +11,7 @@ the continent is Eritz.
 
 | Path | Contents |
 |---|---|
-| `_posts/` | Everything. 88 files: 81 chapters, 6 character posts, 1 appendix |
+| `_posts/` | Everything. 89 files: 82 chapters, 6 character posts, 1 appendix |
 | `_pages/` | `about.md` plus the archive pages (category/tag/year) and 404 |
 | `_data/navigation.yml` | Top nav |
 | `assets/images/` | Maps, handouts, screenshots |
@@ -90,6 +90,12 @@ Character and an Object. Record any secret learned, resolved, or spent.
 
 `.claude/appendix-guide.md` has the procedure, the format rules, and the checks to run before
 committing. Read it before editing the appendix.
+
+**The same staleness applies to the `.claude/` reference docs.** A chapter that introduces a
+companion, resolves a thread, or settles a question about a character leaves `characters.md` and
+`story-so-far.md` wrong until someone updates them, and nothing forces that either. Ch. 84 alone
+added Landro, closed Dolor's class question, and moved three open threads. Update them in the same
+pass, and bump the coverage line at the top of `story-so-far.md`.
 
 ### Session notes live in HTML comments
 
