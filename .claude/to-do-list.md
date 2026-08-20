@@ -110,6 +110,65 @@ if a future chapter trusted them.
 - [ ] "praticioners" → practitioners (Eyes of the Star entry)
 - [ ] "proprieter" → proprietor (Boscoe); "penchance" → penchant (Dave Chevits)
 
+### Missing and wrong chapter citations — the archmages
+
+**The Sanctum cast are the most under-cited entries in the appendix.** All four NPCs appear in
+chapters their entries don't list, and one entry cites a chapter its subject isn't in. Verified by
+grepping the rendered prose of every chapter with HTML comments stripped, so passing mentions count
+(per `appendix-guide.md` step 1) but working notes don't.
+
+| Entry | Section | Appears in | Currently cited | **Add** | **Remove** |
+|---|---|---|---|---|---|
+| **Alustriel Silverhand** | Characters | 63, 64, 66, 67, 68, 74, 75 | 55, 63, 64, 67, 74, 75 | **66, 68** | — |
+| **Tasha** | Characters | 64, 67, 68, 74, 75 | 64, 67, 74, 75 | **68** | — |
+| **Mordenkainen** | Characters | 63, 64, 67, 68, 74, 84 | 63, 64, 67, 74, 75, 84 | **68** | **75** |
+| **Malaina van Talstiv** | Characters | 67, 68, 74 | 67, 74 | **68** | — |
+| **The Sanctum** | Shops, inns, & pubs | 64, 66, 67, 74, 75, 84 | 64, 74, 84 | **66, 67, 75** | — |
+
+- [ ] **Alustriel Silverhand — add ch. 66 and 68.** Ch. 66: her voice comes through the portal,
+      *"Come now, let's not tarry in this unpleasant place."* Ch. 68: she breakfasts with the party
+      and opens the portal to the Astral Plane.
+- [ ] **Tasha — add ch. 68.** She is named at the morning meal and is present when the archmages
+      see the party off.
+- [ ] **Mordenkainen — add ch. 68**, where he is at the meal and the send-off.
+- [ ] **Mordenkainen — remove ch. 75.** He is not in that chapter. `grep -ci mordenkainen` on
+      `_posts/2026-03-30-chapter-75.md` returns **0**. The archmage in ch. 75 is Tasha, with the
+      potato-scrying scene, and she is already cited for it.
+- [ ] **Malaina van Talstiv — add ch. 68.** *"followed shortly by Malaina's silent entrance"*, and
+      she is named again in the list of who accompanies the morning meal.
+- [ ] **The Sanctum — add ch. 66, 67, and 75.** Ch. 66 returns there through the portal, ch. 67 is
+      the baths-and-dinner chapter set entirely inside it, ch. 75 opens with Grindlefoot wandering
+      its halls.
+
+**Ch. 85 will add all three archmages again** (Alustriel, Tasha, Mordenkainen — not Malaina, who
+isn't in it) plus the Sanctum's kitchen. Do that in ch. 85's own appendix pass, not here.
+
+**Not part of this item:** Alustriel's ch. 55 citation is one of the seven links to unwritten
+chapters, tracked in item 2. Leave it until that decision is made.
+
+**While you're in these entries**, the descriptions are thin — Alustriel's reads "known for being
+intelligent, wise, charismatic, and very beautiful," which is a stat block rather than a person,
+and Tasha's doesn't mention that she is the one who will keep Vecna after the Chime of Exile, which
+is her whole reason for being in the campaign. `npc-characters.md` has the material for both.
+
+- [ ] Ch. 74's prose links the name *Mordenkainen* to **Alustriel's** wiki page. Copy-paste slip in
+      the chapter, not the appendix, but it surfaced during the same pass.
+
+### Missing entries
+
+- [ ] **The Sunburst Shield has no appendix entry**, and is now named in three chapters. Bilwin
+      buys it in ch. 63 from an inebriated dwarf in a Bluelake market, and it is Hanseath's:
+      *"The Bearded One drank a beer with it, sang a rousin' tune, and then called it the Sunburst
+      Shield."* PR #93 named it in ch. 73 and ch. 78 as well, replacing the holy symbol that had
+      crept into the drafted chapters. Belongs under **Objects**, immediately before Tempest Edge
+      (nothing else in that section falls between S and T). Stated mechanics, for the sub-bullet: *"It can shine a light as bright
+      as daylight once a day for ten minutes and the undead really don't like it."* Cite ch. 63, 73,
+      and 78.
+
+Same class as the paid-for-but-never-written items in section 2 — a thing that exists in the
+fiction and is invisible in the reference. Worth a sweep for others: any item acquired on the page
+that hasn't been named since.
+
 ### Structural
 
 - [ ] 15 entries carry no chapter citation while the rest do: Elar, Herbert, Lyra Swiftarrow, Preva,

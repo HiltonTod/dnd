@@ -62,6 +62,8 @@ They mix arc names (`eve-of-ruin`, `rod-of-seven-parts`), locations (`mournland`
 **Read `.claude/writing-voice.md` before drafting or editing any chapter prose.** It documents the
 voice in detail, derived from a full read of all 83 chapters, with examples. Alongside it:
 `.claude/characters.md` (what the party look like and how they carry themselves),
+`.claude/npc-characters.md` (the same for recurring NPCs — traits, mannerisms, and the speaking
+rule that holds for every line they say),
 `.claude/story-so-far.md` (arcs, character threads, what's still unresolved),
 `.claude/to-do-list.md` (tracked fixes), and `.claude/appendix-guide.md` (updating the appendix —
 see below).
@@ -92,10 +94,13 @@ Character and an Object. Record any secret learned, resolved, or spent.
 committing. Read it before editing the appendix.
 
 **The same staleness applies to the `.claude/` reference docs.** A chapter that introduces a
-companion, resolves a thread, or settles a question about a character leaves `characters.md` and
-`story-so-far.md` wrong until someone updates them, and nothing forces that either. Ch. 84 alone
-added Landro, closed Dolor's class question, and moved three open threads. Update them in the same
-pass, and bump the coverage line at the top of `story-so-far.md`.
+companion, resolves a thread, or settles a question about a character leaves `characters.md`,
+`npc-characters.md`, and `story-so-far.md` wrong until someone updates them, and nothing forces
+that either. Ch. 84 alone added Landro, closed Dolor's class question, and moved three open
+threads. Update them in the same pass, and bump the coverage line at the top of `story-so-far.md`.
+
+An NPC who gets a second scene needs an entry in `npc-characters.md`, not just an appendix line —
+the appendix records who they are, that file records how they sound.
 
 ### Session notes live in HTML comments
 
