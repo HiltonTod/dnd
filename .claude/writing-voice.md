@@ -118,6 +118,36 @@ historical rate. **Keep** the tighter sentences and lower adverb count — those
 Em dashes are unspaced: `experience—and survival`. Your own reference note in the chapter files
 gives the Mac shortcut (Option + Shift + Dash), so this is a deliberate habit, not an accident.
 
+### The drafted chapters invent props, not just tics
+
+Everything above measures *style*. There is a second, quieter failure mode: a **physical detail
+invented in a drafted chapter reads as canon by the next one**, because the chapter is published and
+nothing distinguishes it from the 77 you wrote alone.
+
+The worked example is **Bilwin's holy symbol**. It entered in ch. 78 — "raises his holy symbol" —
+survived your edit, and was reached for again in ch. 84 as though established. It never was:
+
+- **Bilwin carries no holy symbol anywhere in ch. 1–77.** Not once.
+- Every other use of the phrase in the campaign is *someone else's, as an object* — the medallions
+  in Davanor's warehouse (ch. 25, 28), B'raq's symbol, The One's scorched-over symbol (ch. 40, 44).
+- It contradicts your own worldbuilding. Ch. 25: *"Bilwin realizes that they're holy symbols—and are
+  highly illegal since the Conflict."* His line is "Like clerics **used to** wear over their robes."
+- He already had a better object: the **Sunburst Shield**, bought in ch. 63 and named by Hanseath,
+  who "drank a beer with it, sang a rousin' tune, and then called it the Sunburst Shield." It had
+  been named exactly once in the whole campaign and never referred to again.
+
+Fixed in PR #93: ch. 73 and 78 now name the shield, and ch. 84 drops the clause entirely.
+
+**The rule: before writing a character handling, wearing, or drawing something, grep ch. 1–77 for
+it.** If the only hits are in ch. 78 or later, it is a draft invention, not an established prop —
+say so rather than building on it. `characters.md` is the inventory of record and the
+"Gear bought off-page" table is the list of things they own but have never used on the page. Reach
+for one of those before inventing.
+
+The same check runs in the other direction: an item introduced on the page and then never named
+again goes quietly missing. The Sunburst Shield did it for ten chapters, and `to-do-list.md` tracks
+four more.
+
 ## Contractions — contract by default in narration
 
 Added after chapter 84, where this went wrong badly enough to be the most audible thing separating
