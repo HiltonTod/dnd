@@ -125,23 +125,29 @@ grepping the rendered prose of every chapter with HTML comments stripped, so pas
 | **Malaina van Talstiv** | Characters | 67, 68, 74 | 67, 74 | **68** | — |
 | **The Sanctum** | Shops, inns, & pubs | 64, 66, 67, 74, 75, 84 | 64, 74, 84 | **66, 67, 75** | — |
 
-- [ ] **Alustriel Silverhand — add ch. 66 and 68.** Ch. 66: her voice comes through the portal,
+- [x] ~~**Alustriel Silverhand — add ch. 66 and 68.**~~  **Done** in the ch. 85 appendix pass.
+       Ch. 66: her voice comes through the portal,
       *"Come now, let's not tarry in this unpleasant place."* Ch. 68: she breakfasts with the party
       and opens the portal to the Astral Plane.
-- [ ] **Tasha — add ch. 68.** She is named at the morning meal and is present when the archmages
+- [x] ~~**Tasha — add ch. 68.**~~  **Done** in the ch. 85 appendix pass.
+       She is named at the morning meal and is present when the archmages
       see the party off.
-- [ ] **Mordenkainen — add ch. 68**, where he is at the meal and the send-off.
-- [ ] **Mordenkainen — remove ch. 75.** He is not in that chapter. `grep -ci mordenkainen` on
+- [x] ~~**Mordenkainen — add ch. 68**~~  **Done** in the ch. 85 appendix pass.
+      , where he is at the meal and the send-off.
+- [x] ~~**Mordenkainen — remove ch. 75.**~~  **Done** in the ch. 85 appendix pass.
+       He is not in that chapter. `grep -ci mordenkainen` on
       `_posts/2026-03-30-chapter-75.md` returns **0**. The archmage in ch. 75 is Tasha, with the
       potato-scrying scene, and she is already cited for it.
-- [ ] **Malaina van Talstiv — add ch. 68.** *"followed shortly by Malaina's silent entrance"*, and
+- [x] ~~**Malaina van Talstiv — add ch. 68.**~~  **Done** in the ch. 85 appendix pass.
+       *"followed shortly by Malaina's silent entrance"*, and
       she is named again in the list of who accompanies the morning meal.
-- [ ] **The Sanctum — add ch. 66, 67, and 75.** Ch. 66 returns there through the portal, ch. 67 is
+- [x] ~~**The Sanctum — add ch. 66, 67, and 75.**~~  **Done** in the ch. 85 appendix pass.
+       Ch. 66 returns there through the portal, ch. 67 is
       the baths-and-dinner chapter set entirely inside it, ch. 75 opens with Grindlefoot wandering
       its halls.
 
-**Ch. 85 will add all three archmages again** (Alustriel, Tasha, Mordenkainen — not Malaina, who
-isn't in it) plus the Sanctum's kitchen. Do that in ch. 85's own appendix pass, not here.
+**Done.** Ch. 85's own appendix pass added the three archmages, Landro, the Sanctum, Sigil and Ialos,
+and created entries for the Grimoire of Gastronomy, the batter golem and the Sunburst Shield.
 
 **Not part of this item:** Alustriel's ch. 55 citation is one of the seven links to unwritten
 chapters, tracked in item 2. Leave it until that decision is made.
@@ -156,7 +162,8 @@ is her whole reason for being in the campaign. `npc-characters.md` has the mater
 
 ### Missing entries
 
-- [ ] **The Sunburst Shield has no appendix entry**, and is now named in three chapters. Bilwin
+- [x] ~~**The Sunburst Shield has no appendix entry**~~  **Done** in the ch. 85 appendix pass.
+      , and is now named in three chapters. Bilwin
       buys it in ch. 63 from an inebriated dwarf in a Bluelake market, and it is Hanseath's:
       *"The Bearded One drank a beer with it, sang a rousin' tune, and then called it the Sunburst
       Shield."* PR #93 named it in ch. 73 and ch. 78 as well, replacing the holy symbol that had
