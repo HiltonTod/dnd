@@ -29,9 +29,9 @@ built out.
 
 | | Species / role | Home | First seen | Chapters |
 |---|---|---|---|---|
-| **Alustriel Silverhand** | Human wizard, high mage of Silverymoon | The Sanctum, in Sigil | ch. 55 (unwritten) | 63, 64, 66, 67, 68, 74, 75 |
-| **Tasha** | Human archmage, of Oerth | — | ch. 64 | 64, 67, 68, 74, 75 |
-| **Mordenkainen** | Human archmage, of Oerth | Oerth | ch. 63 | 63, 64, 67, 68, 74, 84 |
+| **Alustriel Silverhand** | Human wizard, high mage of Silverymoon | The Sanctum, in Sigil | ch. 55 (unwritten) | 63, 64, 66, 67, 68, 74, 75, 85 |
+| **Tasha** | Human archmage, of Oerth | — | ch. 64 | 64, 67, 68, 74, 75, 85 |
+| **Mordenkainen** | Human archmage, of Oerth | Oerth | ch. 63 | 63, 64, 67, 68, 74, 84, 85 |
 | **Malaina van Talstiv** | Human assassin; Alustriel's wife | The Sanctum | ch. 67 | 67, 68, 74 |
 
 The three archmages cast *Wish* together to negate Vecna's power and got five adventurers instead
@@ -300,8 +300,7 @@ keeping consistent.
 
 ## Appendix gaps for these four
 
-Recorded here rather than fixed, per the standing rule in `to-do-list.md` that appendix changes are
-content decisions. Tracked as item 3, *Missing and wrong chapter citations*, in that file:
+**Resolved in the chapter 85 appendix pass.** Kept here as the record of what was wrong:
 
 - **Alustriel's entry omits ch. 66 and 68.** It reads "known for being intelligent, wise,
   charismatic, and very beautiful," which is a stat block, not a person.
@@ -312,6 +311,37 @@ content decisions. Tracked as item 3, *Missing and wrong chapter citations*, in 
 - **The Sanctum's entry omits ch. 66, 67, and 75.** It also links a real-world blog post as the
   source for the house, which is fine but worth knowing.
 - Ch. 74's prose links the name *Mordenkainen* to Alustriel's wiki page. A copy-paste slip.
+
+## The Grimoire of Gastronomy
+
+**Sentient cookbook · the Sanctum's kitchen · ch. 85**
+
+The campaign's fourth talking magic item, after Whelm, Wave and Blackrazor, and the first that isn't
+a weapon. Enormous, bound in leather gone dark at the corners, its title stamped across the cover in
+gold. It flies on beating pages, settles in the air at about eye height, and opens itself to a
+requested page — hard, so the pages slap flat.
+
+**Voice rule — every line comes back to its own injury or its own dignity.** It is the wounded party
+in any room it is in, and it will tell you so. That is the whole character and it holds for every
+line it speaks.
+
+> "Oh, thank the gods. People. Functional people, with hands, who did not spend the morning
+> explaining to me that they had read me already."
+
+> "I would like everyone present to note which of us in this room he thought to put inside the
+> bubble, and which of us he left on the table next to an open flame."
+
+> "Would you like one of your arms burnt off? No? Then perhaps some sympathy."
+
+> "The warnings come at the end."
+
+Its second register is professional exasperation at people who don't read properly — *"This is
+exactly the sort of thing people never read carefully, and then they are disappointed, and then it
+is somehow my doing."* When the recipe finally works it abandons the grievance completely and
+shrieks with joy from the ceiling.
+
+It cannot be argued with about cooking and it is right about cooking, which is the reason it gets
+away with the rest.
 
 ## Still to build out
 
@@ -327,5 +357,3 @@ value first, by how likely they are to come back:
 - **Torp / Davanor** — alive, hunting his sister across planes.
 - **Eva Brightbroom**, **Gertrude**, **Ikasa**, **Redbud**, **Captain Inda**, **Tham**,
   **Cap'n Don Karnahge**, **Cindel Trueshot**, **Umberto Noblin**, **Sarcelle Malinosh**.
-- **The Grimoire of Gastronomy** — new in ch. 85; a talking magic item, which the campaign already
-  has three of (Whelm, Wave, Blackrazor). Add once ch. 85 is final.

@@ -4,7 +4,7 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–84**, the complete campaign, read in full and cross-checked against the
+**Coverage: chapters 1–85**, the complete campaign, read in full and cross-checked against the
 appendix.
 
 Note that **chapters 53–55 do not exist as posts** — they were sessions that never got written up.
@@ -232,7 +232,7 @@ Then the kiln flares, the world goes dark, and they're standing in a stranger's 
 
 > "Well, fuck."
 
-## Arc VI — The Rod of Seven Parts (ch. 64–84)
+## Arc VI — The Rod of Seven Parts (ch. 64–85)
 
 **They were summoned by accident.** Three archmages — **Alustriel Silverhand**, **Mordenkainen**, and
 **Tasha** — cast *Wish* to negate Vecna's power and got five adventurers instead. Mordenkainen's
@@ -306,6 +306,28 @@ any of them have seen in the Mournland.
 
 They return through the obsidian portal to the Sanctum with **three of seven pieces**, and advance
 to **level 13**.
+
+**Ch. 85 is the exhale, and the campaign's first comic chapter since Elsemar.** Two days at the
+Sanctum with nothing to do, which none of them are good at. Landro narrates the furniture. Gven
+cleans her sword and lies awake thinking about Torp, because he turns up whenever her hands are
+empty. Bilwin doesn't sleep at all, still working on *"You came back."* Mond admits to himself he
+doesn't want to go home. **The helmet is settled off-page**: they left it at Ialos on the way out,
+which closes the ch. 82 debt, and Landro reveals it knew the dead pilot — "He was not good at his
+work. He was, however, present, which the others were not."
+
+Then the kitchen. Mordenkainen, attempting a legendary confection out of **the Grimoire of
+Gastronomy**, casts a *globe of invulnerability* around himself so the flour won't land on his
+robes, and seals all three archmages inside it at the moment the recipe fails. The oven's heat rune
+is cracked and the only way to stop it is to finish the recipe. The three of them disagree about the
+ingredient order from inside the bubble, immaculate, while the kitchen is white with flour; Dolor
+reasons out the one order that satisfies all three constraints — flour, egg, sugar, salt, ash — and
+the mixture rises into a **batter golem**. The room cracks along a rune at the same moment, and while
+the others fight the golem Dolor re-carves the rune with his thieves' tools. The golem dies on fire,
+keeps swelling from the heat, and fills the kitchen with cake around all nine of them.
+
+No piece of the rod, no level, and no direction for the fourth piece yet. What it does is give the
+party a day of ordinary life among people who are no longer strangers, and let Tasha refer out loud
+to the goldfish.
 
 ---
 
@@ -418,7 +440,7 @@ own small argument that he intends to stay.
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open at ch. 84
+## Threads left open at ch. 85
 
 **Live and load-bearing:**
 
@@ -449,10 +471,10 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
 **Owed, promised, or simply left:**
 
-- **The pilot's helmet** from Landro, still promised to the warforged pilgrims of Ialos. **The
-  gemstone promised alongside it in ch. 82 is now Landro's vessel** and is not theirs to give — Gven
-  raised it, and Dolor's answer was "they get the helmet." The debt is half paid at best, and Ialos
-  has not been told.
+- ~~**The pilot's helmet** from Landro, promised to the warforged pilgrims of Ialos.~~ **Closed in
+  ch. 85** — they left it with the pilgrims on the way out of Mournland, and Charity accepted it. It
+  is inert now that the pilot's chamber is destroyed. The gemstone promised alongside it in ch. 82
+  stays with the party as Landro's vessel.
 - **Mercy and Filch**, returned to Ialos. **Gertrude**, last seen swinging a greatclub into fifteen
   cultists. **Ikasa** wants to find Palenna; the appendix says Palenna was rescued.
 - **Eva Brightbroom** is keeping five houses and a garden in Neverwinter and does not explain
