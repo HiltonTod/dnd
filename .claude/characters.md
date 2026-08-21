@@ -160,9 +160,31 @@ for harming. He has it silvered and carved with plant filigree in ch. 63.
 |---|---|---|
 | Wooden Gruumsh amulet | before ch. 1 | Carved by her father. **Given to Veylara in ch. 32** — she no longer wears it |
 | Plain greatsword | before ch. 1 | Nondescript, non-magical, ~5 feet, scabbard across her back |
-| **Tempest Edge** | ch. 32 | Veylara's gift. Lightning once/day as a bonus action; lightning resistance; on a crit, a deafening thunderclap |
+| **Two small hand axes** | before ch. 1 | One at her side, one in her pack. Thrown or used in the off hand |
+| **Two javelins** | before ch. 1 | Carried on her back, for distance. Rarely mentioned — see below |
+| **Tempest Edge** | ch. 32 | Veylara's gift. **5½ feet long**, so it does *not* out-reach her height. Lightning once/day as a bonus action; lightning resistance; on a crit, a deafening thunderclap |
 | **Vestment of the Bound Sigil** | **ch. 55** | See below |
 | **Boots of Striding and Springing** | ch. 63 | Bought on-page from a gnome cordwainer |
+
+**The hand axes and javelins are hers from the start and are easy to forget.** Both predate ch. 1 and
+both are load-bearing in a fight — the axes are what she reaches for when the greatsword is wrong for
+the job, and the javelins are her only real answer at range.
+
+- **Hand axes.** Ch. 7 has her pull "a handaxe from her belt" and throw it. Ch. 13 is explicit about
+  the count: she "readies her two hand axes for short range throws." One rides at her side, the other
+  in her pack.
+- **Javelins.** Two, carried on her back — ch. 62, "a javelin strapped to her back"; ch. 66, she pulls
+  one and then "the remaining javelin from her back"; ch. 73, "her second and only remaining javelin."
+  **Ch. 13 says four**, thrown during the first wave at Wayside. Two is the number from ch. 62 on.
+
+**Don't narrate the javelins except when she uses one.** Carrying javelins around is not simple and
+the prose doesn't pretend otherwise — they surface at the moment of the throw and are otherwise
+invisible. Same restraint the chapters already show.
+
+**Tempest Edge is 5½ feet and Gven is 6′8″, so the blade is shorter than she is.** Noted here because
+the sword that is "longer than Gven is tall" in ch. 31 is **Veylara's own greatsword**, handed over for
+Gven to admire a chapter before the boot dagger is given. Ch. 32 is the authority: "the giant's five
+and a half foot long dagger."
 
 The longcoat is the "shimmering longcoat" and "enchanted coat" the later chapters keep referring to
 from ch. 59 onward. Note the scabbard moves: across her back early, at her hip by ch. 77.

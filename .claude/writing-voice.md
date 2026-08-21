@@ -94,6 +94,114 @@ So a chapter that is one long corridor of rooms and fights will come in low, and
 is not to force dialogue into a dungeon chapter — it's to make sure a dungeon run is broken up by a
 Sarcelle, an Umberto, or a Tham.
 
+## Structure — the four things that give a draft away
+
+**Added after chapter 85.** Everything above measures word choice. These measure *shape*, and they
+turned out to matter more: a draft can pass every tic check above and still not read like you,
+because the sentences and paragraphs are built differently. Measured over all 74 of your chapters
+1–77 (excluding the AI-alternate ch. 62), with ch. 56–77 broken out as the most recent run written
+by you alone.
+
+`.claude/style-check.py` computes all of these. Run it from the repo root before handing over a
+draft.
+
+All figures below are what `style-check.py` prints, so the file and the tool never disagree.
+
+| | You, 1–77 | You, 56–77 | Drafted 78–84 | Ch. 85 draft 1 | Ch. 85 rev 3 |
+|---|---|---|---|---|---|
+| Fronted-participle openers, per 100 sentences | 9.2 | **10.1** | 1.9 | **0.0** | 7.7 |
+| Narration paragraph, mean words | 57.4 | **53.0** | 38.8 | 29.3 | 49.8 |
+| Narration paragraph, median words | 51 | **46** | 34 | 24 | 45 |
+| Single-sentence narration paragraphs | 18.1% | **19.4%** | 30.7% | 39.5% | 14.3% |
+| Narration sentence, mean words | 17.4 | **17.8** | 15.0 | 14.7 | 17.1 |
+| Narration sentence, median | 17 | **18** | 13 | 11 | 15 |
+| Narration sentences ≤ 6 words | 11.8% | **9.1%** | 22.3% | 27.4% | 19.7% |
+| Average quoted speech turn, words | 44.4 | **29.3** | 6.9 | 5.2 | 14.3 |
+| Collective nouns per 1k words | 3.6 | **2.8** | 2.7 | 0.6 | 1.8 |
+| Dialogue tags: lead-in vs trailing | 105 : 20 | **32 : 6** | 2 : 35 | 1 : 5 | 3 : 11 |
+| Contractions per 1k narration words | 21.4 | **19.9** | 18.6 | 21.9 | 16.4 |
+| Written-out forms per 10k narration words | 8.7 | **9.1** | 20.0 | 76.9 | 7.7 |
+
+### 1. Fronted participial openers — your signature, and the easiest thing to miss
+
+You open sentences with a fronted participial or absolute phrase **10 times per 100 sentences**.
+The drafted run does it twice. Chapter 85's first draft did it **zero times in 4,500 words**,
+and that single fact did more to make it not sound like you than every vocabulary tic combined.
+
+It is densest in combat, where it is close to the default sentence shape. One paragraph after
+another in ch. 66:
+
+> **Gripping his battle axe,** Bilwin follows Gven into battle.
+
+> **With the others engaged in close combat,** Dolor draws Gleaming Blade and joins them.
+
+> **Having gotten its attention,** the huge spider turns towards Gertrude and spews a stream of acid.
+
+> **Taking its fury out on Bilwin,** the beast lashes out with two of its legs.
+
+> **Seeing the spider dragon close to its end,** Gven grips Tempest Edge tightly with both hands.
+
+> **No longer paralyzed,** Grindlefoot sits on the floor recovering his strength.
+
+Write combat this way by default. The construction carries the reason for the action into the same
+sentence as the action, which is why your fights read as decisions rather than as a list of turns.
+
+### 2. Paragraphs, and the single-sentence paragraph as punctuation
+
+Your narration paragraphs run **53 words on average, median 46** — four to seven sentences. The
+drafted run halves that, and chapter 85's first draft halved it again.
+
+The single-sentence paragraph is a real device of yours and it is listed under **Voice** below as
+one. But you use it at **19.4%** of narration paragraphs. The drafted run uses it at 37%, and
+ch. 85's first draft at 40% — twice your rate. Past about one in five it stops being punctuation
+and becomes the default rhythm, and the prose reads clipped and modern instead of like you.
+
+### 3. Your characters make speeches
+
+Average length of a quoted turn: **29.3 words in ch. 56–77, 44.4 across 1–77.** Chapter 85's first
+draft averaged **5.2** — rapid-fire one-liners with nobody holding the floor. Compare Grindlefoot
+asking Tasha for a favour in ch. 75: four sentences, 55 words, one paragraph, one speaker.
+
+The median turn is only 11 words, so this is a *distribution*, not a floor. Keep the punchlines
+short. Let the expository and character turns run long — an NPC explaining a thing, a character
+reasoning a puzzle out aloud, anyone with an agenda.
+
+### 4. Telepathy is in quotes, never italics
+
+Every instance in chapters 1–77 uses plain double quotes with a narrative tag doing the work:
+
+> each of them hears in their head simultaneously, "Wazzup?" *(ch. 64, Maltok)*
+
+> Whelm, is speaking to him telepathically. "Come on lad, let's get 'em!" *(ch. 51)*
+
+> the sorcerer sends the telepathic message, "Stop attacking." *(ch. 70)*
+
+> All of the companions hear the creature's telepathic response, "Your arcane tricks do not work on
+> me, sorcerer." *(ch. 70)*
+
+**Ch. 84 sets Landro in italics and is the only chapter that does**, which makes it a drafted-run
+import rather than a habit of yours. See *The drafted chapters invent props* — same class of
+problem, applied to typography.
+
+### Also
+
+- **Tag dialogue before it, not after.** 104 lead-in tags against 19 trailing across 1–77 —
+  `Bilwin exclaims, "We get that a lot!"`. Your other habit is an action beat before the line with
+  no tag at all. A trailing `"…," he says` is the drafted run's default, not yours.
+- **Collective nouns.** "The companions," "the group," "the adventurers" — 2.8 to 3.6 per 1,000
+  words. Drafts run a fraction of that and name everyone individually instead.
+
+### The trap: these targets pull against the contraction rule
+
+Chapter 85's third pass fixed the structure and **broke the narration voice doing it**. Lengthening
+and formalising sentences dropped contractions to 9.5 per 1,000 narration words and pushed
+written-out forms to 74.6 per 10,000 — chapter 84's exact failure, reintroduced by fixing something
+else. "It is on everything." "There is breakfast." "That is as far as she gets."
+
+**Measure both, in the same pass.** Fixing the shape is not finished until the contractions are back
+where they were. Note that Landro is exempt and unaffected, because his uncontracted register lives
+inside quotation marks and the contraction rule is measured on narration only.
+
 ## Yours vs. Claude's
 
 Measured across the full 151,865-word pre-Claude corpus (chapters 1–77) against the drafted run.
@@ -555,7 +663,10 @@ only account of it.
 - **Gleaming Blade** is looted off a goblin corpse in ch. 7 and mistaken for a rusty old sword;
   Dolor attunes to it in ch. 9 and learns it belonged to a paladin.
 - **Tempest Edge** is a *gift* from **Veylara**, a storm giant, in ch. 32 — it is her boot dagger,
-  sister-forged to her own greatsword, and it is longer than Gven is tall. **This debt is still
+  sister-forged to her own greatsword, and it is **five and a half feet long**, which is shorter
+  than Gven. (The sword that is "longer than Gven is tall" in ch. 31 is Veylara's *own*
+  greatsword, handed over to be admired a chapter before the dagger is given. An earlier draft of
+  this file conflated the two and a ch. 85 draft repeated the error.) **This debt is still
   open.** Gven promised to return the blade one day, and Veylara holds her family's Gruumsh
   medallion — carved by Gven's father — as the counter-gift, worn as an earring. Any scene that
   wants to land on Gven should know this exists.
