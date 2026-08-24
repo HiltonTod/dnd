@@ -512,21 +512,20 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   party still doesn't — *"Had I kent, I wid ne'er hae—"* — and has not appeared since. Neverember
   had never heard of him. Whether he was The One's from the start, coerced, or simply frightened is
   unanswered, and nobody in the party has yet said his name out loud again.
-- **Wave went into the rift.** Tham threw it, the rift tore wide, and nothing since has said where
-  the trident ended up. This is a question about The One and about what was watching from inside
-  the opening — not about the party's gear.
-
 **Owed, promised, or simply left:**
 
 - ~~**The pilot's helmet** from Landro, promised to the warforged pilgrims of Ialos.~~ **Closed in
   ch. 85** — they left it with the pilgrims on the way out of Mournland, and Charity accepted it. It
   is inert now that the pilot's chamber is destroyed. The gemstone promised alongside it in ch. 82
   stays with the party as Landro's vessel.
-- ~~**Whelm and Blackrazor.**~~ **Closed by authorial decision, 23 Aug 2026.** Both hit the cavern
-  floor in ch. 53 and stay there. **Their stories are ended.** Do not write a recovery, a callback,
-  or a scene in which anyone remembers them — the silence from ch. 56 on is the intended ending, not
-  an oversight to repair. Ch. 85's note calling the Grimoire "the campaign's fourth talking magic
-  item, after Whelm, Wave and Blackrazor" is the last word either of them gets.
+- ~~**Wave, Whelm, and Blackrazor.**~~ **All three closed by authorial decision, 23 Aug 2026.**
+  Whelm and Blackrazor hit the cavern floor in ch. 53 and stay there; Wave went through the rift and
+  does not come back. **Their stories are ended.** Do not write a recovery, a callback, or a scene
+  in which anyone remembers them — the silence from ch. 56 on is the intended ending, not an
+  oversight to repair. Ch. 85's note calling the Grimoire "the campaign's fourth talking magic item,
+  after Whelm, Wave and Blackrazor" is the last word any of them gets. **The rift is a separate
+  matter**: what tore it open, and what was watching from inside it, still belong to The One's
+  thread below.
 - **Mercy and Filch**, returned to Ialos. **Gertrude**, last seen swinging a greatclub into fifteen
   cultists. **Ikasa** wants to find Palenna; the appendix says Palenna was rescued.
 - **Eva Brightbroom** is keeping five houses and a garden in Neverwinter and does not explain
