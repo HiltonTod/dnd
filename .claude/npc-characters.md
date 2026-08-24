@@ -82,7 +82,7 @@ The imperative register, in full:
 **She addresses people by role, warmly**: "my dear dwarf," "master dwarf," "young sorcerer," "sir
 dwarf." Her farewell is a formula: *"Farewell and may courage be your constant companion."*
 
-**Her first appearance is ch. 53, and it is the only time the party sees her act.** The temple
+**Her first appearance is ch. 53, and it is the only time the party sees her use power.** The temple
 cavern is flooding with boiling water and all five of them are drowning in it when she stops time —
 the surge freezes mid-crash, drops hang in the air "like crystal teardrops," the heat vanishes — and
 walks through it untouched. Her whole scene is five short lines, and the register is the imperative
@@ -102,6 +102,37 @@ the party wakes up in Neverwinter without having been told anything. **This is t
 later warmth is measured against**, and it's worth remembering when writing her: the composed host
 in the parlor is the same person who once looked at five people boiling to death and said one
 word.
+
+**Ch. 54 is her second appearance, and it is the counterweight to ch. 53.** She arrives as a flicker
+of fae light in a corner of the party's room — Dolor spots it and identifies the origin before she
+resolves — and this time she explains herself. The register is new: still time-pressured (*"I have
+little time, so we will forgo introductions"*, *"Time is short"*), but volunteering rather than
+withholding, and opening with something close to an apology: *"I feel like I owe you a better
+explanation of how and why you came to be here, along with some guidance."*
+
+**She silences Bilwin without a word**, which is the single most useful piece of business she has and
+the cheapest to reuse: he starts to speak, "his typical first response in every situation," and *"The
+Lady gives him a soft look, one that would calm a raging minotaur, and the dwarf's mouth remains
+slightly open even though no words come out."* No spell is named. Nobody remarks on it afterwards.
+
+**She has a third register beyond the composed host and the clipped imperative: the honest
+consoler.** Gven asks what any of this has to do with her brother, and Alustriel neither reassures
+her nor spares her — Torp's "inner demons weaken his resolve," he found ridicule where Gven found
+strength, and *"His fate is not yet completely written, but his path is a difficult one. Perhaps as
+difficult as yours."* Note the construction: she gives Gven a real answer, declines the comforting
+version, and ends by putting the two siblings on the same footing. When she needs to deliver bad
+news about someone the listener loves, this is how she does it.
+
+**She looks at people as an assessment.** Before vanishing she spends "a final moment looking into
+each of their eyes. It's more than just a glance, it's a measurement of their resolve, their courage,
+their ability to endure." Pairs with ch. 53's *"We shall soon see what you're made of."*
+
+**Her ch. 54 exposition is the campaign's central briefing** — the weapons as a beacon, the planar
+barrier weakening, an unnamed bearer siphoning magic from Eritz, and the link to the anti-arcane
+animosity back home. She frames the limits of her own knowledge honestly: *"That is most of what we
+know. The rest will come in time, as it always does. We hope that it comes in time to stop him."*
+Her sign-off, *"I will return for you as soon as I am able,"* matches Neverember's outside account of
+her almost word for word.
 
 **Everyone who is not the party calls her "The Lady."** Neverember and Quentin Voss use nothing
 else in ch. 53, capitalized, and Neverember's account of her is the outside view of the character:
@@ -325,10 +356,10 @@ keeping consistent.
 
 ## Dagult Neverember
 
-**Male human · Lord of Neverwinter · scenes in ch. 53, 62, 63; referenced in ch. 56 and 57**
+**Male human · Lord of Neverwinter · scenes in ch. 53, 54, 62, 63; referenced in ch. 56 and 57**
 
 **Two names, and the chapters use both.** He is **Dagult Neverember** in ch. 53, 56, and 57, and
-**"Lord Neverwinter"** — the title, not the surname — in ch. 53, 62, and 63. Ch. 53 is the only
+**"Lord Neverwinter"** — the title, not the surname — in ch. 53, 54, 62, and 63. Ch. 53 is the only
 place both appear, and it reconciles them: *"butler to the Lord of Neverwinter, Dagult
 Neverember."* The appendix uses Neverember. **Use Neverember in narration; "Lord Neverwinter" reads
 as how people address him.**
@@ -359,6 +390,14 @@ campaign's standing weakness.
 
 **He disparages his own city's institutions freely** — "the ineptitude of our constablery confounds
 them" — and this is the only heat he ever shows.
+
+**Ch. 54 is the briefing scene, and it shows him doing the work rather than asking for it.** Over
+breakfast he names the four missing citizens, and he has already spent his own money on divinations
+from the **House of Knowledge** — the priests traced the trail to **Hallix Mausoleum** and were
+blocked from seeing inside it. So the "ineptitude of our constablery" line from ch. 53 is not a man
+excusing himself: he exhausted the tools he had before he asked. Worth remembering when writing him,
+because it is the only evidence in the corpus that his helplessness is genuine rather than
+convenient.
 
 **He pays generously and after the fact.** The Neverdeath job leads to five deeded houses on a
 cul-de-sac in the Bluelake District in ch. 63. The party never negotiated for any of it.

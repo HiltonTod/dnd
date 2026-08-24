@@ -74,6 +74,11 @@ itself out of his grip — the prose makes a point of dwarven hand strength fail
 floor alongside Wave and Blackrazor. **Neither Bilwin nor anyone else has mentioned it since** — no
 chapter from 56 on refers to the hammer at all, and nothing in the prose marks the loss.
 
+**Ch. 54 confirms the demeanor line above in one clause.** He starts to speak to The Lady — "his
+typical first response in every situation" — and she stops him with a look before a word gets out.
+The chapter treats it as unremarkable, which is the correct handling: Bilwin talking first is the
+default state, not a joke to be set up.
+
 **That is the ending, and it is deliberate** (author's decision, 23 Aug 2026). Whelm is finished as
 a story object. Bilwin does not get the hammer back, does not go looking for it, and does not
 deliver a scene about having lost it. If his weapon comes up after ch. 53, it is the hurdy-gurdy.
@@ -82,6 +87,13 @@ The same holds for the other two. Dolor held **Wave** for a matter of minutes in
 long enough for it to frost over and cold-burn his hand open, before Tham threw it through the rift;
 **Blackrazor** was clawed off Gustaf's back and left on the floor. **All three are closed** — none
 of them returns, and nobody goes back for them.
+
+**One qualification, added with ch. 54 (24 Aug 2026).** The Lady tells the party that someone *now
+bears* all three weapons and is using them to siphon magic from Eritz. That does not reopen Bilwin's
+side of it — he still never mentions Whelm again, never looks for it, and his weapon after ch. 53 is
+the hurdy-gurdy — but it does mean the hammer is not lying on a cavern floor somewhere being
+irrelevant. If Bilwin ever learns who holds it, that is a scene the closure did not anticipate.
+See `story-so-far.md` under "Owed, promised, or simply left" for the flag on this.
 
 ## Dolor Vagarpie
 
