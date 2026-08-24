@@ -512,11 +512,9 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   party still doesn't — *"Had I kent, I wid ne'er hae—"* — and has not appeared since. Neverember
   had never heard of him. Whether he was The One's from the start, coerced, or simply frightened is
   unanswered, and nobody in the party has yet said his name out loud again.
-- **Wave, Whelm, and Blackrazor.** Wave went into the rift. Whelm and Blackrazor hit the cavern floor
-  in ch. 53 and **no chapter since has mentioned any of the three.** Bilwin lost a talking warhammer
-  that had been in his head for two chapters and has never remarked on it. Ch. 85's note calling the
-  Grimoire "the campaign's fourth talking magic item, after Whelm, Wave and Blackrazor" is the only
-  acknowledgement they ever existed.
+- **Wave went into the rift.** Tham threw it, the rift tore wide, and nothing since has said where
+  the trident ended up. This is a question about The One and about what was watching from inside
+  the opening — not about the party's gear.
 
 **Owed, promised, or simply left:**
 
@@ -524,6 +522,11 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   ch. 85** — they left it with the pilgrims on the way out of Mournland, and Charity accepted it. It
   is inert now that the pilot's chamber is destroyed. The gemstone promised alongside it in ch. 82
   stays with the party as Landro's vessel.
+- ~~**Whelm and Blackrazor.**~~ **Closed by authorial decision, 23 Aug 2026.** Both hit the cavern
+  floor in ch. 53 and stay there. **Their stories are ended.** Do not write a recovery, a callback,
+  or a scene in which anyone remembers them — the silence from ch. 56 on is the intended ending, not
+  an oversight to repair. Ch. 85's note calling the Grimoire "the campaign's fourth talking magic
+  item, after Whelm, Wave and Blackrazor" is the last word either of them gets.
 - **Mercy and Filch**, returned to Ialos. **Gertrude**, last seen swinging a greatclub into fifteen
   cultists. **Ikasa** wants to find Palenna; the appendix says Palenna was rescued.
 - **Eva Brightbroom** is keeping five houses and a garden in Neverwinter and does not explain
