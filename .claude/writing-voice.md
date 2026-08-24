@@ -621,7 +621,7 @@ happens, not a break from it.
 ## Profanity
 
 Used sparingly and always as a punchline or a pressure release, never as texture. "Well, fuck."
-ends chapter 63. Elden shrugs "Fuck you all" and jumps into a portal. Kycera's "Get that fucker!"
+ends chapter 63. Eldon shrugs "Fuck you all" and jumps into a portal. Kycera's "Get that fucker!"
 launches a fight. Grindlefoot's "Do you want to fuck yarn or do you want this?" is the biggest
 laugh in the run. Keep it rare enough that it lands.
 

@@ -1,6 +1,6 @@
 # To-do list
 
-Tracked suggestions from reading the full corpus (ch. 1–83) and the appendix. Nothing here has been
+Tracked suggestions from reading the full corpus (ch. 1–85, including ch. 54) and the appendix. Nothing here has been
 acted on — these are proposals for Tod to accept, reject, or reorder. Check items off in place.
 
 Grouped by size, biggest commitment first.
@@ -45,21 +45,21 @@ CLAUDE.md says to preserve HTML comments.
 
 ---
 
-## 2. Chapters 54 and 55 were never written
+## 2. Chapter 55 was never written
 
-Not a numbering skip — sessions that never got written up. ~~Ch. 53~~ **written 22–23 Aug 2026** and
-published under its session date, 14 April 2025. It covers the end of White Plume Mountain, Tham's
-betrayal, Alustriel's rescue, and Lord Neverember's commission — so the arrival in Neverwinter and
-first contact with Alustriel are both now on the page.
+Not a numbering skip — a session that never got written up. ~~Ch. 53~~ **written 22–23 Aug 2026** and
+~~ch. 54~~ **written 24 Aug 2026**, both published under their session dates (14 and 28 April 2025).
+Ch. 53 covers the end of White Plume Mountain, Tham's betrayal, Alustriel's rescue, and Neverember's
+commission. Ch. 54 covers the breakfast briefing — the four victims named, the House of Knowledge
+divinations, Hallix Mausoleum — and The Lady's second appearance, which is the campaign's central
+exposition. Hallix is therefore **no longer missing**; it is introduced in ch. 54.
 
-Still missing, per the appendix: the Gilded Glyph (magic shop, Maelis Varn), the Fucking Duck
-(dwarven jeweler), and Hallix Mausoleum. Ch. 56 still opens with "The adventurers leave The Gilded
-Glyph," a shop the reader has never seen.
+Still missing, per the appendix: the Gilded Glyph (magic shop, Maelis Varn) and the Fucking Duck
+(dwarven jeweler). Ch. 56 still opens with "The adventurers leave The Gilded Glyph," a shop the
+reader has never seen. Tod repointed the two shop entries from ch. 54 to ch. 55 in the same pass that
+merged ch. 54, so the appendix is internally consistent.
 
-The appendix's dead links, recounted after ch. 53 shipped: **7 links to `chapter-53/` now
-resolve**, and **7 are still 404** — 5 to `chapter-54/` and 2 to `chapter-55/`.
-
-- [ ] Decide for 54 and 55: write them, or leave them as a gap and fix the links to point elsewhere
+- [ ] Decide for 55: write it, or leave it as a gap and fix the links to point elsewhere
 
 **Ch. 55 was the party's first-ever magic shopping trip** and its consequences are already loose in
 the prose. Full item list is in `characters.md` under "Gear bought off-page." Four items were bought
@@ -106,10 +106,21 @@ if a future chapter trusted them.
 
 ### Typos and inconsistencies
 
+- [x] ~~**Keyward: two spellings.**~~ **Resolved 24 Aug 2026 — Tod's call: Eldon, with an o.**
+      Renamed across the corpus: ch. 59, 60, 61, 62, 62-ai, 63, and the appendix. Ch. 54 already had
+      it right. `story-so-far.md` and `writing-voice.md` updated too. **Eldon Keyward is now the only
+      spelling in the repo.**
+- [ ] **Ch. 54 HTML comment**: "siutation" for "situation", in the cut Bilwin battle-hammer aside.
+      Cosmetic — it does not render — but it is in the working notes if that aside is ever restored.
+- [ ] **Ch. 54 has no `co-written-with-claude` tag.** If it was drafted with Claude it needs one per
+      `CLAUDE.md`; if Tod wrote it unaided, no action. Its tags are `eve-of-ruin` and `neverwinter`
+      only — note it also carries no `secret-learned` tag despite being the chapter where the party
+      learns what the weapons did.
+
 - [ ] "Cyndal" for Cindel, in the Low Elves membership list
 - [ ] "Inda Malayui" (Characters) vs "Inda Malayuri" (Ships) — same person
 - [ ] "The Guilded Glyph" → "Gilded" (in the Fucking Duck entry)
-- [ ] Elden Keyward described as "Male elven scholar" then "enlists the group to find **her**"
+- [ ] Eldon Keyward described as "Male elven scholar" then "enlists the group to find **her**"
       (copy-paste from the Sarcelle / Indrina / Umberto entries, which share the sentence)
 - [ ] "praticioners" → practitioners (Eyes of the Star entry)
 - [ ] "proprieter" → proprietor (Boscoe); "penchance" → penchant (Dave Chevits)

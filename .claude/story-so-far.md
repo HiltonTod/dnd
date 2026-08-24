@@ -5,13 +5,14 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 the story: what each arc was about, what changed for each character, and what was left open.
 
 **Coverage: chapters 1–85**, the complete campaign as published, read in full and cross-checked
-against the appendix.
+against the appendix. **Ch. 54 added 24 August 2026.**
 
-Note that **chapters 54 and 55 do not exist as posts** — sessions that never got written up. **Ch. 53
-was written on 22–23 August 2026**, a year and a half after its session, and files under its session
-date of 14 April 2025. It closes the Temple of Aish and puts the party in Neverwinter. The appendix
-records what happened in the two still missing (the Gilded Glyph, the Fucking Duck, Hallix
-Mausoleum), and ch. 56 opens as if the reader had been there.
+Note that **chapter 55 does not exist as a post** — a session that never got written up. **Ch. 53 was
+written on 22–23 August 2026 and ch. 54 on 24 August 2026**, both a year and a half after their
+sessions, filed under their session dates of 14 and 28 April 2025. Ch. 53 closes the Temple of Aish
+and puts the party in Neverwinter; ch. 54 is Neverember's briefing and The Lady's explanation. The
+appendix records what happened in the one still missing (the Gilded Glyph, the Fucking Duck), and
+ch. 56 opens as if the reader had been there.
 
 ---
 
@@ -229,11 +230,50 @@ Ch. 52 was quietly revised alongside ch. 53 to seed the betrayal: Tham now hesit
 to join them — *"Confusion or self-preservation causes him to lower his head for a moment"* — and
 his sudden competence in the crab fight is flagged as **"Suddenly seeming sober."**
 
-## The gap (ch. 54–55)
+## Ch. 54 — the briefing and The Lady's explanation
 
-Two unwritten sessions, between the Neverwinter arrival and the graveyard. Per the appendix: the
-party shops at the **Gilded Glyph** and the **Fucking Duck**, and finds **Hallix Mausoleum**. Ch. 56
-opens as they leave the Gilded Glyph.
+The morning after the Neverwinter arrival, and the chapter that finally says out loud what the
+campaign is about. Two scenes, no fight, ~670 words — the shortest chapter in the modern run.
+
+**Breakfast with Neverember.** He elaborates on the favour asked in ch. 53. The kidnappings run back
+months, all at night, with no visible connection between victims. Four are named here for the first
+time: **Eldon Keyward**, elven scholar of the Outer Planes; **Indrina Lamsensettle**, human actor in
+the highest social circles; **Sarcelle Malinosh**, human wild-magic sorcerer of the Outer Planes; and
+**Umberto Noblin**, gnome historian of deities. Three of the four are Outer Planes or divine
+specialists, which is the shape of the thing well before anyone says "Vecna." Neverember has funded
+divinations from the **House of Knowledge**; the priests followed the trail as far as **Hallix
+Mausoleum** in Neverdeath Graveyard and could not see inside it, blocked "by some unknown means—or
+individual."
+
+**The Lady's second appearance**, an hour later in the party's room. Dolor catches a flicker of light
+in a corner and knows it for fae before it resolves into her. She gives them the exposition the
+campaign has been withholding since ch. 53:
+
+- Bringing **Whelm, Wave, and Blackrazor** together in the Temple of Aish "set off a beacon to
+  dangerous foes" — brave, courageous, and clever, but rash.
+- Their combined magic **weakens the barrier between planes** and **grants the holder certain
+  powers**.
+- **Someone now bears those weapons**, and he is "of great concern" to her and her colleagues. His
+  motivation is unknown to them.
+- He is **siphoning magical energy from Eritz**, and that "appears to be connected to the animosity
+  towards arcane users on your home world" — the first line tying the Hands of the Wand and the
+  policing of magic in Elsemar to a cause outside Elsemar.
+
+Asked directly by Gven about Torp, she answers without softening it: the enemy "takes on many
+disguises, deceiving those who yearn for meaning beyond their normal experiences," and those who
+feel lost or slighted are easy prey to him. Torp's "inner demons weaken his resolve"; where Gven
+found strength in her mixed heritage, he found ridicule and humiliation. *"His fate is not yet
+completely written, but his path is a difficult one. Perhaps as difficult as yours."* It is the
+closest anyone has come to explaining Torp rather than reporting him.
+
+She asks them to assist Neverember, promises to return "as soon as I am able," and looks each of
+them in the eye — "more than just a glance, it's a measurement of their resolve, their courage,
+their ability to endure" — before vanishing. Mond: *"That was cryptic as fuck."*
+
+## The gap (ch. 55)
+
+One unwritten session, between the briefing and the graveyard. Per the appendix: the party shops at
+the **Gilded Glyph** and the **Fucking Duck**. Ch. 56 opens as they leave the Gilded Glyph.
 
 ## Arc V — Neverdeath and Evernight (ch. 56–63)
 
@@ -502,6 +542,11 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   something more since ch. 66.
 - **Torp / Davanor** is alive, still pursuing genocide in Eritz, and tracking his sister across
   planes. Their last exchange was a letter on a corpse.
+- **The bearer of Whelm, Wave, and Blackrazor** — unnamed, and unmotivated as far as The Lady knows.
+  He is **siphoning magical energy from Eritz** (ch. 54), and she ties that to the animosity toward
+  arcane users on the party's home world, which retroactively gives the Hands of the Wand a cause
+  outside Elsemar. **Introduced ch. 54 and never followed up in ch. 56–85** — the party has never been
+  told who he is and has never gone looking. See the weapons note below before writing to this.
 - **Vecna**, the link he forced on the party in ch. 59, and the Chime of Exile plan that requires
   the whole rod.
 - **Tempest Edge is borrowed.** Gven owes Veylara the blade's return; the storm giant wears her
@@ -526,6 +571,15 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   after Whelm, Wave and Blackrazor" is the last word any of them gets. **The rift is a separate
   matter**: what tore it open, and what was watching from inside it, still belong to The One's
   thread below.
+  **Amended by ch. 54, merged 24 Aug 2026 — the day after the closure decision.** The Lady names all
+  three on the page and says **someone now bears them**, that their combined magic weakens the planar
+  barrier and empowers whoever holds them, and that he is siphoning magic from Eritz. The closure
+  still holds where it was aimed: the **party's** relationship with the weapons is over, Bilwin does
+  not get Whelm back, and nobody goes looking. But the objects are no longer inert — they are the
+  antagonist's power source and the engine of the central mystery. Ch. 54 sits before ch. 56, so it
+  does not break "silence from ch. 56 on." **Decision needed from Tod:** if the closure was meant to
+  retire the weapons entirely rather than just the party's arc, ch. 54 is the line to change, because
+  as written it makes them load-bearing again.
 - **Mercy and Filch**, returned to Ialos. **Gertrude**, last seen swinging a greatclub into fifteen
   cultists. **Ikasa** wants to find Palenna; the appendix says Palenna was rescued.
 - **Eva Brightbroom** is keeping five houses and a garden in Neverwinter and does not explain
@@ -547,7 +601,7 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
 Worth knowing before drafting: the campaign keeps making the same move, and it works every time.
 **Someone the party has no reason to help asks for help, and they do it, and it costs them.** Preva's
-husband, Vera, the town of Wayside, Rightside, Sarcelle, Umberto, Elden, Figaro's crew, Redbud and
+husband, Vera, the town of Wayside, Rightside, Sarcelle, Umberto, Eldon, Figaro's crew, Redbud and
 Ikasa, Captain Inda's wing, Mercy's lost friend, and finally a blind golem that only wanted its maps
 back. Alustriel names it in ch. 67 as the reason they might survive Vecna at all. Gven complains
 about it in the bath in ch. 67 and does it again eight chapters later.
