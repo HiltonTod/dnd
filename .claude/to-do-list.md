@@ -45,17 +45,21 @@ CLAUDE.md says to preserve HTML comments.
 
 ---
 
-## 2. Chapters 53, 54, 55 were never written
+## 2. Chapters 54 and 55 were never written
 
-Not a numbering skip — three sessions that never got written up. The appendix documents their
-content and links to them, so **seven appendix links are 404s on the live site**, and ch. 56 opens
-with "The adventurers leave The Gilded Glyph," a shop the reader has never seen.
+Not a numbering skip — sessions that never got written up. ~~Ch. 53~~ **written 22–23 Aug 2026** and
+published under its session date, 14 April 2025. It covers the end of White Plume Mountain, Tham's
+betrayal, Alustriel's rescue, and Lord Neverember's commission — so the arrival in Neverwinter and
+first contact with Alustriel are both now on the page.
 
-What happened in them, per the appendix: the arrival in Neverwinter, the Gilded Glyph (magic shop,
-Maelis Varn), the Fucking Duck (dwarven jeweler), Hallix Mausoleum, and first contact with
-Alustriel Silverhand.
+Still missing, per the appendix: the Gilded Glyph (magic shop, Maelis Varn), the Fucking Duck
+(dwarven jeweler), and Hallix Mausoleum. Ch. 56 still opens with "The adventurers leave The Gilded
+Glyph," a shop the reader has never seen.
 
-- [ ] Decide: write them, or renumber, or leave them as a gap and fix the links to point elsewhere
+The appendix's dead links, recounted after ch. 53 shipped: **7 links to `chapter-53/` now
+resolve**, and **7 are still 404** — 5 to `chapter-54/` and 2 to `chapter-55/`.
+
+- [ ] Decide for 54 and 55: write them, or leave them as a gap and fix the links to point elsewhere
 
 **Ch. 55 was the party's first-ever magic shopping trip** and its consequences are already loose in
 the prose. Full item list is in `characters.md` under "Gear bought off-page." Four items were bought

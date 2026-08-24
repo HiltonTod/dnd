@@ -4,12 +4,14 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–85**, the complete campaign, read in full and cross-checked against the
-appendix.
+**Coverage: chapters 1–85**, the complete campaign as published, read in full and cross-checked
+against the appendix.
 
-Note that **chapters 53–55 do not exist as posts** — they were sessions that never got written up.
-The appendix records their content (the arrival in Neverwinter, the Gilded Glyph, Hallix Mausoleum,
-meeting Alustriel Silverhand), and ch. 56 opens as if the reader had been there.
+Note that **chapters 54 and 55 do not exist as posts** — sessions that never got written up. **Ch. 53
+was written on 22–23 August 2026**, a year and a half after its session, and files under its session
+date of 14 April 2025. It closes the Temple of Aish and puts the party in Neverwinter. The appendix
+records what happened in the two still missing (the Gilded Glyph, the Fucking Duck, Hallix
+Mausoleum), and ch. 56 opens as if the reader had been there.
 
 ---
 
@@ -148,7 +150,7 @@ Her advice: "don't trust your senses overly much."
 The arc ends mid-approach, still short of the temple, fighting an undead tyrannosaurus that vomits
 zombies.
 
-## Arc IV — The Temple of Aish (ch. 40–52)
+## Arc IV — The Temple of Aish (ch. 40–53)
 
 The dungeon crawl the campaign is still, in a sense, inside. The party crosses Amonah to the volcano
 temple, and the antagonist finally acquires a name — or rather refuses to: **The One**.
@@ -188,17 +190,55 @@ by a giant crab, inside a bubble holding back a cavern of boiling water. Along t
 Gustaf carries Blackrazor because he's the only one it can't seduce, and rigs a scabbard for it out
 of Dave Chevits's knitted scarves.
 
-## The gap (ch. 53–55)
+**Ch. 53 is where it all goes wrong**, and it goes wrong immediately. Dolor has the trident and the
+prophecy is solved — and then all three weapons reject their bearers at once. Blackrazor has to be
+clawed off Gustaf's back. Whelm shakes itself out of a dwarf's grip. Wave frosts over and burns
+Dolor's hand with cold. The three of them hit the floor together, glow, and set up a resonance felt
+in the bone rather than heard, and the space above the cavern tears open. **Something waits inside
+the rift and watches, patiently.**
 
-Three unwritten sessions. Per the appendix: the party leaves Amonah — Gven's later summary in ch. 63
-says they were *"suddenly transported to Neverwinter"* — arrives on a different plane, shops at the
-**Gilded Glyph** and the **Fucking Duck**, first encounters **Alustriel Silverhand**, and finds
-**Hallix Mausoleum**. Ch. 56 opens as they leave the Gilded Glyph.
+Then **Tham** — the drunk they picked up in a pantry one chapter earlier — stumbles forward with
+his eyes wide in horror and gives the campaign its first real betrayal:
+
+> "Och, nay...nay! Had I kent, I wid ne'er hae—"
+
+He grabs Wave off the floor and hurls it into the rift. The trident tears the opening wide and the
+boiling sea comes through. The party is scalded, slammed, drowned, and dying, and there is no
+version of the fight they win.
+
+**Alustriel Silverhand stops time.** She walks through the frozen flood untouched — silver hair, a
+cloak that shimmers like a starlit sky, the unicorn-headed staff — says *"Enough,"* and delivers the
+verdict the arc has been building to: *"You have played into his hand. But there are still more
+cards to be dealt."* **This is her first appearance in the campaign, and she is never named in it** —
+she is "The Lady" to Neverember and Voss and nothing at all to the party. The name *Alustriel
+Silverhand* first reaches the page in ch. 63; Mordenkainen introduces her out loud in ch. 64.
+
+They wake in clean beds in **Neverwinter**, wounds tended, clothes washed and folded. **Quentin
+Voss**, butler to **Lord Dagult Neverember**, walks them to a sitting room where Neverember —
+high-born, exhausted, careful — explains that they have been left in his care by "The Lady," who is
+not one to be denied, and who never leaves a loose end. Then he asks for the favour: people are
+being kidnapped in his city, his constables are useless, and there are whisperings about the
+graveyard. **The party pretends to deliberate.** They have no idea where they are, how they got
+there, or how to get home, and they always say yes to this.
+
+Two people don't come back with them. **Gustaf** is fine — already in Neverember's library, "entombed
+there, devouring texts long since given to dust." **Tham is simply gone.** Neverember has never heard
+of him and The Lady never mentioned him.
+
+Ch. 52 was quietly revised alongside ch. 53 to seed the betrayal: Tham now hesitates before agreeing
+to join them — *"Confusion or self-preservation causes him to lower his head for a moment"* — and
+his sudden competence in the crab fight is flagged as **"Suddenly seeming sober."**
+
+## The gap (ch. 54–55)
+
+Two unwritten sessions, between the Neverwinter arrival and the graveyard. Per the appendix: the
+party shops at the **Gilded Glyph** and the **Fucking Duck**, and finds **Hallix Mausoleum**. Ch. 56
+opens as they leave the Gilded Glyph.
 
 ## Arc V — Neverdeath and Evernight (ch. 56–63)
 
-Lord Neverember hires them to find people who went into Neverdeath Graveyard and didn't come out. It
-looks like a job. It's the hinge of the campaign.
+They take up the job Neverember gave them in ch. 53 — find the people who went into Neverdeath
+Graveyard and didn't come out. It looks like a job. It's the hinge of the campaign.
 
 They recover **Sarcelle Malinosh**, a sorceress stripped of her magic, who saw a skeletal figure on a
 hilltop in a vision that still frightens her: *"It was Vecna."* Then **Umberto Noblin**, a gnome
@@ -466,8 +506,17 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   the whole rod.
 - **Tempest Edge is borrowed.** Gven owes Veylara the blade's return; the storm giant wears her
   father's medallion as an earring.
-- **Getting home.** The party has been on other planes since roughly ch. 53 and Mond, at least, is
-  no longer certain he wants to go back.
+- **Getting home.** The party has been on other planes since ch. 53, when Alustriel deposited them
+  in Neverwinter without explanation, and Mond, at least, is no longer certain he wants to go back.
+- **Tham betrayed them and vanished.** He threw Wave into the rift in ch. 53 knowing something the
+  party still doesn't — *"Had I kent, I wid ne'er hae—"* — and has not appeared since. Neverember
+  had never heard of him. Whether he was The One's from the start, coerced, or simply frightened is
+  unanswered, and nobody in the party has yet said his name out loud again.
+- **Wave, Whelm, and Blackrazor.** Wave went into the rift. Whelm and Blackrazor hit the cavern floor
+  in ch. 53 and **no chapter since has mentioned any of the three.** Bilwin lost a talking warhammer
+  that had been in his head for two chapters and has never remarked on it. Ch. 85's note calling the
+  Grimoire "the campaign's fourth talking magic item, after Whelm, Wave and Blackrazor" is the only
+  acknowledgement they ever existed.
 
 **Owed, promised, or simply left:**
 
@@ -480,8 +529,11 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 - **Eva Brightbroom** is keeping five houses and a garden in Neverwinter and does not explain
   anything.
 - **The One** on Amonah — the entity that is neither god nor mortal, that carved its symbol over
-  B'raq's shrine and tore a piece off Zimon. The party took its three weapons and left the island
-  without ever meeting it. Nothing has closed this.
+  B'raq's shrine and tore a piece off Zimon. The party assembled its three weapons and never
+  delivered them; the prophecy's *"Death or glory? It's up to you"* was answered by a rift, a
+  betrayal, and a rescue. Alustriel's ch. 53 verdict — *"You have played into his hand"* — is the
+  only reading anyone has offered of what actually happened in that cavern, and **"his" has never
+  been identified.** Nothing has closed this.
 - **Lyra's favor.** A symbol drawn in dirt outside Wayside — mark it anywhere and a ranger comes.
   Never used, three years and several planes ago.
 - **The Heart of the People**, and Tella's contact **Brooj** at Elsemar's Hall of Records.

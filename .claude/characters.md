@@ -17,8 +17,12 @@ class, height or age, so it sits outside the table with its own section.
 
 > **Gear** is recorded in two places: each character's own entry for what they carry day to day, and
 > **Gear bought off-page — chapter 55** at the bottom, which is the full list from the Neverwinter
-> shopping trip that was never written. Items acquired on-page (Whelm, Gleaming Blade, the Sunburst
-> Shield, Dolor's pocket watch) are described in `story-so-far.md` and the appendix.
+> shopping trip that was never written. Items acquired on-page (Gleaming Blade, the Sunburst Shield,
+> Dolor's pocket watch) are described in `story-so-far.md` and the appendix.
+>
+> **The three White Plume weapons are gone.** Whelm, Wave, and Blackrazor were carried for two
+> chapters and lost in ch. 53 — see "Whelm, and losing it" under Bilwin. Do not arm anyone with them
+> after ch. 52.
 
 ---
 
@@ -58,6 +62,18 @@ not the dwarven norm and is a deliberate character choice. He lets it grow over 
 the Rod of Seven Parts era (ch. 64 on) it's full and reaches past his neck to nearly his chest —
 still not down to the belt like a proper dwarf's. Ch. 67 confirms it: in the bath, his belly-length
 beard floats just under the water. **Check where you are in the timeline before describing it.**
+
+**Whelm, and losing it.** For two chapters Bilwin carries **Whelm**, the telepathic dwarven
+warhammer pulled from under a vampire's sarcophagus in ch. 50. It talks to him and only him — *"Aye,
+lad, let's pound this damnable beast!"* (ch. 52) — and it is the closest he has come to a real
+weapon, the hurdy-gurdy notwithstanding. Ch. 53 opens with him "standing tall after the battle,
+Whelm clutched tightly in his hand and his head tipped a little to the side, as though he's listening
+to something," which is the last good moment either of them gets. Minutes later the hammer vibrates
+itself out of his grip — the prose makes a point of dwarven hand strength failing — and hits the
+floor alongside Wave and Blackrazor. **Neither Bilwin nor anyone else has mentioned it since** — no
+chapter from 56 on refers to the hammer at all, and nothing in the prose marks the loss. (Dolor
+held **Wave** for a matter of minutes in the same scene, long enough for it to frost over and
+cold-burn his hand open; Tham then threw it into the rift.)
 
 ## Dolor Vagarpie
 

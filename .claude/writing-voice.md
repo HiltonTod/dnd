@@ -504,7 +504,7 @@ campaign. This is the hardest thing to imitate and the most important to get rig
 | Nyx (tabaxi) | Laconic, dry. "I got hungry." Feline tells slipped in — a purr, a lope |
 | The sphinx | Bored and deadpan; answers only what it was built to answer |
 | Dave Chevits | Fences with knitting needles; opens by disambiguating themself from David Shevitz. **This is a disguise** — see below |
-| Tham (Thamnoki Grumblebuster) | Heavy phonetic Scots, every line. "Ach, aye. This is whit I wis lookin' for! Cannae leave wi'oot some scran, noo can I." |
+| Tham (Thamnoki Grumblebuster) | Heavy phonetic Scots, every line — held even in horror when he betrays them in ch. 53. "Ach, aye. This is whit I wis lookin' for! Cannae leave wi'oot some scran, noo can I." |
 | Cap'n Don Karnahge | Phonetic Scots plus delight in his own machinery. "It wirks! It really wirks!" Two rules on his ship, and rule one is "dinnae faw aff" |
 | Cindel | Self-mythologizing. "Huzzah!", a billowing cape, and a shaft of sunlight that finds her *and only her* on an overcast day |
 | Xantic | Gnome artificer, ch. 1–14. Curiosity with no brakes and no sense of consequence |
@@ -519,7 +519,7 @@ campaign. This is the hardest thing to imitate and the most important to get rig
 Give every new NPC one rule like this and hold it for every line they speak.
 
 **Phonetic Scots is your most-reused dialect, and it is getting crowded.** The tortle at the Hall
-of Records (ch. 16), Cap'n Don Karnahge (ch. 22–34), and Tham (ch. 52) are all written the same
+of Records (ch. 16), Cap'n Don Karnahge (ch. 22–34), and Tham (ch. 52–53) are all written the same
 way, and Captain Inda's pirate is adjacent. Two of them carry working notes in the file — ch. 16
 links a Scots translator, ch. 34 keeps a plain-English version of Don's speech in a comment — so
 this is a deliberate tool, not an accident. It is effective and it is a lot of work to read. Before
