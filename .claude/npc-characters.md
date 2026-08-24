@@ -29,10 +29,11 @@ built out.
 
 | | Species / role | Home | First seen | Chapters |
 |---|---|---|---|---|
-| **Alustriel Silverhand** | Human wizard, high mage of Silverymoon | The Sanctum, in Sigil | ch. 55 (unwritten) | 63, 64, 66, 67, 68, 74, 75, 85 |
+| **Alustriel Silverhand** | Human wizard, high mage of Silverymoon | The Sanctum, in Sigil | **ch. 53** | 53, 63, 64, 66, 67, 68, 74, 75, 85 |
 | **Tasha** | Human archmage, of Oerth | — | ch. 64 | 64, 67, 68, 74, 75, 85 |
 | **Mordenkainen** | Human archmage, of Oerth | Oerth | ch. 63 | 63, 64, 67, 68, 74, 84, 85 |
 | **Malaina van Talstiv** | Human assassin; Alustriel's wife | The Sanctum | ch. 67 | 67, 68, 74 |
+| **Dagult Neverember** | Human; Lord of Neverwinter | Neverwinter | ch. 53 | 53, 62, 63; referenced 56, 57 |
 
 The three archmages cast *Wish* together to negate Vecna's power and got five adventurers instead
 (ch. 64). That accident is the reason for every scene any of them are in. **Alustriel is the host
@@ -47,8 +48,8 @@ undercuts Mordenkainen**, constantly and with enjoyment. **Mordenkainen does not
 
 - **Hair** long silver. **Eyes** sparkling blue. Tall, slender, statuesque; sits and moves
   gracefully.
-- **Clothing** light blue robes in ch. 63; by ch. 74, "a stunning gown that seems to flow
-  majestically even when she's sitting still."
+- **Clothing** a cloak that "shimmers like a starlit sky" in ch. 53; light blue robes in ch. 63; by
+  ch. 74, "a stunning gown that seems to flow majestically even when she's sitting still."
 - **Carries** a thin, dark wooden staff topped with a
   [unicorn's head](https://forgottenrealms.fandom.com/wiki/Staff_of_Silverymoon) — the Staff of
   Silverymoon (ch. 63).
@@ -80,6 +81,32 @@ The imperative register, in full:
 
 **She addresses people by role, warmly**: "my dear dwarf," "master dwarf," "young sorcerer," "sir
 dwarf." Her farewell is a formula: *"Farewell and may courage be your constant companion."*
+
+**Her first appearance is ch. 53, and it is the only time the party sees her act.** The temple
+cavern is flooding with boiling water and all five of them are drowning in it when she stops time —
+the surge freezes mid-crash, drops hang in the air "like crystal teardrops," the heat vanishes — and
+walks through it untouched. Her whole scene is five short lines, and the register is the imperative
+one at its most extreme:
+
+> "Enough."
+
+> "You have played into his hand."
+
+> "But there are still more cards to be dealt."
+
+> "We shall soon see what you're made of."
+
+The narration is explicit about the manner: *"She speaks without urgency, only truth."* She does not
+introduce herself, explain, or wait — she is never named in the chapter at all, only "The Lady," and
+the party wakes up in Neverwinter without having been told anything. **This is the baseline her
+later warmth is measured against**, and it's worth remembering when writing her: the composed host
+in the parlor is the same person who once looked at five people boiling to death and said one
+word.
+
+**Everyone who is not the party calls her "The Lady."** Neverember and Quentin Voss use nothing
+else in ch. 53, capitalized, and Neverember's account of her is the outside view of the character:
+*"She is not one to be denied, even by — perhaps especially by — the likes of me,"* and *"she never
+leaves a loose end; she will return for you in her own time."*
 
 **She is self-aware about her own verbosity** — "make my best attempt to be laconic" — and then
 delivers four hundred words on Vecna anyway.
@@ -296,6 +323,46 @@ Alustriel up by the end of it.
 **She is amused by Gven rather than threatened by her**, which is the correct read and is worth
 keeping consistent.
 
+## Dagult Neverember
+
+**Male human · Lord of Neverwinter · scenes in ch. 53, 62, 63; referenced in ch. 56 and 57**
+
+**Two names, and the chapters use both.** He is **Dagult Neverember** in ch. 53, 56, and 57, and
+**"Lord Neverwinter"** — the title, not the surname — in ch. 53, 62, and 63. Ch. 53 is the only
+place both appear, and it reconciles them: *"butler to the Lord of Neverwinter, Dagult
+Neverember."* The appendix uses Neverember. **Use Neverember in narration; "Lord Neverwinter" reads
+as how people address him.**
+
+- **Look** high-born and visibly worn down. Lengthy arms he spreads when apologizing. "His eyes are
+  weary, almost cloudy, as though lack of sleep is finally catching up to him."
+- **Household** **Quentin Voss**, his butler — portly, short, does the escorting and the tending.
+  A library extensive enough to lose an archaeologist in. Brass lanterns, polished dark oak, oil
+  paintings.
+- **Family** his mother is **Indrina Lamsensettle**, found dead in an open casket in ch. 62.
+
+**Voice rule — the courteous ask that is not a request.** Every speech of his does the same three
+things in the same order: a warm framing, an apology for the imposition, then the favour. He never
+states the obligation out loud, because The Lady already did that for him.
+
+> "Friends, for I hope that we can become such in time, you have been given to my care by The
+> Lady." *(ch. 53, opening)*
+
+> "He spreads his lengthy arms in a way of apology. 'Food will be served shortly, but I must
+> request your indulgence a bit longer.'" *(ch. 53)*
+
+> "Would you be willing to investigate these criminal acts for us, in the name of the city's law,
+> while you await The Lady's return?" *(ch. 53 — the ask, and note what it's tied to)*
+
+**He flatters accurately, which is how it works on them**: *"particular skills, an unusual level of
+competence, and a proven willingness to help others."* All three are true, and the last one is the
+campaign's standing weakness.
+
+**He disparages his own city's institutions freely** — "the ineptitude of our constablery confounds
+them" — and this is the only heat he ever shows.
+
+**He pays generously and after the fact.** The Neverdeath job leads to five deeded houses on a
+cul-de-sac in the Bluelake District in ch. 63. The party never negotiated for any of it.
+
 ---
 
 ## Appendix gaps for these four
@@ -352,8 +419,15 @@ value first, by how likely they are to come back:
   vision. Live thread, will return.
 - **Mercy, Justice, Charity, Pious, 404, and Filch** — the warforged pilgrims of Ialos. Owed a debt.
 - **Hanseath** — Bilwin's god; ch. 29, 31, 32, 75. The rules-breaking drunk.
-- **Gustaf Mondalbrot** — ch. 42–52, the mapmaker. Whereabouts currently unaddressed.
+- **Gustaf Mondalbrot** — ch. 42–53, the mapmaker. **Last seen alive** in Neverember's library in
+  ch. 53, "entombed there, devouring texts long since given to dust," and not mentioned since.
 - **Veylara** — the storm giant. **Tempest Edge is still hers**; this reunion is owed.
 - **Torp / Davanor** — alive, hunting his sister across planes.
-- **Eva Brightbroom**, **Gertrude**, **Ikasa**, **Redbud**, **Captain Inda**, **Tham**,
+- **Tham (Thamnoki Grumblebuster)** — ch. 52–53. **Promoted from comic relief to traitor** by ch. 53
+  and then removed from the board entirely. If he returns he needs a register for the betrayal, not
+  just the drink; the one line he has is *"Och, nay...nay! Had I kent, I wid ne'er hae—"* and it
+  holds the Scots even in horror.
+- **Quentin Voss** — Neverember's butler, ch. 53. Portly, short, correct. Two speeches, both
+  logistics. Only needs an entry if he speaks again.
+- **Eva Brightbroom**, **Gertrude**, **Ikasa**, **Redbud**, **Captain Inda**,
   **Cap'n Don Karnahge**, **Cindel Trueshot**, **Umberto Noblin**, **Sarcelle Malinosh**.
