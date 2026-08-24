@@ -22,7 +22,8 @@ class, height or age, so it sits outside the table with its own section.
 >
 > **The three White Plume weapons are gone.** Whelm, Wave, and Blackrazor were carried for two
 > chapters and lost in ch. 53 — see "Whelm, and losing it" under Bilwin. Do not arm anyone with them
-> after ch. 52.
+> after ch. 52. **All three are closed for good** — none of them returns and nobody goes back for
+> them.
 
 ---
 
@@ -71,9 +72,16 @@ Whelm clutched tightly in his hand and his head tipped a little to the side, as 
 to something," which is the last good moment either of them gets. Minutes later the hammer vibrates
 itself out of his grip — the prose makes a point of dwarven hand strength failing — and hits the
 floor alongside Wave and Blackrazor. **Neither Bilwin nor anyone else has mentioned it since** — no
-chapter from 56 on refers to the hammer at all, and nothing in the prose marks the loss. (Dolor
-held **Wave** for a matter of minutes in the same scene, long enough for it to frost over and
-cold-burn his hand open; Tham then threw it into the rift.)
+chapter from 56 on refers to the hammer at all, and nothing in the prose marks the loss.
+
+**That is the ending, and it is deliberate** (author's decision, 23 Aug 2026). Whelm is finished as
+a story object. Bilwin does not get the hammer back, does not go looking for it, and does not
+deliver a scene about having lost it. If his weapon comes up after ch. 53, it is the hurdy-gurdy.
+
+The same holds for the other two. Dolor held **Wave** for a matter of minutes in the same scene,
+long enough for it to frost over and cold-burn his hand open, before Tham threw it through the rift;
+**Blackrazor** was clawed off Gustaf's back and left on the floor. **All three are closed** — none
+of them returns, and nobody goes back for them.
 
 ## Dolor Vagarpie
 
