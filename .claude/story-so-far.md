@@ -266,6 +266,11 @@ found strength in her mixed heritage, he found ridicule and humiliation. *"His f
 completely written, but his path is a difficult one. Perhaps as difficult as yours."* It is the
 closest anyone has come to explaining Torp rather than reporting him.
 
+**She tells them where they are**, which nobody had until now: *"You should be safe here, in a
+different plane, at least for a while. It is similar to your home world, you shall acclimate
+quickly."* It is hedged on every axis — *should* be safe, *at least for a while* — and it is still
+the only orientation the party is ever given.
+
 She asks them to assist Neverember, promises to return "as soon as I am able," and looks each of
 them in the eye — "more than just a glance, it's a measurement of their resolve, their courage,
 their ability to endure" — before vanishing. Mond: *"That was cryptic as fuck."*
@@ -551,8 +556,10 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   the whole rod.
 - **Tempest Edge is borrowed.** Gven owes Veylara the blade's return; the storm giant wears her
   father's medallion as an earring.
-- **Getting home.** The party has been on other planes since ch. 53, when Alustriel deposited them
-  in Neverwinter without explanation, and Mond, at least, is no longer certain he wants to go back.
+- **Getting home.** The party has been on other planes since ch. 53. The Lady told them in ch. 54
+  that they are on a different plane, "similar to your home world," and safe "at least for a while"
+  — but never how they get back, and she has not returned for them as promised. Mond, at least, is
+  no longer certain he wants to go back.
 - **Tham betrayed them and vanished.** He threw Wave into the rift in ch. 53 knowing something the
   party still doesn't — *"Had I kent, I wid ne'er hae—"* — and has not appeared since. Neverember
   had never heard of him. Whether he was The One's from the start, coerced, or simply frightened is
