@@ -449,6 +449,13 @@ shrieks with joy from the ceiling.
 It cannot be argued with about cooking and it is right about cooking, which is the reason it gets
 away with the rest.
 
+## Deliberately not built out
+
+**Maelis Varn** — owner of The Gilded Glyph, ch. 55. **Tod's ruling, 26 Aug 2026: no entry.** She has
+one scene and a clear register on the page already ("Wipe your feet"; "scholar of innate esoteric
+arcane manipulations"; "Lovely doing business with you! Come back soon, and best of luck in the
+graveyard"). If she gets a second scene, revisit then — until then, do not propose this again.
+
 ## Still to build out
 
 NPCs who recur and have a register recorded in `writing-voice.md` but no entry here yet. Highest

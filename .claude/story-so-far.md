@@ -296,7 +296,9 @@ waist, deep azure robes, and a greeting that is exactly two words: *"Wipe your f
 herself as a "scholar of innate esoteric arcane manipulations," sizes Bilwin up for a full silent
 minute, and vanishes into a back room, where the party overhears her losing patience with a sulking
 sentient poleaxe: *"If sentience is going to make you so emotional and sullen, I'll enchant another
-poleaxe."* Her farewell is *"Lovely doing business with you! Come back soon, and best of luck in the
+poleaxe."* **The poleaxe is a one-time joke** (Tod, 26 Aug 2026) — it gets no appendix entry and no
+follow-up is owed. **He reserves the right to bring it back at any time**, so don't write anything
+that forecloses it. Her farewell is *"Lovely doing business with you! Come back soon, and best of luck in the
 graveyard."*
 
 **Everything the party owns from here comes out of this chapter**, and until it was written all of it
