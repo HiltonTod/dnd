@@ -708,7 +708,9 @@ ch. 1–83 as originally written.
 - **Bilwin's hurdy-gurdy** spends thirty chapters as a joke — he plays it terribly and mostly uses
   the case as a club — until ch. 34 and 37, where he plays beautifully in Dwarven and only Gven
   can understand the words. The instrument being genuinely good when it matters is a setup that
-  took a very long time to pay off.
+  took a very long time to pay off. **The club half of the joke ends in ch. 55**, where he buys a
+  battle axe; the instrument half does not. He still carries it and still plays it — he just stopped
+  swinging it at people.
 - **Torp is Davanor** (ch. 28), Gven's brother turned zealot, planning the genocide of every magic
   user in Eritz. Gven's whole reason for being on the road in ch. 1 is looking for him.
 

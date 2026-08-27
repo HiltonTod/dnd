@@ -53,8 +53,10 @@ smallest. Bilwin is shorter than Xantic.
 - **Build** lean — not skinny, but unusually lean for a dwarf, who are normally short and stocky.
 - **Clothing** dresses how he imagines a great bard dresses: a fuchsia flowy shirt under leather
   armor, shiny boots, painted fingernails.
-- **Instrument** a hurdy-gurdy carried in a studded leather case on his back.
-- **Weapon** the hurdy-gurdy, still in its case.
+- **Instrument** a hurdy-gurdy carried in a studded leather case on his back. **He still has it and
+  always will** — he is a bard, and it is not going anywhere.
+- **Weapon** the hurdy-gurdy, still in its case, up to ch. 55; a **+1 battle axe** from ch. 55 on.
+  **He hasn't lost the hurdy-gurdy — he has simply stopped wanting to hit people with it.**
 - **Demeanor** loud, very talkative, obnoxious. Speaks without thinking about consequences. Loves
   beer, both brewing and drinking it.
 
@@ -81,10 +83,14 @@ default state, not a joke to be set up.
 
 **That is the ending, and it is deliberate** (author's decision, 23 Aug 2026). Whelm is finished as
 a story object. Bilwin does not get the hammer back, does not go looking for it, and does not
-deliver a scene about having lost it. Between ch. 53 and ch. 55 his weapon is the hurdy-gurdy, still
-in its case, and ch. 55 makes the joke land — he tells Maelis Varn he wants "something that works
-better in battle than my hurdy-gurdy" and walks out with a **+1 battle axe**. That is his weapon from
-ch. 55 on.
+deliver a scene about having lost it. Between ch. 53 and ch. 55 he is back to swinging the cased
+hurdy-gurdy, and ch. 55 ends that: he tells Maelis Varn he wants "something that works better in
+battle than my hurdy-gurdy" and walks out with a **+1 battle axe**.
+
+**The hurdy-gurdy is not gone.** He keeps carrying it, he keeps playing it, and it stays on his back
+in its studded leather case — what changed in ch. 55 is that he no longer wants it to be the thing he
+fights with. Don't write it as a loss, a trade, or a retirement; the axe replaced it as a weapon and
+nothing else.
 
 The same holds for the other two. Dolor held **Wave** for a matter of minutes in the same scene,
 long enough for it to frost over and cold-burn his hand open, before Tham threw it through the rift;
