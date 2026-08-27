@@ -1,8 +1,9 @@
 # Writing voice
 
 **Derived by reading all 83 chapters in full**, plus the appendix — the complete campaign, ch. 1
-through 83. (Chapters 53–55 do not exist; they were sessions that never got written up.) Every
-observation below is both read and measured, and quotes are verbatim from the repo.
+through 83. (Chapters 53–55 did not exist when this was written; they were filled in during August
+2026 and have not been folded into the measurements below.) Every observation below is both read and
+measured, and quotes are verbatim from the repo.
 
 Chapters 1–77 are written by Tod; chapters 78–83 are co-written by Tod and Claude. **One exception:
 chapter 26 carries the comment `Originally written by Liam and edited by Tod`**, with Liam's raw
@@ -678,15 +679,19 @@ any of them:
 - **The Davanor entry is stale** — "unknown gender and species… person of interest in Torp's
   disappearance." Ch. 28 revealed Davanor *is* Torp. The two are still separate entries in separate
   sections.
-- **Seven entries link to chapters 53, 54, and 55, which don't exist** (see below).
+- ~~Seven entries link to chapters 53, 54, and 55, which don't exist~~ — **fixed**; all three were
+  written in August 2026 (see below).
 - **Cindel** is "half-elven" in the appendix but "elf" every time she appears in ch. 1–4.
 
-**Chapters 53–55 are unwritten sessions, not a numbering skip.** The appendix documents things
-that happened in them — Maelis Varn, the Gilded Glyph, the Fucking Duck, Hallix Mausoleum, the
-party meeting Alustriel Silverhand — and ch. 56 opens with "The adventurers leave The Gilded
-Glyph," a shop the reader has never seen. Those seven appendix links are 404s on the live site.
-If a chapter ever needs to reach back to the arrival in Neverwinter, the appendix is currently the
-only account of it.
+**Chapters 53–55 were unwritten sessions for a year and a half, and were filled in during August
+2026** — ch. 53 on 22–23 Aug, ch. 54 on 24 Aug, ch. 55 on 26 Aug, each filed under its 2025 session
+date. They cover the end of White Plume Mountain and Tham's betrayal, Neverember's briefing and The
+Lady's explanation, and the shopping trip at the Gilded Glyph. Everything the appendix used to
+document only in summary — Maelis Varn, the two shops, Hallix Mausoleum, the party meeting Alustriel
+— is now on the page, and ch. 56's "The adventurers leave The Gilded Glyph" has its scene.
+
+**Their prose is Tod's, not measured into the profile below**, which is still derived from
+ch. 1–83 as originally written.
 
 **Origins worth knowing, since the signature items all come from chapters 1–39:**
 
@@ -703,7 +708,9 @@ only account of it.
 - **Bilwin's hurdy-gurdy** spends thirty chapters as a joke — he plays it terribly and mostly uses
   the case as a club — until ch. 34 and 37, where he plays beautifully in Dwarven and only Gven
   can understand the words. The instrument being genuinely good when it matters is a setup that
-  took a very long time to pay off.
+  took a very long time to pay off. **The club half of the joke ends in ch. 55**, where he buys a
+  battle axe; the instrument half does not. He still carries it and still plays it — he just stopped
+  swinging it at people.
 - **Torp is Davanor** (ch. 28), Gven's brother turned zealot, planning the genocide of every magic
   user in Eritz. Gven's whole reason for being on the road in ch. 1 is looking for him.
 

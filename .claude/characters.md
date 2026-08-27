@@ -16,8 +16,8 @@ The "At a glance" table below covers the six the source doc describes. Landro ha
 class, height or age, so it sits outside the table with its own section.
 
 > **Gear** is recorded in two places: each character's own entry for what they carry day to day, and
-> **Gear bought off-page — chapter 55** at the bottom, which is the full list from the Neverwinter
-> shopping trip that was never written. Items acquired on-page (Gleaming Blade, the Sunburst Shield,
+> **Gear bought in chapter 55** at the bottom, which is the full list from the Neverwinter shopping
+> trip, written 26 August 2026. Items acquired on-page (Gleaming Blade, the Sunburst Shield,
 > Dolor's pocket watch) are described in `story-so-far.md` and the appendix.
 >
 > **The three White Plume weapons are gone.** Whelm, Wave, and Blackrazor were carried for two
@@ -53,8 +53,10 @@ smallest. Bilwin is shorter than Xantic.
 - **Build** lean — not skinny, but unusually lean for a dwarf, who are normally short and stocky.
 - **Clothing** dresses how he imagines a great bard dresses: a fuchsia flowy shirt under leather
   armor, shiny boots, painted fingernails.
-- **Instrument** a hurdy-gurdy carried in a studded leather case on his back.
-- **Weapon** the hurdy-gurdy, still in its case.
+- **Instrument** a hurdy-gurdy carried in a studded leather case on his back. **He still has it and
+  always will** — he is a bard, and it is not going anywhere.
+- **Weapon** the hurdy-gurdy, still in its case, up to ch. 55; a **+1 battle axe** from ch. 55 on.
+  **He hasn't lost the hurdy-gurdy — he has simply stopped wanting to hit people with it.**
 - **Demeanor** loud, very talkative, obnoxious. Speaks without thinking about consequences. Loves
   beer, both brewing and drinking it.
 
@@ -81,7 +83,14 @@ default state, not a joke to be set up.
 
 **That is the ending, and it is deliberate** (author's decision, 23 Aug 2026). Whelm is finished as
 a story object. Bilwin does not get the hammer back, does not go looking for it, and does not
-deliver a scene about having lost it. If his weapon comes up after ch. 53, it is the hurdy-gurdy.
+deliver a scene about having lost it. Between ch. 53 and ch. 55 he is back to swinging the cased
+hurdy-gurdy, and ch. 55 ends that: he tells Maelis Varn he wants "something that works better in
+battle than my hurdy-gurdy" and walks out with a **+1 battle axe**.
+
+**The hurdy-gurdy is not gone.** He keeps carrying it, he keeps playing it, and it stays on his back
+in its studded leather case — what changed in ch. 55 is that he no longer wants it to be the thing he
+fights with. Don't write it as a loss, a trade, or a retirement; the axe replaced it as a weapon and
+nothing else.
 
 The same holds for the other two. Dolor held **Wave** for a matter of minutes in the same scene,
 long enough for it to frost over and cold-burn his hand open, before Tham threw it through the rift;
@@ -222,8 +231,18 @@ the sword that is "longer than Gven is tall" in ch. 31 is **Veylara's own greats
 Gven to admire a chapter before the boot dagger is given. Ch. 32 is the authority: "the giant's five
 and a half foot long dagger."
 
-The longcoat is the "shimmering longcoat" and "enchanted coat" the later chapters keep referring to
-from ch. 59 onward. Note the scabbard moves: across her back early, at her hip by ch. 77.
+**The longcoat is the Vestment of the Bound Sigil**, bought at The Gilded Glyph in ch. 55 and made by
+Maelis Varn from arcane-enhanced fabric as strong as chainmail. It is **deep purple**, it shimmers as
+she moves, and translucent glyphs are woven beneath the surface, shifting within the fabric. **Its
+sleeves come and go at her wish** — she walks out of the shop bare-armed, which is her preference,
+and ch. 65 has the sleeves on and taut over her arms. It is the "shimmering longcoat" and "enchanted
+coat" of the later chapters, it hangs to at least her calf (ch. 68), and it has an inside she stows
+things in — a potion in ch. 77, a wild-shaped Grindlefoot in ch. 84. Tempest Edge rides inside it
+with only the pommel showing. Note the scabbard moves: across her back early, at her hip by ch. 77.
+
+**The sigils have never flared on the page.** The once-a-day damage absorption is the item's signature
+and no chapter has rendered it, including ch. 80 (a blazebear tears the coat) and ch. 81 (warforged
+arm blades find "gaps in her longcoat").
 
 ## Mond Blue
 
@@ -310,42 +329,46 @@ casually:
 
 ---
 
-## Gear bought off-page — chapter 55
+## Gear bought in chapter 55
 
-**This is the single biggest continuity trap in the campaign.** Alustriel transported the party to
-Neverwinter, where magic and religion are openly legal and there are actual magic shops — the first
-time they've had access to any. They spent heavily. **Chapter 55 was never written**, so *none* of
-this has an on-page acquisition scene, and items simply start appearing in later chapters as though
-the reader saw them bought.
+The Lady put the party in Neverwinter, where magic and religion are openly legal and there are actual
+magic shops — the first time they've had access to any. They spent heavily, at **The Gilded Glyph**,
+from **Maelis Varn**. Everything here is what they carry for the rest of the campaign.
 
-Session date May 12, 2025. Source: Tod's `MagicItems-Level9-Neverwinter` doc.
+**This was the campaign's single biggest continuity trap until 26 August 2026**, when ch. 55 was
+written: the items had been appearing in later chapters as though the reader had watched them bought.
+They now have an acquisition scene, and the physical descriptions below come from it rather than from
+the source doc.
+
+Session date May 12, 2025. Chapter written 26 August 2026. Mechanics source: Tod's
+`MagicItems-Level9-Neverwinter` doc, reproduced in ch. 55's HTML comments.
 
 | Character | Item | Cost | Effect | On the page? |
 |---|---|---|---|---|
-| **Gven** | **Vestment of the Bound Sigil** | 4,500 gp | +2 AC even over light armour or robes; once/day the sigils flare to absorb 10 damage from one attack | ✅ ch. 59 on |
-| **Bilwin** | **Battle axe** | 750 gp | +1 to attack and damage | ✅ ch. 56 on |
-| **Bilwin** | **Bag of Holding** | 1,250 gp | A fancy-looking bag | ✅ ch. 57, 58 |
-| **Bilwin** | **Ironbound Wardchain** | 2,000 gp | AC 16. Once/long rest, when reduced to 0 HP, drop to 1 instead — the links pulse dull blue when it fires | ⚠️ unnamed |
-| **Mond** | **Bag of Holding** | 1,000 gp | Scorched inside, hence discounted. Auto-transfers items in possession; retrieve by name | ✅ ch. 57 |
-| **Mond** | **Draconic Sigil Tattoo** | 2,000 gp | Glowing abstract dragon. Once/long rest cast *shield*. Once/long rest, damage that would drop him to 0 instead leaves him at 1 and bursts into draconic flame — 2d10 to enemies within 10 ft | ❌ never |
-| **Dolor** | **Signet Ring of Wyrmkind Favor** | 4,000 gp | Insignia of an ancient noble dragon. +2 Charisma (max 22); advantage on Intimidation and Persuasion against creatures of Int 6+ | ❌ never |
-| **Grindlefoot** | **Collar of Breath and Blood** | 4,500 gp | Red crystal set in bronze, warm to the touch. +1 Constitution; once/long rest *Enhance Ability (Bear's Endurance)* free; advantage on Concentration checks | ❌ never |
-| **Grindlefoot** | **Seed Pouch of Old Barrows** | 500 gp | 3d6 magical seeds. Planted and watered — or *Druidcraft* cast nearby — they grow overnight into thick bushes (half cover), healing herbs (*Cure Wounds* 1d8+3, one use), or strange hybrid fruit with random effects. **Refills every new moon** | ❌ never |
+| **Gven** | **Vestment of the Bound Sigil** | 4,500 gp | +2 AC even over light armour or robes; once/day the sigils flare to absorb 10 damage from one attack | ✅ ch. 55 on |
+| **Bilwin** | **Battle axe** | 750 gp | +1 to attack and damage | ✅ ch. 55 on |
+| **Bilwin** | **Bag of Holding** | 1,250 gp | Midnight-blue leviathan leather, spun-silver runic seams; four feet deep, 500 lbs | ✅ ch. 55, 57, 58 |
+| **Bilwin** | **Ironbound Wardchain** | 2,000 gp | AC 16. Once/long rest, when reduced to 0 HP, drop to 1 instead — the links pulse dull blue when it fires | ✅ named ch. 55 |
+| **Mond** | **Bag of Holding** | 1,000 gp | Deliberately plain satchel. Scorched inside, hence discounted. Auto-transfers items in possession; retrieve by name | ✅ ch. 55, 57 |
+| **Mond** | **Draconic Sigil Tattoo** | 2,000 gp | Abstract dragon across his upper back, collar to waist, touching each shoulder blade. Once/long rest cast *shield*. Once/long rest, damage that would drop him to 0 instead leaves him at 1 and bursts into draconic flame — 2d10 to enemies within 10 ft | ✅ ch. 55 only |
+| **Dolor** | **Signet Ring of Wyrmkind Favor** | 4,000 gp | Dark gold, insignia of an ancient noble dragon; worn on his index finger. +2 Charisma (max 22); advantage on Intimidation and Persuasion against creatures of Int 6+ | ✅ ch. 55 only |
+| **Grindlefoot** | **Collar of Breath and Blood** | 4,500 gp | Deep red crystal in a plain bronze collet, filigreed bezel, warm to the touch. +1 Constitution; once/long rest *Enhance Ability (Bear's Endurance)* free; advantage on Concentration checks | ✅ ch. 55 only |
+| **Grindlefoot** | **Seed Pouch of Old Barrows** | 500 gp | 3d6 magical seeds. Planted and watered — or *Druidcraft* cast nearby — they grow overnight into thick bushes (half cover), healing herbs (*Cure Wounds* 1d8+3, one use), or strange hybrid fruit with random effects. **Refills every new moon** | ✅ ch. 55 only |
 
 **Three things worth acting on:**
 
-- **Four items have never appeared in the prose at all.** Mond's tattoo, Dolor's ring, and both of
-  Grindlefoot's. They're owned and paid for; they simply haven't been written.
+- **Four items appear in ch. 55 and nowhere else.** Mond's tattoo, Dolor's ring, and both of
+  Grindlefoot's. They now have an introduction; they still have no second appearance.
 - **Grindlefoot's collar was specifically re-specced.** It was going to be an amulet, and he asked
-  for a collar *so it would still be on him when he transforms*. That's a visual that should be
-  showing up every time he wild shapes into a spider or a dire wolf, and never has. (Don't confuse
-  it with Ikasa's talking collar in ch. 71.)
-- **The Seed Pouch is an unused story device**, and a very Grindlefoot one — a bag that grows cover,
-  healing, or a surprise overnight, and refills on the new moon.
+  for a collar *so it would still be on him when he transforms*. Ch. 55 describes it in detail but
+  doesn't say that, and the visual still hasn't appeared in a single wild shape. (Don't confuse it
+  with Ikasa's talking collar in ch. 71.)
+- **The Seed Pouch is still an unused story device.** Ch. 55 ends with Grindlefoot "anxious to find a
+  safe spot to plant the first batch," which is a setup the campaign has not yet paid off.
 
-Bilwin's **Ironbound Wardchain** is the ⚠️: it's almost certainly the "dwarf's chainmail" that gets
-slashed in ch. 66 and broken through in ch. 73, but it's never named and its once-a-day
-save-from-zero has never visibly fired.
+Bilwin's **Ironbound Wardchain** is named on the page as of ch. 55, which settles the old ⚠️: it is
+the "dwarf's chainmail" slashed in ch. 66 and broken through in ch. 73. Its once-a-day
+save-from-zero has still never visibly fired.
 
 **The other shopping trip, ch. 63, *is* written**, so those items have proper introductions: Dolor's
 studded leather sewn with lucky copper pieces, Gven's Boots of Striding and Springing, Grindlefoot's

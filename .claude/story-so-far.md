@@ -5,14 +5,14 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 the story: what each arc was about, what changed for each character, and what was left open.
 
 **Coverage: chapters 1–85**, the complete campaign as published, read in full and cross-checked
-against the appendix. **Ch. 54 added 24 August 2026.**
+against the appendix. **There are no longer any missing chapters.**
 
-Note that **chapter 55 does not exist as a post** — a session that never got written up. **Ch. 53 was
-written on 22–23 August 2026 and ch. 54 on 24 August 2026**, both a year and a half after their
-sessions, filed under their session dates of 14 and 28 April 2025. Ch. 53 closes the Temple of Aish
-and puts the party in Neverwinter; ch. 54 is Neverember's briefing and The Lady's explanation. The
-appendix records what happened in the one still missing (the Gilded Glyph, the Fucking Duck), and
-ch. 56 opens as if the reader had been there.
+Chapters 53, 54, and 55 were written a year and a half after their sessions — ch. 53 on 22–23 August
+2026, ch. 54 on 24 August, ch. 55 on 26 August — and filed under their session dates of 14 April,
+28 April, and 12 May 2025. Ch. 53 closes the Temple of Aish and puts the party in Neverwinter;
+ch. 54 is Neverember's briefing and The Lady's explanation; ch. 55 is the shopping trip that arms
+the party for everything after it. **Ch. 56's opening line — "The adventurers leave The Gilded
+Glyph" — now has the scene in front of it that it always assumed.**
 
 ---
 
@@ -275,10 +275,51 @@ She asks them to assist Neverember, promises to return "as soon as I am able," a
 them in the eye — "more than just a glance, it's a measurement of their resolve, their courage,
 their ability to endure" — before vanishing. Mond: *"That was cryptic as fuck."*
 
-## The gap (ch. 55)
+## Ch. 55 — the shopping trip
 
-One unwritten session, between the briefing and the graveyard. Per the appendix: the party shops at
-the **Gilded Glyph** and the **Fucking Duck**. Ch. 56 opens as they leave the Gilded Glyph.
+The one chapter in the campaign with no threat in it, and the one that quietly determines what the
+party survives for the next thirty. They leave **Castle Never** — Neverember's manor, named here for
+the first time — cross the river that splits Neverwinter, and wander into **Protector's Enclave**, a
+market district that looks reassuringly like home: homespun wool and linen, guards in cheap leather,
+shopkeepers who trust their storefronts to do the selling.
+
+Two shops sit side by side. **The Gilded Glyph** is a brick building under an ironwood sign inlaid
+with gold leaf, its concentric rings and intertwined runes pulsing with a low, warm light. Inside is
+bigger than outside — Mond spots the architectural magic doing it — and it smells of sandalwood and
+sage in perfect balance, with potions and scrolls floating along the shelves and putting themselves
+away. Next door, two steps below street level behind a four-and-a-half-foot door, is a dwarven
+jeweler. Gven reads the sign and laughs. Bilwin translates: the shop is called **Fucking Duck**, and
+the words carved lower on the door say *"Screw you, you can duck."*
+
+**Maelis Varn** owns the Glyph — half-elven, black hair streaked with silver falling straight to her
+waist, deep azure robes, and a greeting that is exactly two words: *"Wipe your feet."* She introduces
+herself as a "scholar of innate esoteric arcane manipulations," sizes Bilwin up for a full silent
+minute, and vanishes into a back room, where the party overhears her losing patience with a sulking
+sentient poleaxe: *"If sentience is going to make you so emotional and sullen, I'll enchant another
+poleaxe."* **The poleaxe is a one-time joke** (Tod, 26 Aug 2026) — it gets no appendix entry and no
+follow-up is owed. **He reserves the right to bring it back at any time**, so don't write anything
+that forecloses it. Her farewell is *"Lovely doing business with you! Come back soon, and best of luck in the
+graveyard."*
+
+**Everything the party owns from here comes out of this chapter**, and until it was written all of it
+simply appeared in later chapters as though the reader had watched it bought:
+
+- **Gven** — the **Vestment of the Bound Sigil**, made by Maelis from arcane-enhanced fabric as
+  strong as chainmail. Deep purple, shimmering, glyphs moving translucently beneath the surface, and
+  its sleeves come and go at her wish. She wears it bare-armed out of the shop.
+- **Bilwin** — a **+1 battle axe** (he has been swinging a cased hurdy-gurdy for fifty chapters), the
+  **Ironbound Wardchain**, and a **Bag of Holding** in midnight-blue leviathan leather with
+  spun-silver runes.
+- **Mond** — the **Draconic Sigil Tattoo**, two hours under a magical quill, an abstract dragon
+  across his whole upper back; and a deliberately plain **Bag of Holding**, scorched inside and
+  discounted for it.
+- **Dolor** — the **Signet Ring of Wyrmkind Favor**, dark gold, an ancient noble dragon's insignia.
+  He is already twisting it unconsciously on the way out.
+- **Grindlefoot** — the **Collar of Breath and Blood** and the **Seed Pouch of Old Barrows**. The
+  seed pouch is the one he is actually excited about, and he is looking for somewhere safe to plant.
+
+Note what the chapter does *not* do: nobody buys anything at Fucking Duck. It exists to be a joke and
+a landmark.
 
 ## Arc V — Neverdeath and Evernight (ch. 56–63)
 

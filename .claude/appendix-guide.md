@@ -24,6 +24,15 @@ Companion files: `writing-voice.md` (how to write), `characters.md` (the party),
 5. **Ask whether anything changed category** — see below. This is the one that gets missed.
 6. **Check the Secrets section** if the chapter learned, resolved, or spent a secret.
 
+### Exception — Tempest Edge takes no more chapter links
+
+**Tod's ruling, 26 Aug 2026.** Gven's greatsword keeps its single ch. 32 citation, the chapter she is
+given it, and **nothing is ever added to it again.** The sword is in her hand in most of the
+campaign, so citing every appearance would grow an entry that says nothing a reader needs — the
+entry records what the blade *is* and where it came from, and that is finished. Step 3 above does
+not apply to it. Do not re-add ch. 55 or anything else, and do not treat the short citation list as
+an oversight to repair.
+
 ## An entry says what a thing *is*, not what happened to it
 
 **The most common mistake in this pass, and the easiest one to make while the chapter is fresh.**
@@ -121,8 +130,9 @@ Shops; `Other Trail` before `The Broken Heart` in Landmarks.
 
 ## Don't fix silently
 
-`writing-voice.md` lists five appendix entries known to be wrong or stale — the swapped
+`writing-voice.md` lists four appendix entries known to be wrong or stale — the swapped
 Eyes of the Star / Hand of the Wand descriptions, "Everwinter" for "Evernight", the Davanor entry,
-the Cindel species, and the seven links to unwritten chapters 53–55. Those are content decisions
+and the Cindel species. (The seven links to unwritten chapters 53–55 are no longer an issue — all
+three chapters were written in August 2026 and the links resolve.) Those are content decisions
 tracked in `to-do-list.md`, not drive-by corrections. Fixing an obviously broken *link* while
 you're in the file is fine; rewriting worldbuilding is not.

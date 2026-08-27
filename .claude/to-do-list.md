@@ -45,37 +45,35 @@ CLAUDE.md says to preserve HTML comments.
 
 ---
 
-## 2. Chapter 55 was never written
+## 2. ~~The unwritten chapters~~ — closed
 
-Not a numbering skip — a session that never got written up. ~~Ch. 53~~ **written 22–23 Aug 2026** and
-~~ch. 54~~ **written 24 Aug 2026**, both published under their session dates (14 and 28 April 2025).
-Ch. 53 covers the end of White Plume Mountain, Tham's betrayal, Alustriel's rescue, and Neverember's
-commission. Ch. 54 covers the breakfast briefing — the four victims named, the House of Knowledge
-divinations, Hallix Mausoleum — and The Lady's second appearance, which is the campaign's central
-exposition. Hallix is therefore **no longer missing**; it is introduced in ch. 54.
+**All three are written.** Ch. 53 on 22–23 Aug 2026, ch. 54 on 24 Aug, ch. 55 on 26 Aug, each
+published under its session date (14 April, 28 April, 12 May 2025). The campaign has no missing
+chapters, and **every appendix link to chapters 53–55 now resolves.**
 
-Still missing, per the appendix: the Gilded Glyph (magic shop, Maelis Varn) and the Fucking Duck
-(dwarven jeweler). Ch. 56 still opens with "The adventurers leave The Gilded Glyph," a shop the
-reader has never seen. Tod repointed the two shop entries from ch. 54 to ch. 55 in the same pass that
-merged ch. 54, so the appendix is internally consistent.
+Ch. 55 is the shopping trip: Castle Never named for the first time, Protector's Enclave, The Gilded
+Glyph and Fucking Duck seen from the inside, Maelis Varn, and every magic item the party carries for
+the rest of the campaign. Ch. 56's opening — "The adventurers leave The Gilded Glyph" — finally has
+its scene.
 
-- [ ] Decide for 55: write it, or leave it as a gap and fix the links to point elsewhere
+**The items now have an acquisition scene, but four of them still have no *second* appearance:**
 
-**Ch. 55 was the party's first-ever magic shopping trip** and its consequences are already loose in
-the prose. Full item list is in `characters.md` under "Gear bought off-page." Four items were bought
-and paid for but have **never once appeared in a chapter**:
+- [ ] **Mond — Draconic Sigil Tattoo** (2,000 gp). Introduced ch. 55. Free *shield* once/long rest,
+      and a drop-to-1-HP-and-explode effect that has never fired on the page
+- [ ] **Dolor — Signet Ring of Wyrmkind Favor** (4,000 gp). Introduced ch. 55. +2 Cha and advantage
+      on Intimidation and Persuasion. He does a lot of talking to NPCs; this has never been visible
+      in any of it
+- [ ] **Grindlefoot — Collar of Breath and Blood** (4,500 gp). Introduced ch. 55. Re-specced from an
+      amulet to a **collar so it stays on when he wild shapes** — a visual that should appear every
+      transformation and never has, ch. 55 included
+- [ ] **Grindlefoot — Seed Pouch of Old Barrows** (500 gp). Introduced ch. 55, which ends with him
+      "anxious to find a safe spot to plant the first batch." That setup has never been paid off
+- [x] ~~**Bilwin — Ironbound Wardchain** is never named.~~ **Named in ch. 55**, which settles that it
+      is the "dwarf's chainmail" of ch. 66 and 73. Its once-a-day save-from-zero has still never
+      visibly triggered
 
-- [ ] **Mond — Draconic Sigil Tattoo** (2,000 gp). Free *shield* once/long rest, and a
-      drop-to-1-HP-and-explode effect that has never fired on the page
-- [ ] **Dolor — Signet Ring of Wyrmkind Favor** (4,000 gp). +2 Cha and advantage on Intimidation and
-      Persuasion. He does a lot of talking to NPCs; this has never been visible in any of it
-- [ ] **Grindlefoot — Collar of Breath and Blood** (4,500 gp). Deliberately re-specced from an amulet
-      to a **collar so it stays on when he wild shapes** — a visual that should appear every
-      transformation and never has
-- [ ] **Grindlefoot — Seed Pouch of Old Barrows** (500 gp). Grows cover, healing herbs, or odd fruit
-      overnight; refills each new moon. An unused story device, and a very Grindlefoot one
-- [ ] **Bilwin — Ironbound Wardchain** (2,000 gp) is probably the "dwarf's chainmail" in ch. 66 and
-      73, but is never named, and its once-a-day save-from-zero has never visibly triggered
+- [ ] **Gven's sigils have never flared.** The Vestment of the Bound Sigil absorbs 10 damage once a
+      day and no chapter has shown it, including ch. 80 and 81 where the coat is visibly damaged
 
 ---
 
@@ -164,8 +162,8 @@ grepping the rendered prose of every chapter with HTML comments stripped, so pas
 **Done.** Ch. 85's own appendix pass added the three archmages, Landro, the Sanctum, Sigil and Ialos,
 and created entries for the Grimoire of Gastronomy, the batter golem and the Sunburst Shield.
 
-**Not part of this item:** Alustriel's ch. 55 citation is one of the seven links to unwritten
-chapters, tracked in item 2. Leave it until that decision is made.
+**Resolved separately:** Alustriel's ch. 55 citation used to be one of seven links to unwritten
+chapters. Ch. 55 exists as of 26 Aug 2026 and the link resolves; see item 2.
 
 **While you're in these entries**, the descriptions are thin — Alustriel's reads "known for being
 intelligent, wise, charismatic, and very beautiful," which is a stat block rather than a person,
