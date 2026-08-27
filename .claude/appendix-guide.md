@@ -121,8 +121,9 @@ Shops; `Other Trail` before `The Broken Heart` in Landmarks.
 
 ## Don't fix silently
 
-`writing-voice.md` lists five appendix entries known to be wrong or stale — the swapped
+`writing-voice.md` lists four appendix entries known to be wrong or stale — the swapped
 Eyes of the Star / Hand of the Wand descriptions, "Everwinter" for "Evernight", the Davanor entry,
-the Cindel species, and the seven links to unwritten chapters 53–55. Those are content decisions
+and the Cindel species. (The seven links to unwritten chapters 53–55 are no longer an issue — all
+three chapters were written in August 2026 and the links resolve.) Those are content decisions
 tracked in `to-do-list.md`, not drive-by corrections. Fixing an obviously broken *link* while
 you're in the file is fine; rewriting worldbuilding is not.
