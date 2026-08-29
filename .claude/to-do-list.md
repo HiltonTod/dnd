@@ -45,7 +45,54 @@ CLAUDE.md says to preserve HTML comments.
 
 ---
 
-## 2. ~~The unwritten chapters~~ — closed
+## 2. Copy edit pass (40 chapters)
+
+Copy edit pass on the following chapters, which haven't been reviewed since being written years ago:
+
+- [x] ch. 1
+- [x] ch. 2
+- [ ] ch. 3
+- [ ] ch. 4
+- [ ] ch. 5
+- [ ] ch. 6
+- [ ] ch. 7
+- [ ] ch. 8
+- [ ] ch. 9
+- [ ] ch. 10
+- [ ] ch. 11
+- [ ] ch. 12
+- [ ] ch. 13
+- [ ] ch. 14
+- [ ] ch. 15
+- [ ] ch. 16
+- [ ] ch. 17
+- [ ] ch. 18
+- [ ] ch. 19
+- [ ] ch. 20
+- [ ] ch. 21
+- [ ] ch. 22
+- [ ] ch. 23
+- [ ] ch. 24
+- [ ] ch. 25
+- [ ] ch. 26
+- [ ] ch. 27
+- [ ] ch. 28
+- [ ] ch. 29
+- [ ] ch. 30
+- [ ] ch. 31
+- [ ] ch. 32
+- [ ] ch. 33
+- [ ] ch. 34
+- [ ] ch. 35
+- [ ] ch. 36
+- [ ] ch. 37
+- [ ] ch. 38
+- [ ] ch. 39
+- [ ] ch. 40
+
+---
+
+## 3. ~~The unwritten chapters~~ — closed
 
 **All three are written.** Ch. 53 on 22–23 Aug 2026, ch. 54 on 24 Aug, ch. 55 on 26 Aug, each
 published under its session date (14 April, 28 April, 12 May 2025). The campaign has no missing
@@ -77,7 +124,7 @@ its scene.
 
 ---
 
-## 3. Appendix corrections
+## 4. Appendix corrections
 
 **Do not fix silently — these are content decisions.** Listed roughly by how much damage they'd do
 if a future chapter trusted them.
@@ -163,7 +210,7 @@ grepping the rendered prose of every chapter with HTML comments stripped, so pas
 and created entries for the Grimoire of Gastronomy, the batter golem and the Sunburst Shield.
 
 **Resolved separately:** Alustriel's ch. 55 citation used to be one of seven links to unwritten
-chapters. Ch. 55 exists as of 26 Aug 2026 and the link resolves; see item 2.
+chapters. Ch. 55 exists as of 26 Aug 2026 and the link resolves; see item 3.
 
 **While you're in these entries**, the descriptions are thin — Alustriel's reads "known for being
 intelligent, wise, charismatic, and very beautiful," which is a stat block rather than a person,
@@ -200,7 +247,7 @@ that hasn't been named since.
 
 ---
 
-## 4. Proofreading across chapters
+## 5. Proofreading across chapters
 
 Roughly 48 recurring misspellings in ch. 60–77 alone, and the same pattern earlier.
 
@@ -214,14 +261,14 @@ Roughly 48 recurring misspellings in ch. 60–77 alone, and the same pattern ear
 
 ---
 
-## 5. Tags and metadata
+## 6. Tags and metadata
 
 - [x] ~~**Ch. 78 is missing `co-written-with-claude`.**~~ **Done** in PR #85 (commit `6be349e`).
       Chapters 78–83 now all carry the tag, so the drafted run is tagged consistently end to end.
 
 ---
 
-## 6. Craft notes (optional, not defects)
+## 7. Craft notes (optional, not defects)
 
 Observations from the read that are worth considering but are nobody's bug.
 
