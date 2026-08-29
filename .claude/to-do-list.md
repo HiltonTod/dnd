@@ -49,44 +49,47 @@ CLAUDE.md says to preserve HTML comments.
 
 Copy edit pass on the following chapters, which haven't been reviewed since being written years ago:
 
-- [x] ch. 1
+**Twenty of these also appear in item 1** and are marked below. **Do item 1 first on those** — copy
+editing a fight that is about to be rewritten from a bulleted list into prose is wasted work.
+
+- [x] ch. 1 — **item 1**, but combat is already prose — only the `## Fight choreography` heading needs removing
 - [x] ch. 2
 - [ ] ch. 3
 - [ ] ch. 4
 - [ ] ch. 5
-- [ ] ch. 6
-- [ ] ch. 7
-- [ ] ch. 8
-- [ ] ch. 9
-- [ ] ch. 10
+- [ ] ch. 6 — **needs the fight sequence rewritten into prose** (item 1)
+- [ ] ch. 7 — **needs the fight sequence rewritten into prose** (item 1)
+- [ ] ch. 8 — **needs the fight sequence rewritten into prose** (item 1)
+- [ ] ch. 9 — **needs the fight sequence rewritten into prose** (item 1)
+- [ ] ch. 10 — **needs the encounter rewritten into prose** (item 1) — the Vera rescue, a stealth set piece under `## Encounter choreography`
 - [ ] ch. 11
-- [ ] ch. 12
-- [ ] ch. 13
-- [ ] ch. 14
+- [ ] ch. 12 — **needs the fight sequence rewritten into prose** (item 1)
+- [ ] ch. 13 — **needs the fight sequence rewritten into prose** (item 1) — **the biggest job**, twelve numbered rounds of the Battle of Wayside with no prose at all
+- [ ] ch. 14 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 15
 - [ ] ch. 16
-- [ ] ch. 17
+- [ ] ch. 17 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 18
 - [ ] ch. 19
 - [ ] ch. 20
-- [ ] ch. 21
+- [ ] ch. 21 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 22
 - [ ] ch. 23
 - [ ] ch. 24
-- [ ] ch. 25
+- [ ] ch. 25 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 26
-- [ ] ch. 27
+- [ ] ch. 27 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 28
-- [ ] ch. 29
-- [ ] ch. 30
-- [ ] ch. 31
+- [ ] ch. 29 — **needs the fight sequence rewritten into prose** (item 1)
+- [ ] ch. 30 — **needs the sequence rewritten into prose** (item 1) — `## Storm choreography`, a non-combat skill challenge over eight rounds
+- [ ] ch. 31 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 32
-- [ ] ch. 33
+- [ ] ch. 33 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 34
-- [ ] ch. 35
-- [ ] ch. 36
+- [ ] ch. 35 — **needs the fight sequence rewritten into prose** (item 1)
+- [ ] ch. 36 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 37
-- [ ] ch. 38
+- [ ] ch. 38 — **item 1**, but it already has prose *and* the list — only the comment cleanup is left
 - [ ] ch. 39
 - [ ] ch. 40
 
