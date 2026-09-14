@@ -225,6 +225,40 @@ is her whole reason for being in the campaign. `npc-characters.md` has the mater
 - [ ] Ch. 74's prose links the name *Mordenkainen* to **Alustriel's** wiki page. Copy-paste slip in
       the chapter, not the appendix, but it surfaced during the same pass.
 
+### Rod of Seven Parts — citations that predate the rule
+
+**Tod's ruling, 13 Sep 2026:** the Rod entry takes a chapter link only when **a new piece is
+discovered**, or when **a piece is used for its specific magical power** — commune, arcane gate,
+reverse gravity. Not when the rod merely guides the party towards the next piece, which is what it
+does constantly, and not when it is only mentioned. Written into `appendix-guide.md`.
+
+The entry's existing list predates that rule and most of it looks like it would not qualify.
+Checked by grepping the rendered prose of each cited chapter, comments stripped:
+
+| cited | discovery? | power cast? | keep? |
+|---|---|---|---|
+| ch. 67 | first piece, from Ker-arach | — | **yes** |
+| ch. 74 | second piece, from the hertilod | — | **yes** |
+| ch. 84 | third piece, in Landro's head | — | **yes** |
+| ch. 75 | — | commune and arcane gate | **yes** |
+| ch. 64 | — | — | probably not |
+| ch. 66 | — | — | probably not |
+| ch. 68 | — | — | probably not |
+| ch. 71 | — | — | probably not — the chapter doesn't mention a piece at all |
+| ch. 72 | — | — | probably not |
+| ch. 73 | — | — | probably not |
+
+- [ ] Decide whether to prune ch. 64, 66, 68, 71, 72 and 73 from the Rod of Seven Parts entry, or
+      leave the existing list and apply the rule only going forward. **Content decision, not a
+      cleanup** — the citation list is also the only place a reader can trace the hunt chapter by
+      chapter, so pruning it to four entries is a real loss as well as a real tidy.
+- [ ] If pruning, check ch. 64 first. It is where Mordenkainen explains the rod and the whole plan,
+      so it may earn a link on different grounds than the two triggers.
+
+Ch. 86 was assessed under the new rule during its own pass and correctly gets no link: the third
+piece dreams Dolor the location of the fourth and then pulls him through the village towards it,
+which is the guiding function on both counts.
+
 ### Missing entries
 
 - [x] ~~**The Sunburst Shield has no appendix entry**~~  **Done** in the ch. 85 appendix pass.

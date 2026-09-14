@@ -24,14 +24,41 @@ Companion files: `writing-voice.md` (how to write), `characters.md` (the party),
 5. **Ask whether anything changed category** — see below. This is the one that gets missed.
 6. **Check the Secrets section** if the chapter learned, resolved, or spent a secret.
 
-### Exception — Tempest Edge takes no more chapter links
+### Exception — things the party carries take no more chapter links
 
-**Tod's ruling, 26 Aug 2026.** Gven's greatsword keeps its single ch. 32 citation, the chapter she is
-given it, and **nothing is ever added to it again.** The sword is in her hand in most of the
-campaign, so citing every appearance would grow an entry that says nothing a reader needs — the
-entry records what the blade *is* and where it came from, and that is finished. Step 3 above does
-not apply to it. Do not re-add ch. 55 or anything else, and do not treat the short citation list as
-an oversight to repair.
+**Step 3 does not apply to the party's own kit or to Landro.** These entries record what a thing
+*is* and where it came from; that is finished, and citing every appearance would grow a list that
+says nothing a reader needs. A short citation list on any of them is correct, not an oversight to
+repair.
+
+**Party magic items** (Tod's ruling, 13 Sep 2026). No chapter link is added when a party member
+*uses* an item. The ch. 86 pass proposed adding a ch. 86 link to the **Signet Ring of Wyrmkind
+Favor** because it was the ring's first use since it was bought, and that was wrong: the entry
+keeps its ch. 55 citation and nothing more. The same holds for the Vestment of the Bound Sigil,
+the Collar of Breath and Blood, the bags of holding, the Sunburst Shield, and the rest.
+
+**Tempest Edge** (Tod's ruling, 26 Aug 2026), the original case. Gven's greatsword keeps its single
+ch. 32 citation, the chapter she is given it, and nothing is ever added. Do not re-add ch. 55.
+
+**Landro** (Tod's ruling, 13 Sep 2026). Landro is a party member now, not a thing the party
+encounters, so the **Landro** entry under Characters stops taking chapter links at ch. 85. Landro
+travels with the party permanently and speaks in most chapters from here on, which is exactly the
+reason. The separate **Landro (the colossus)** entry under Objects is a different thing and is
+finished anyway, since the colossus is destroyed.
+
+**The Rod of Seven Parts** is the one carried thing that still takes links, but only on two
+triggers (Tod's ruling, 13 Sep 2026):
+
+1. **A new piece is discovered**, or
+2. **a piece is used for its specific magical power** — commune, arcane gate, reverse gravity.
+
+**Not when the rod guides the party to the next piece**, and not when it is merely mentioned. The
+guiding is what the rod does constantly, so citing it would defeat the purpose. Ch. 86 is the
+worked example and gets no link: the third piece wakes Dolor with a dream of where the fourth one
+is and then pulls him through the village towards it, which is guiding on both counts, and nothing
+is discovered or cast.
+
+**What still takes links unconditionally:** every NPC, place, group and foe the party meets.
 
 ## An entry says what a thing *is*, not what happened to it
 
