@@ -257,6 +257,90 @@ The same check runs in the other direction: an item introduced on the page and t
 again goes quietly missing. The Sunburst Shield did it for ten chapters, and `to-do-list.md` tracks
 four more.
 
+## Diction — the individual words
+
+**Added after chapter 86.** Everything above measures shape and structure. This measures word
+choice, and `style-check.py` cannot see any of it. All counts are over chapters 1–77 — all 77 of
+them, 152,215 words, excluding only the AI-alternate ch. 62. Note that this is a larger corpus than
+the *Structure* section above, which was measured at 74 chapters before 53–55 were written. Every
+figure here is checkable with grep before a draft is handed over.
+
+The ch. 86 draft failed every one of these while passing the structural checks, which is how they
+were found.
+
+### 1. Indefinite pronouns — *no one*, never *nobody*
+
+The single loudest tell in the corpus, and nothing in this file caught it for three drafts.
+
+| you write | in 152k words | you don't write | in 152k words |
+|---|---|---|---|
+| no one | 29 | nobody | 1 |
+| someone | 32 | somebody | 1 |
+| anyone | 41 | anybody | **0** |
+| everyone | 61 | everybody | **0** |
+
+In three years you have typed "nobody" once and "anybody" never. Chapter 86's second draft used
+the *-body* forms **34 times in 6,600 words**. Swapping them all was a bigger single improvement
+than either of the two passes before it.
+
+### 2. `towards`, `afterwards`, `amongst` — you keep the s
+
+- **towards 257, toward 27.** About ten to one. Do not "correct" this to the American form; an
+  earlier pass flagged "towards" as a Britishism to avoid and had it exactly backwards.
+- **afterwards 3, afterward 0.**
+- **amongst 24, among 9.**
+- **cobblestone**, never "cobbles."
+
+### 3. "The way" is never a simile
+
+You use "the way" **44 times and not once to introduce a comparison.** Every instance is literal:
+"Gven leads the way," "all the way down the mountain side," "back the way we came," "out of the
+way."
+
+A draft that writes *"sad the way a thing is sad"* or *"recognizes it the way a man recognizes a
+face"* is announcing itself in a way no vocabulary check will catch. Chapter 86's second draft had
+eleven. Use `as` or `as though`.
+
+### 4. Latinate adverbs you don't use
+
+Counts across the whole 152,215 words:
+
+| word | you | ch. 86 draft 2 (6,582 words) |
+|---|---|---|
+| entirely | 2 | 4 |
+| genuinely | **0** | 2 |
+| plainly | 1 | 2 |
+| precisely | 1 | 1 |
+| considerably | 1 | 3 |
+| `at all` | 14 | 7 |
+| `which is/was` | 19 | 9 |
+
+These pile up fast and they read as explanation rather than narration. **Measure narration and
+dialogue separately before cutting them** — they are perfectly good in the mouths of Tasha,
+Mordenkainen, Sarusanda and any other formal speaker, where the stiffness is characterisation.
+
+Running the other way, you use **though** at 5.8 per 10k and drafts under-use it.
+
+### 5. Epithets, and the rule that governs them
+
+`Yours vs. Claude's` above records the rate (68 per 10k in ch. 56–77, 44 across 1–77, against 24
+in the drafted run). What it doesn't record is the rule your chapters follow without exception:
+
+**An epithet is never the first reference to a character in a scene.** You name them, then you
+switch. Breaking it once in a ch. 86 draft put "the dwarf" one paragraph above "a dwarf in a
+sarcophagus chamber," and it read as two different dwarves.
+
+### The grep pass
+
+Run this before handing over a draft. Any hit on the first line is wrong; the rest are judgement
+calls measured against the rates above.
+
+```bash
+grep -niE '\b(nobody|somebody|anybody|everybody|toward|afterward|cobbles)\b' draft.md
+grep -niE '\bthe way (a|an|one|you)\b' draft.md
+grep -nciE '\b(entirely|genuinely|plainly|precisely|considerably)\b' draft.md
+```
+
 ## Contractions — contract by default in narration
 
 Added after chapter 84, where this went wrong badly enough to be the most audible thing separating
