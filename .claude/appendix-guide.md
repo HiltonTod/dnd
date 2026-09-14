@@ -46,8 +46,19 @@ travels with the party permanently and speaks in most chapters from here on, whi
 reason. The separate **Landro (the colossus)** entry under Objects is a different thing and is
 finished anyway, since the colossus is destroyed.
 
-**What still takes links:** the Rod of Seven Parts, which is the quest object rather than personal
-kit and whose citation list tracks the hunt; and every NPC, place, group and foe the party meets.
+**The Rod of Seven Parts** is the one carried thing that still takes links, but only on two
+triggers (Tod's ruling, 13 Sep 2026):
+
+1. **A new piece is discovered**, or
+2. **a piece is used for its specific magical power** — commune, arcane gate, reverse gravity.
+
+**Not when the rod guides the party to the next piece**, and not when it is merely mentioned. The
+guiding is what the rod does constantly, so citing it would defeat the purpose. Ch. 86 is the
+worked example and gets no link: the third piece wakes Dolor with a dream of where the fourth one
+is and then pulls him through the village towards it, which is guiding on both counts, and nothing
+is discovered or cast.
+
+**What still takes links unconditionally:** every NPC, place, group and foe the party meets.
 
 ## An entry says what a thing *is*, not what happened to it
 
