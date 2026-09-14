@@ -351,18 +351,22 @@ Session date May 12, 2025. Chapter written 26 August 2026. Mechanics source: Tod
 | **Bilwin** | **Ironbound Wardchain** | 2,000 gp | AC 16. Once/long rest, when reduced to 0 HP, drop to 1 instead — the links pulse dull blue when it fires | ✅ named ch. 55 |
 | **Mond** | **Bag of Holding** | 1,000 gp | Deliberately plain satchel. Scorched inside, hence discounted. Auto-transfers items in possession; retrieve by name | ✅ ch. 55, 57 |
 | **Mond** | **Draconic Sigil Tattoo** | 2,000 gp | Abstract dragon across his upper back, collar to waist, touching each shoulder blade. Once/long rest cast *shield*. Once/long rest, damage that would drop him to 0 instead leaves him at 1 and bursts into draconic flame — 2d10 to enemies within 10 ft | ✅ ch. 55 only |
-| **Dolor** | **Signet Ring of Wyrmkind Favor** | 4,000 gp | Dark gold, insignia of an ancient noble dragon; worn on his index finger. +2 Charisma (max 22); advantage on Intimidation and Persuasion against creatures of Int 6+ | ✅ ch. 55 only |
+| **Dolor** | **Signet Ring of Wyrmkind Favor** | 4,000 gp | Dark gold, insignia of an ancient noble dragon; worn on his index finger. +2 Charisma (max 22); advantage on Intimidation and Persuasion against creatures of Int 6+ | ✅ ch. 55, 86 |
 | **Grindlefoot** | **Collar of Breath and Blood** | 4,500 gp | Deep red crystal in a plain bronze collet, filigreed bezel, warm to the touch. +1 Constitution; once/long rest *Enhance Ability (Bear's Endurance)* free; advantage on Concentration checks | ✅ ch. 55 only |
 | **Grindlefoot** | **Seed Pouch of Old Barrows** | 500 gp | 3d6 magical seeds. Planted and watered — or *Druidcraft* cast nearby — they grow overnight into thick bushes (half cover), healing herbs (*Cure Wounds* 1d8+3, one use), or strange hybrid fruit with random effects. **Refills every new moon** | ✅ ch. 55 only |
 
 **Three things worth acting on:**
 
-- **Four items appear in ch. 55 and nowhere else.** Mond's tattoo, Dolor's ring, and both of
-  Grindlefoot's. They now have an introduction; they still have no second appearance.
+- **Three items appear in ch. 55 and nowhere else.** Mond's tattoo and both of Grindlefoot's.
+  **Dolor's ring is no longer one of them** — ch. 86 has him turn it once with his thumb before
+  fronting a negotiation with a hostile crowd, which is the first time the Charisma bonus has been
+  visible on the page.
 - **Grindlefoot's collar was specifically re-specced.** It was going to be an amulet, and he asked
   for a collar *so it would still be on him when he transforms*. Ch. 55 describes it in detail but
-  doesn't say that, and the visual still hasn't appeared in a single wild shape. (Don't confuse it
-  with Ikasa's talking collar in ch. 71.)
+  doesn't say that. **The visual has now appeared twice** — ch. 84, where the red crystal comes
+  with him into the frog and Gven spots "his little ruby collar," and ch. 86, where it is at the
+  throat of the spider on Bilwin's shoulder. (Don't confuse it with Ikasa's talking collar in
+  ch. 71.)
 - **The Seed Pouch is still an unused story device.** Ch. 55 ends with Grindlefoot "anxious to find a
   safe spot to plant the first batch," which is a setup the campaign has not yet paid off.
 

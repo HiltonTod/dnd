@@ -4,7 +4,7 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–85**, the complete campaign as published, read in full and cross-checked
+**Coverage: chapters 1–86**, the complete campaign as published, read in full and cross-checked
 against the appendix. **There are no longer any missing chapters.**
 
 Chapters 53, 54, and 55 were written a year and a half after their sessions — ch. 53 on 22–23 August
@@ -358,7 +358,7 @@ Then the kiln flares, the world goes dark, and they're standing in a stranger's 
 
 > "Well, fuck."
 
-## Arc VI — The Rod of Seven Parts (ch. 64–85)
+## Arc VI — The Rod of Seven Parts (ch. 64–86)
 
 **They were summoned by accident.** Three archmages — **Alustriel Silverhand**, **Mordenkainen**, and
 **Tasha** — cast *Wish* to negate Vecna's power and got five adventurers instead. Mordenkainen's
@@ -454,6 +454,45 @@ keeps swelling from the heat, and fills the kitchen with cake around all nine of
 No piece of the rod, no level, and no direction for the fourth piece yet. What it does is give the
 party a day of ordinary life among people who are no longer strangers, and let Tasha refer out loud
 to the goldfish.
+
+**Ch. 86 opens the fourth piece — Barovia.** Two days later the rod gives Dolor the direction in a
+dream: mist, a black city under a red sky, a manor with its portcullis down and gold in the
+windows, and a child crying inside it. He wakes knowing three names he had no way of knowing —
+**Barovia**, **Strahd von Zarovich**, and the **Death House**.
+
+Tasha's briefing is the new cosmology. Barovia is both a village and a **domain of dread**; the
+Plane of Shadow is not one place but demiplanes walled off from each other by mist; the **Dark
+Powers** own the mists and beneath them the **Dark Lords** rule one domain each, absolutely.
+Strahd is Barovia's, a vampire, and the party's only previous vampire — the dwarf under White
+Plume Mountain in ch. 50 — left of its own accord rather than being beaten, which Gven has not
+forgotten. The advice is *noticed* versus *worthy of attention*: they cannot avoid being seen, only
+being interesting. Alustriel's is the line the chapter is built on — people live there, not by any
+choice of their own, **do not judge them by where they live**. Tasha: *"You will forget inside the
+hour. Everyone does."*
+
+They do. Inside the hour Bilwin asks a Barovian why everyone looks so miserable, the street turns
+into a mob of twenty, and an invisibility spell meant to slip them through gets defeated by a
+bucket of ash. Gven has a farmer's pitchfork in her hand and is asking where the healer is so she
+knows where to carry him afterwards when **Sarusanda** stops it — a member of the **Ulmist
+Inquisition**, an order that roots out evil on any plane. What Mond and Dolor see, too late, is
+that the villagers were never angry. They were frightened, and the anger was what they had instead.
+Dolor says the quiet part to Sarusanda afterwards: *"We were told before we came here that not
+everyone in this land is a threat, and it did not last us the hour."*
+
+Over wine at **The Blood of the Vine** she lays out the job. The Death House belongs to **Gustav
+and Elisabeth Durst**, who host a minor cult that venerates Strahd, and the cult has come into the
+fourth piece. They think it will draw Strahd's attention, which to them is the prize. A second and
+unaffiliated party wants it too — the **Priests of Osybus**, necromancers who burn stolen souls to
+extend their lives — and they walked into the house that morning. She agrees to work with the
+party.
+
+At the gate the Dursts' children, **Rose** and **Thorn**, are outside where their parents sent
+them; there were screams, then howls from the basement, then robed strangers going in without a
+word. Their nursemaid **Brigetta** is still inside. The crying the party heard from the square was
+neither child. Sarusanda pushes into the antechamber, tells them she has business only she can do,
+and vanishes down the hall, leaving the five of them in front of a shut door.
+
+No piece recovered, no level, no combat.
 
 ---
 
@@ -566,13 +605,19 @@ own small argument that he intends to stay.
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open at ch. 85
+## Threads left open at ch. 86
 
 **Live and load-bearing:**
 
 - **The Rod of Seven Parts.** **Three of seven recovered.** The third grants *Reverse Gravity* once
   a day. The pieces are being kept separate rather than assembled: Bilwin carries commune, Mond the
-  arcane gate. Four more to find, and the next direction is unknown at the end of ch. 84.
+  arcane gate. Four more to find. **The fourth is inside the Death House in Barovia**, held by the
+  Durst cult and wanted by the Priests of Osybus as well.
+- **Barovia, and everything in that house.** Brigetta the nursemaid, Gustav and Elisabeth Durst,
+  whatever came into the house and made the noise in the basement, and the crying that was not
+  Rose or Thorn. **Sarusanda** went off alone into the house on business she would not name.
+- **Strahd von Zarovich** knows nothing of the party yet, which is the whole plan. The Dark Powers
+  and the Dark Lords above and beside him are new and unexplained.
 - **Dolor's parents built Landro** — cipher, watch, voices in the fluid, workshop insignia — and he
   hasn't told anyone. Why tinkerer pacifists from another plane worked on a Cyran war machine is
   unanswered. **Landro looked at him in ch. 84 and said "You look familiar."** He said nothing.

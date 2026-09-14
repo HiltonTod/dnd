@@ -110,9 +110,11 @@ its scene.
 
 - [ ] **Mond — Draconic Sigil Tattoo** (2,000 gp). Introduced ch. 55. Free *shield* once/long rest,
       and a drop-to-1-HP-and-explode effect that has never fired on the page
-- [ ] **Dolor — Signet Ring of Wyrmkind Favor** (4,000 gp). Introduced ch. 55. +2 Cha and advantage
-      on Intimidation and Persuasion. He does a lot of talking to NPCs; this has never been visible
-      in any of it
+- [x] ~~**Dolor — Signet Ring of Wyrmkind Favor** (4,000 gp). Introduced ch. 55.~~ **Done in
+      ch. 86.** He turns the ring once with his thumb before stepping in front of Bilwin to talk
+      down a mob of twenty, which is the first time the Charisma bonus and the advantage on
+      Intimidation and Persuasion have been visible on the page. Note that this does **not** earn
+      the appendix entry a ch. 86 citation — see the party-kit rule in `appendix-guide.md`.
 - [ ] **Grindlefoot — Collar of Breath and Blood** (4,500 gp). Introduced ch. 55. Re-specced from an
       amulet to a **collar so it stays on when he wild shapes** — a visual that should appear every
       transformation and never has, ch. 55 included

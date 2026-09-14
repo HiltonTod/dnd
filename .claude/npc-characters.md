@@ -29,11 +29,12 @@ built out.
 
 | | Species / role | Home | First seen | Chapters |
 |---|---|---|---|---|
-| **Alustriel Silverhand** | Human wizard, high mage of Silverymoon | The Sanctum, in Sigil | **ch. 53** | 53, 63, 64, 66, 67, 68, 74, 75, 85 |
-| **Tasha** | Human archmage, of Oerth | — | ch. 64 | 64, 67, 68, 74, 75, 85 |
-| **Mordenkainen** | Human archmage, of Oerth | Oerth | ch. 63 | 63, 64, 67, 68, 74, 84, 85 |
+| **Alustriel Silverhand** | Human wizard, high mage of Silverymoon | The Sanctum, in Sigil | **ch. 53** | 53, 63, 64, 66, 67, 68, 74, 75, 85, 86 |
+| **Tasha** | Human archmage, of Oerth | — | ch. 64 | 64, 67, 68, 74, 75, 85, 86 |
+| **Mordenkainen** | Human archmage, of Oerth | Oerth | ch. 63 | 63, 64, 67, 68, 74, 84, 85, 86 |
 | **Malaina van Talstiv** | Human assassin; Alustriel's wife | The Sanctum | ch. 67 | 67, 68, 74 |
 | **Dagult Neverember** | Human; Lord of Neverwinter | Neverwinter | ch. 53 | 53, 62, 63; referenced 56, 57 |
+| **Sarusanda** | Human; Ulmist Inquisition | Barovia | ch. 86 | 86 |
 
 The three archmages cast *Wish* together to negate Vecna's power and got five adventurers instead
 (ch. 64). That accident is the reason for every scene any of them are in. **Alustriel is the host
@@ -448,6 +449,45 @@ shrieks with joy from the ceiling.
 
 It cannot be argued with about cooking and it is right about cooking, which is the reason it gets
 away with the rest.
+
+## Sarusanda
+
+**Female human · member of the Ulmist Inquisition · met in Barovia, ch. 86**
+
+- **Clothing** loose-fitting trousers and boots, a tunic and matching cloak of a blue so dark it
+  reads as black until the light moves on it, and a wide-brimmed hat.
+- **Armed** a sword at her hip. She never draws it, in a chapter with a twenty-strong mob in it.
+- **Her habit with a cup:** she drinks before anyone else does, and turns it a quarter turn on the
+  table before she says the thing she came to say.
+
+**Voice rule — she states the worst case flatly and does not soften it or enjoy it.** Everything
+she says is the literal truth about what she will do, delivered at conversational volume. She is
+the only NPC in the campaign who threatens the party and is neither bluffing nor hostile.
+
+> "I have no reason to lie to you. I expect no truth from you."
+
+> "Of course not. I will speak with them. If I do not care for what I hear, I will kill whichever
+> of them is in charge, and you may all take as long as you like deciding which that is."
+
+**She never raises her voice**, and the chapter says so twice — "quiet and unhurried," and a voice
+that "carries without once being raised." Her authority is that the villagers stand down anyway.
+
+**She defends the party without flattering them**, which is the tone to hold for her: *"if these
+five came here to do us harm, then they are either grossly incompetent or exceptionally stupid and
+quite possibly both."* Then, to the farmer who asks if she will vouch for them: *"Of course not."*
+
+**The one register change she has** is for the Durst children, where she goes down on one knee in
+the wet street and "drops her voice into a register none of the companions have heard from her
+yet." Whatever she says to Rose works better than it has any right to. Use this sparingly — it
+works because everything else about her is flat.
+
+**Her gaze is the recurring description**: "neither hostile nor friendly. It's forward, and that's
+the whole of it."
+
+**What she wants.** The Ulmist Inquisition roots out evil on any plane and in any domain. The
+Death House cult has never been worth her order's attention until it came into a piece of the Rod.
+She agrees to work with the party and then immediately splits off inside the house on business she
+will not name, which is the open question about her.
 
 ## Deliberately not built out
 
