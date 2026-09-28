@@ -14,15 +14,48 @@ Companion files: `writing-voice.md` (how to write), `characters.md` (the party),
 ## The pass
 
 1. **List every proper noun in the new chapter** — people, constructs, places, items, factions,
-   secrets. Include ones that only get a passing mention.
+   secrets. Include ones that only get a passing mention. This inventory is deliberately wider than
+   the list that ends up with citations; *The citation test* below is what narrows it.
 2. **For each, grep the appendix.** `grep -n -i "name" _posts/2023-01-23-appendix.md`
-3. **Entry exists → append the chapter link** to its citation list. This is most of the work and
-   it is nearly always right; an entry that stops citing chapters looks abandoned.
+3. **Entry exists → append the chapter link** to its citation list, if the thing passes *The
+   citation test* below. This is most of the work and it is nearly always right; an entry that stops
+   citing chapters looks abandoned.
 4. **No entry → decide.** Add one if the thing is named, recurs, or is load-bearing for a thread.
    Skip walk-ons and scenery. A named NPC who speaks almost always earns an entry. Keep it to one or
    two sentences — see *An entry says what a thing is* below.
 5. **Ask whether anything changed category** — see below. This is the one that gets missed.
 6. **Check the Secrets section** if the chapter learned, resolved, or spent a secret.
+
+### The citation test — was it there, or was it only said?
+
+**Tod's rulings, 27 Sep 2026, from the chapter 87 pass.** Two things have to be true before a
+chapter link is added. Both of these were mine to get wrong first, so they are written as tests
+rather than as principles.
+
+**1. It has to be named in the chapter's prose.** Not in the working notes, not in the session
+recording, not in your head while you write the pass. If the prose never says the name, the chapter
+does not cite it. Ch. 87's four **helmed horrors** are the worked example: they are the chapter's
+only fight and its only foe, the HTML comments name them, and the prose calls them "suits of armor"
+from start to finish — so they earn neither an entry nor a citation. **Gustav and Elisabeth Durst**
+are the same, in a way worth noticing: they were named in an earlier draft of ch. 87 and the edit
+pass cut the paragraph, which quietly removed their claim to a citation along with it. An earlier
+draft is not the chapter.
+
+**2. Being named is not enough — it has to be there.** A character mentioned inside somebody's
+dialogue has not appeared, and a place named in passing has not been visited. Ch. 87 gives both:
+Gven says *"If Strahd hears about this"* and Mond says *"Tasha said don't be noticed"*, and neither
+**Strahd von Zarovich** nor **Tasha** is in the chapter, so neither gets a link. This is the test
+that most often looks wrong while you are doing the pass, because the name is right there on the
+page and the entry is right there in the file.
+
+**The worked example is the whole of ch. 87.** A chapter set entirely inside one building, with one
+fight against constructs the prose never names, and no NPC present on the page, earns **exactly one
+citation** — `Death House`, which is the one thing in it the party is physically inside. Barovia is
+never named. Sarusanda splits off before the chapter starts and is never mentioned in it. The
+Priests of Osybus are "necromancers". **Rose** is the one name that clears test 1 and fails test 2 —
+"Rose told them at the gate about screams" is the party remembering ch. 86, and she is not in ch. 87
+at all. Everything else is party kit, Landro, or the rod. If a pass produces a list that short and
+it feels like an oversight, it probably is not.
 
 ### Exception — things the party carries take no more chapter links
 

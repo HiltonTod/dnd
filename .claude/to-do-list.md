@@ -180,8 +180,10 @@ if a future chapter trusted them.
 
 **The Sanctum cast are the most under-cited entries in the appendix.** All four NPCs appear in
 chapters their entries don't list, and one entry cites a chapter its subject isn't in. Verified by
-grepping the rendered prose of every chapter with HTML comments stripped, so passing mentions count
-(per `appendix-guide.md` step 1) but working notes don't.
+grepping the rendered prose of every chapter with HTML comments stripped, so working notes don't
+count. Note that the standard has since narrowed: as of Tod's 27 Sep 2026 rulings a passing mention
+is **not** enough on its own — see *The citation test* in `appendix-guide.md`. The citations in the
+table below were checked against presence in the chapter, not merely a mention, so they stand.
 
 | Entry | Section | Appears in | Currently cited | **Add** | **Remove** |
 |---|---|---|---|---|---|
