@@ -177,12 +177,18 @@ still available.**
 - **Complexion** light. **Height** 3′1½″. **Build** moderate.
 - **Clothing** overalls, cloth shirt, **no shoes**, and a **bowler hat**.
 - **Weapon** a garden hoe with the metal head removed, used as a staff.
+- **Gear** **darkvision goggles**, carried in his bag from ch. 64 on.
 - **Demeanor** happy-go-lucky, curious, soft-spoken, makes impromptu decisions quickly.
 
 The bowler hat survives wild shape — ch. 79 has it perched on a fifteen-foot wolf spider "tilted at
 a determined angle," and he catches it each time it tumbles free. The staff was literally his farm
 tool; ch. 44 gives him a quiet moment on how strange it is that a thing for growing became a thing
 for harming. He has it silvered and carved with plant filigree in ch. 63.
+
+**He has no darkvision, and the goggles are why that never shows.** Halflings do not get it, so the
+goggles do the work: retrieved from his bag in ch. 64, used in ch. 65, and in ch. 80, 81 and 87 the
+prose pairs Gven's darkvision with Grindlefoot's goggles as two separate answers to the same dark
+corridor. **Don't write him seeing in the dark unaided.**
 
 ## Gven Vetkam
 
