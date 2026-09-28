@@ -1,6 +1,6 @@
 # To-do list
 
-Tracked suggestions from reading the full corpus (ch. 1–85, including ch. 54) and the appendix. Nothing here has been
+Tracked suggestions from reading the full corpus (ch. 1–87, including ch. 54) and the appendix. Nothing here has been
 acted on — these are proposals for Tod to accept, reject, or reorder. Check items off in place.
 
 Grouped by size, biggest commitment first.
@@ -125,7 +125,8 @@ its scene.
       visibly triggered
 
 - [ ] **Gven's sigils have never flared.** The Vestment of the Bound Sigil absorbs 10 damage once a
-      day and no chapter has shown it, including ch. 80 and 81 where the coat is visibly damaged
+      day and no chapter has shown it, including ch. 80 and 81 where the coat is visibly damaged.
+      Ch. 87 offered no opening either — she took zero damage across the whole fight
 
 ---
 
@@ -259,6 +260,9 @@ Ch. 86 was assessed under the new rule during its own pass and correctly gets no
 piece dreams Dolor the location of the fourth and then pulls him through the village towards it,
 which is the guiding function on both counts.
 
+Ch. 87 gets no link either, on the same reading: Dolor closes his hand around the third piece in the
+main hall and it gives him a direction and nothing more. No piece is discovered and no power is cast.
+
 ### Missing entries
 
 - [x] ~~**The Sunburst Shield has no appendix entry**~~  **Done** in the ch. 85 appendix pass.
@@ -301,6 +305,15 @@ Roughly 48 recurring misspellings in ch. 60–77 alone, and the same pattern ear
 ---
 
 ## 6. Tags and metadata
+
+- [ ] **CLAUDE.md's counts have drifted and nothing updates them per chapter.** As of ch. 87 the
+      real numbers are **95 posts: 88 chapters, 6 character posts, 1 appendix**, and the `campaign`
+      category holds **88**. CLAUDE.md still says 89 files / 82 chapters / 81 campaign, which was
+      true around ch. 84. Same file, two more stale lines: it says the `co-written-with-claude` tag
+      is on "chapters 78–83", but 84, 85, 86 and 87 carry it too, so the drafted run is **78–87**.
+      Note that `writing-voice.md`'s "chapters 78–83 are co-written" is *not* stale in the same way
+      — that sentence describes the corpus its measurements were taken from, and should be left
+      alone.
 
 - [x] ~~**Ch. 78 is missing `co-written-with-claude`.**~~ **Done** in PR #85 (commit `6be349e`).
       Chapters 78–83 now all carry the tag, so the drafted run is tagged consistently end to end.

@@ -4,7 +4,7 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–86**, the complete campaign as published, read in full and cross-checked
+**Coverage: chapters 1–87**, the complete campaign as published, read in full and cross-checked
 against the appendix. **There are no longer any missing chapters.**
 
 Chapters 53, 54, and 55 were written a year and a half after their sessions — ch. 53 on 22–23 August
@@ -358,7 +358,7 @@ Then the kiln flares, the world goes dark, and they're standing in a stranger's 
 
 > "Well, fuck."
 
-## Arc VI — The Rod of Seven Parts (ch. 64–86)
+## Arc VI — The Rod of Seven Parts (ch. 64–87)
 
 **They were summoned by accident.** Three archmages — **Alustriel Silverhand**, **Mordenkainen**, and
 **Tasha** — cast *Wish* to negate Vecna's power and got five adventurers instead. Mordenkainen's
@@ -494,6 +494,35 @@ and vanishes down the hall, leaving the five of them in front of a shut door.
 
 No piece recovered, no level, no combat.
 
+**Ch. 87 is the Death House ground floor.** Grindlefoot reaches for *Pass Without Trace* while still
+a spider on Bilwin's shoulder, discovers the spell wants concentration, drops the shape, and lands
+the two of them in a heap — his only explanation being that he was comfortable. Then Dolor opens the
+double door on a hall built to impress, and four suits of armor step down out of the alcoves.
+
+The fight is the chapter's only one and it is over in three rounds. Grindlefoot announces beforehand
+that he intends to disengage and hide every fight from now on, makes an Insight check to learn why a
+house would do this, gets back only that they are not welcome in it, and walks up the stairs. The
+armor follows him up, and he works out a little late that he should have stayed where he was.
+**Gven takes no damage at all across the three rounds**; Mond takes the most of anyone. Dolor
+finishes the last suit and tells it to knock it off.
+
+What the rooms give them is a house that was lived in this morning and is empty now. A den with three
+stuffed wolves and the only lit fire in the building, which the party declines to enter. A dining
+room laid for twelve and undisturbed. A cloakroom with **twelve damp cloaks**, which Mond reads
+correctly: they came in this morning, hung their coats up like guests, and walked off into the house
+without them. A kitchen someone keeps clean on purpose, with **cake batter dried in a bowl** — baked
+this morning, in an empty house, and Grindlefoot is the one who asks who for. A dumbwaiter going up
+that no one rides. And **no way down anywhere on the ground floor**, against Rose's account of howls
+coming from the basement.
+
+They climb to the second floor as the light goes, Gven on darkvision and Grindlefoot on his goggles.
+It mirrors the first floor, and over the mantelpiece hangs a portrait of the Durst family with both
+children smiling — the same two children Dolor crouched down to hand a glass bauble to an hour and a
+half earlier, neither of whom looked anything like that. Landro says so out loud and hands the
+observation to the party rather than doing anything with it.
+
+No piece recovered, no level. Sarusanda has not been seen since the antechamber.
+
 ---
 
 ## Character threads
@@ -605,17 +634,22 @@ own small argument that he intends to stay.
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open at ch. 86
+## Threads left open at ch. 87
 
 **Live and load-bearing:**
 
 - **The Rod of Seven Parts.** **Three of seven recovered.** The third grants *Reverse Gravity* once
   a day. The pieces are being kept separate rather than assembled: Bilwin carries commune, Mond the
   arcane gate. Four more to find. **The fourth is inside the Death House in Barovia**, held by the
-  Durst cult and wanted by the Priests of Osybus as well.
+  Durst cult and wanted by the Priests of Osybus as well. **Ch. 87 clears the ground floor and the
+  piece is not on it**; the party is on the second floor of three, with a basement they have found no
+  way into.
 - **Barovia, and everything in that house.** Brigetta the nursemaid, Gustav and Elisabeth Durst,
   whatever came into the house and made the noise in the basement, and the crying that was not
-  Rose or Thorn. **Sarusanda** went off alone into the house on business she would not name.
+  Rose or Thorn. **Sarusanda** went off alone into the house on business she would not name and has
+  not been seen since. Added by ch. 87: **twelve damp cloaks and twelve undisturbed places** at the
+  dining table, the robed visitors who hung them up and walked off without them, **a cake baked that
+  morning in an empty house**, a dumbwaiter no one rode, and no way down from the ground floor.
 - **Strahd von Zarovich** knows nothing of the party yet, which is the whole plan. The Dark Powers
   and the Dark Lords above and beside him are new and unexplained.
 - **Dolor's parents built Landro** — cipher, watch, voices in the fluid, workshop insignia — and he
