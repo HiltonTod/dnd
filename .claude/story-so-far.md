@@ -499,10 +499,11 @@ a spider on Bilwin's shoulder, discovers the spell wants concentration, drops th
 the two of them in a heap — his only explanation being that he was comfortable. Then Dolor opens the
 double door on a hall built to impress, and four suits of armor step down out of the alcoves.
 
-The fight is the chapter's only one and it is over in three rounds. Grindlefoot announces beforehand
-that he intends to disengage and hide every fight from now on, makes an Insight check to learn why a
-house would do this, gets back only that they are not welcome in it, and walks up the stairs. The
-armor follows him up, and he works out a little late that he should have stayed where he was.
+The fight is the chapter's only one and it is over in three rounds. Dolor announces beforehand that
+he intends to disengage and hide every fight from now on, gets "Shocking" from Gven, and then does
+not hide once. Grindlefoot makes an Insight check to learn why a house would do this, gets back only
+that they are not welcome in it, and walks up the stairs out of the fight. The armor follows him up,
+and he works out a little late that he should have stayed where he was.
 **Gven takes no damage at all across the three rounds**; Mond takes the most of anyone. Dolor
 finishes the last suit and tells it to knock it off.
 
