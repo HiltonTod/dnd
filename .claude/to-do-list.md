@@ -31,7 +31,7 @@ the page, under a visible `## Fight choreography` heading. The intent is that al
 - [ ] ch. 35
 - [ ] ch. 36
 - [ ] ch. 38 — partial; already has prose *and* the list. Just needs the comment cleanup
-- [ ] ch. 1 — combat is already prose; only the `## Fight choreography` heading needs removing
+- [x] ch. 1 — combat is already prose; only the `## Fight choreography` heading needs removing
 
 **Model to follow:** ch. 38 carries both forms in one file. The comment says "Green grung 4 -
 Grapples Dolor and rubs his hands over Dolor's neck"; the prose says the creature "lands on Dolor's
