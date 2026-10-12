@@ -55,8 +55,8 @@ editing a fight that is about to be rewritten from a bulleted list into prose is
 - [x] ch. 1 — **item 1**, but combat is already prose — only the `## Fight choreography` heading needs removing
 - [x] ch. 2
 - [x] ch. 3
-- [ ] ch. 4
-- [ ] ch. 5
+- [x] ch. 4
+- [x] ch. 5
 - [ ] ch. 6 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 7 — **needs the fight sequence rewritten into prose** (item 1)
 - [ ] ch. 8 — **needs the fight sequence rewritten into prose** (item 1)
