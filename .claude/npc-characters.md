@@ -34,7 +34,7 @@ built out.
 | **Mordenkainen** | Human archmage, of Oerth | Oerth | ch. 63 | 63, 64, 67, 68, 74, 84, 85, 86 |
 | **Malaina van Talstiv** | Human assassin; Alustriel's wife | The Sanctum | ch. 67 | 67, 68, 74 |
 | **Dagult Neverember** | Human; Lord of Neverwinter | Neverwinter | ch. 53 | 53, 62, 63; referenced 56, 57 |
-| **Sarusanda** | Human; Ulmist Inquisition | Barovia | ch. 86 | 86 |
+| **Sarusanda** | Human; Ulmist Inquisition | Barovia | ch. 86 | 86, 88 |
 
 The three archmages cast *Wish* together to negate Vecna's power and got five adventurers instead
 (ch. 64). That accident is the reason for every scene any of them are in. **Alustriel is the host
@@ -452,7 +452,7 @@ away with the rest.
 
 ## Sarusanda
 
-**Female human · member of the Ulmist Inquisition · met in Barovia, ch. 86**
+**Female human · member of the Ulmist Inquisition · met in Barovia, ch. 86 · ch. 86, 88**
 
 - **Clothing** loose-fitting trousers and boots, a tunic and matching cloak of a blue so dark it
   reads as black until the light moves on it, and a wide-brimmed hat.
@@ -488,6 +488,24 @@ the whole of it."
 Death House cult has never been worth her order's attention until it came into a piece of the Rod.
 She agrees to work with the party and then immediately splits off inside the house on business she
 will not name, which is the open question about her.
+
+**Ch. 88 half-answers it: the business is books.** The party finds her alone in the Death House
+library, wounded, having come in through a back window and fought two Priests of Osybus to what she
+thought was death. She pulls three volumes from a hidden room of demon-summoning texts — *"These are
+the books I was looking for. Thank you."* — and stays behind to destroy others. What is in the three
+is still unknown.
+
+**The register holds, and ch. 88 shows two edges of it.** She raises her voice exactly once, to stop
+Bilwin touching a body — *"Stop! No, don't!"* — which is the only time in two chapters she has. And
+her flatness can land as a joke without her trying: *"I am not sick"* to Grindlefoot's "Feel better";
+*"So you left the hard one for me"* on hearing the party skipped the room with the stuffed wolves;
+*"They are not my genre"* when Bilwin offers her three blank books. Play these straight, never as
+wit she knows she has.
+
+**She knows how to finish what she starts.** She is the one who knows a Priest of Osybus comes back
+through a tattoo, finds the right one among dozens, and carves it apart: *"That is what I did not
+have time to do."* She also says "I thought I had killed them. It appears they were only mostly
+dead" with no change of tone at all.
 
 ## Deliberately not built out
 

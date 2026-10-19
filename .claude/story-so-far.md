@@ -4,7 +4,7 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–87**, the complete campaign as published, read in full and cross-checked
+**Coverage: chapters 1–88**, the complete campaign as published, read in full and cross-checked
 against the appendix. **There are no longer any missing chapters.**
 
 Chapters 53, 54, and 55 were written a year and a half after their sessions — ch. 53 on 22–23 August
@@ -524,6 +524,36 @@ observation to the party rather than doing anything with it.
 
 No piece recovered, no level. Sarusanda has not been seen since the antechamber.
 
+**Ch. 88 is the Death House second floor.** A servants' room no one has slept in for a while, then
+the library, where Sarusanda is binding a wounded leg beside two robed bodies. She came in through a
+back window and fought them alone. Bilwin trips over one, reaches down to apologize, and both get up:
+they are **Priests of Osybus**, and they were only mostly dead.
+
+The fight is two rounds. Bilwin banishes both and they are back within the round. One sheds its body
+and becomes a **flameskull**, whose fireball Mond pinches out with a counterspell; the other spends a
+tattoo on its neck to summon a shadow. **Dolor finally disengages and hides**, as he promised all
+through ch. 87, and the priest shoots him through the desk anyway: *"Disengaging and hiding doesn't
+do me any good. They know I'm here."* Grindlefoot stays out in the doorway this time and fights from
+there. The moonbeam puts out the skull and finishes the last priest. **Dolor is the only one hurt.**
+
+Two rules about the Priests of Osybus come out of it. A flameskull comes back unless it gets holy
+water, and Bilwin finds a flask in his Bag of Holding that he doesn't remember packing. And each
+priest carries a **tattoo that brings him back** — a blurred shadowy face with two empty spots for
+eyes — which Sarusanda carves apart: *"You have to destroy the tattoo."*
+
+Behind a trick bookcase is a small room of books on summoning demons. Dolor disarms a dart trap on a
+chest holding three blank spellbooks and scrolls of Bless, Protection from Poison and Spiritual
+Weapon. **Sarusanda's business in the house turns out to be books**: she pulls three volumes from
+that room — "These are the books I was looking for" — and stays behind to destroy others. Bilwin
+offers her the blank ones. *"They are not my genre."*
+
+Gven kicks open the conservatory across the hall — *"If he does turn up, I'm looking forward to
+meeting him"* — and **three robed figures** among the harpsichord and the harp turn around. The
+session ends there; the fight is next chapter.
+
+No piece recovered, no level. **Bilwin no longer carries the hurdy-gurdy** (Tod's ruling,
+18 Oct 2026); he offers the undead a song to *sing*.
+
 ---
 
 ## Character threads
@@ -635,7 +665,7 @@ own small argument that he intends to stay.
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open at ch. 87
+## Threads left open at ch. 88
 
 **Live and load-bearing:**
 
@@ -643,14 +673,17 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   a day. The pieces are being kept separate rather than assembled: Bilwin carries commune, Mond the
   arcane gate. Four more to find. **The fourth is inside the Death House in Barovia**, held by the
   Durst cult and wanted by the Priests of Osybus as well. **Ch. 87 clears the ground floor and the
-  piece is not on it**; the party is on the second floor of three, with a basement they have found no
-  way into.
+  piece is not on it**; ch. 88 covers half the second floor and it isn't there either. The third
+  floor and a basement they have found no way into are still ahead.
 - **Barovia, and everything in that house.** Brigetta the nursemaid, Gustav and Elisabeth Durst,
   whatever came into the house and made the noise in the basement, and the crying that was not
-  Rose or Thorn. **Sarusanda** went off alone into the house on business she would not name and has
-  not been seen since. Added by ch. 87: **twelve damp cloaks and twelve undisturbed places** at the
+  Rose or Thorn. **Sarusanda** went off alone into the house on business she would not name; in
+  ch. 88 that business turns out to be **three books** from a hidden room of demon-summoning texts,
+  contents unknown, and she stays behind in the library to destroy the rest. Added by ch. 87: **twelve damp cloaks and twelve undisturbed places** at the
   dining table, the robed visitors who hung them up and walked off without them, **a cake baked that
   morning in an empty house**, a dumbwaiter no one rode, and no way down from the ground floor.
+  Added by ch. 88: two Priests of Osybus dead in the library, and **three more robed figures in the
+  conservatory**, turning to face the party as the chapter ends.
 - **Strahd von Zarovich** knows nothing of the party yet, which is the whole plan. The Dark Powers
   and the Dark Lords above and beside him are new and unexplained.
 - **Dolor's parents built Landro** — cipher, watch, voices in the fluid, workshop insignia — and he
