@@ -53,10 +53,9 @@ smallest. Bilwin is shorter than Xantic.
 - **Build** lean — not skinny, but unusually lean for a dwarf, who are normally short and stocky.
 - **Clothing** dresses how he imagines a great bard dresses: a fuchsia flowy shirt under leather
   armor, shiny boots, painted fingernails.
-- **Instrument** a hurdy-gurdy carried in a studded leather case on his back. **He still has it and
-  always will** — he is a bard, and it is not going anywhere.
+- **Instrument** a hurdy-gurdy carried in a studded leather case on his back, up to ch. 55. **He no
+  longer carries it** (Tod's ruling, 18 Oct 2026 — see "The hurdy-gurdy is gone" below).
 - **Weapon** the hurdy-gurdy, still in its case, up to ch. 55; a **+1 battle axe** from ch. 55 on.
-  **He hasn't lost the hurdy-gurdy — he has simply stopped wanting to hit people with it.**
 - **Demeanor** loud, very talkative, obnoxious. Speaks without thinking about consequences. Loves
   beer, both brewing and drinking it.
 
@@ -87,10 +86,13 @@ deliver a scene about having lost it. Between ch. 53 and ch. 55 he is back to sw
 hurdy-gurdy, and ch. 55 ends that: he tells Maelis Varn he wants "something that works better in
 battle than my hurdy-gurdy" and walks out with a **+1 battle axe**.
 
-**The hurdy-gurdy is not gone.** He keeps carrying it, he keeps playing it, and it stays on his back
-in its studded leather case — what changed in ch. 55 is that he no longer wants it to be the thing he
-fights with. Don't write it as a loss, a trade, or a retirement; the axe replaced it as a weapon and
-nothing else.
+**The hurdy-gurdy is gone.** Tod's ruling, 18 Oct 2026, confirming the ch. 88 session (28 Sep 2026),
+where the table answered "Are you still carrying your hurdy-gurdy?" with "No" and "There's no hurdy
+gurdy." This reverses the earlier line in this file that he would always carry it. The prose agrees
+with the ruling: the instrument's last appearance on the page is ch. 55, where he trades it out as a
+weapon for the battle axe, and no chapter from 56 to 87 mentions it. **When and why it left him is
+unrecorded** — don't invent a scene for it, and don't put it on his back, in his Bag of Holding, or in
+his hands. He can still sing, and he can still talk about the instrument.
 
 The same holds for the other two. Dolor held **Wave** for a matter of minutes in the same scene,
 long enough for it to frost over and cold-burn his hand open, before Tham threw it through the rift;

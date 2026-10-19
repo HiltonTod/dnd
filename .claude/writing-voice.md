@@ -793,8 +793,8 @@ ch. 1–83 as originally written.
   the case as a club — until ch. 34 and 37, where he plays beautifully in Dwarven and only Gven
   can understand the words. The instrument being genuinely good when it matters is a setup that
   took a very long time to pay off. **The club half of the joke ends in ch. 55**, where he buys a
-  battle axe; the instrument half does not. He still carries it and still plays it — he just stopped
-  swinging it at people.
+  battle axe. **He no longer carries the instrument either** (Tod's ruling, 18 Oct 2026); it last
+  appears on the page in ch. 55. See `characters.md`.
 - **Torp is Davanor** (ch. 28), Gven's brother turned zealot, planning the genocide of every magic
   user in Eritz. Gven's whole reason for being on the road in ch. 1 is looking for him.
 
