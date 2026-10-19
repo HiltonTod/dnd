@@ -57,6 +57,19 @@ Priests of Osybus are "necromancers". **Rose** is the one name that clears test 
 at all. Everything else is party kit, Landro, or the rod. If a pass produces a list that short and
 it feels like an oversight, it probably is not.
 
+### Exception — a momentary foe that belongs to a group already listed
+
+**Tod's ruling, 18 Oct 2026, from the chapter 88 pass.** The ch. 88 pass proposed a **Flameskull**
+entry under Foes: it is named in the prose and fought on the page, so it passes both halves of the
+citation test. Tod cut it. It is one form a Priest of Osybus takes for a single round, and it doesn't
+affect the story beyond being part of the **Priests of Osybus**, which already have an entry and get
+the chapter link. **A foe that is a passing form or summoning of a group already in the appendix gets
+no entry of its own.** Cite the group and stop. The shadow one of the same priests summons falls
+under this too.
+
+So the citation test decides whether something *can* be cited. It does not mean everything that
+passes earns an entry. "Every foe the party meets" means every foe that matters to the story.
+
 ### Exception — things the party carries take no more chapter links
 
 **Step 3 does not apply to the party's own kit or to Landro.** These entries record what a thing
@@ -91,7 +104,8 @@ worked example and gets no link: the third piece wakes Dolor with a dream of whe
 is and then pulls him through the village towards it, which is guiding on both counts, and nothing
 is discovered or cast.
 
-**What still takes links unconditionally:** every NPC, place, group and foe the party meets.
+**What still takes links unconditionally:** every NPC, place, group and foe the party meets, with the
+exception of momentary foes covered above.
 
 ## An entry says what a thing *is*, not what happened to it
 
