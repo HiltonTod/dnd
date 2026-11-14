@@ -330,6 +330,14 @@ in the drafted run). What it doesn't record is the rule your chapters follow wit
 switch. Breaking it once in a ch. 86 draft put "the dwarf" one paragraph above "a dwarf in a
 sarcophagus chamber," and it read as two different dwarves.
 
+### 6. Humanoid foes are "they", not "it"
+
+**Tod's edit, ch. 89 (14 Nov 2026).** He changed the Priests of Osybus from "it" to "they", first
+the harpist and then all three. A person-shaped enemy is "they". A monster, a construct or a
+summoned thing stays "it": the flameskull and the shadow in the same chapter. When converting,
+check that the next "their" can't now point at the wrong person. "The slime drags at their boots"
+became "the companions' boots".
+
 ### The grep pass
 
 Run this before handing over a draft. Any hit on the first line is wrong; the rest are judgement

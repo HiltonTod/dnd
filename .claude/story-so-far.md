@@ -4,7 +4,7 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–88**, the complete campaign as published, read in full and cross-checked
+**Coverage: chapters 1–89**, the complete campaign as published, read in full and cross-checked
 against the appendix. **There are no longer any missing chapters.**
 
 Chapters 53, 54, and 55 were written a year and a half after their sessions — ch. 53 on 22–23 August
@@ -554,6 +554,32 @@ session ends there; the fight is next chapter.
 No piece recovered, no level. **Bilwin no longer carries the hurdy-gurdy** (Tod's ruling,
 18 Oct 2026); he offers the undead a song to *sing*.
 
+**Ch. 89 is the conservatory, and the second floor is done.** The three robed figures are Priests
+of Osybus, and one of them was sitting at the harp about to play. The DM's version: they'd practiced
+"Mary Had a Little Lamb" for seven weeks for a recital only two priests came to hear. The fight is
+four rounds. Mond dominates the first priest ("Stop attacking"), and that priest spends the rest of
+the fight as his puppet. Bilwin cartwheels to the harp, strikes a chord for *Aura of Life*, and is
+paralyzed in a triumphant pose by the harpist's soul blade. The second priest's revival tattoo
+brings them back **wearing the face of Dolor's mother**. *"Mom?"* Gven: *"Not your mom. Sorry."* She
+kills them with a critical hit. Mond's lightning bolt burns the harpist down. Their skull bursts free
+as a flameskull — *"Well, I can't fucking play the harp now, can I?"* — and Dolor's eldritch blast
+drops it. Dolor backs away from Gven again and says there's a reason. The puppet priest cuts out their
+own tattoo on Mond's order, Gven lands two critical hits in a row, and spider-Grindlefoot's bite
+finishes it.
+
+**The flameskull is loose, and it's canon.** Bilwin remembers the holy water, douses the skull with
+beer from his stein instead, and throws it out of the window. A stray dog buries it in **Elisabeth
+Durst's prize rose garden**. An hour later the hole erupts in hellfire, and the DM declared that the
+skull tends her roses until the end of time.
+
+Costs: **Gven's Strength is drained** by the summoned shadow until she rests. Grindlefoot's spider
+stays crouched over the last body a little longer than it needs to before deciding it isn't a snack.
+Sarusanda is still in the library. Bilwin ends the chapter at the harp, playing the dead priest's
+sheet music: *"They'd have nailed it."*
+
+No piece recovered, no level. Humanoid foes are "they" in the prose from this chapter on (Tod's
+edit).
+
 ---
 
 ## Character threads
@@ -665,7 +691,7 @@ own small argument that he intends to stay.
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open at ch. 88
+## Threads left open at ch. 89
 
 **Live and load-bearing:**
 
@@ -673,7 +699,7 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   a day. The pieces are being kept separate rather than assembled: Bilwin carries commune, Mond the
   arcane gate. Four more to find. **The fourth is inside the Death House in Barovia**, held by the
   Durst cult and wanted by the Priests of Osybus as well. **Ch. 87 clears the ground floor and the
-  piece is not on it**; ch. 88 covers half the second floor and it isn't there either. The third
+  piece is not on it**; ch. 88 and 89 clear the second floor and it isn't there either. The third
   floor and a basement they have found no way into are still ahead.
 - **Barovia, and everything in that house.** Brigetta the nursemaid, Gustav and Elisabeth Durst,
   whatever came into the house and made the noise in the basement, and the crying that was not
@@ -683,13 +709,17 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   dining table, the robed visitors who hung them up and walked off without them, **a cake baked that
   morning in an empty house**, a dumbwaiter no one rode, and no way down from the ground floor.
   Added by ch. 88: two Priests of Osybus dead in the library, and **three more robed figures in the
-  conservatory**, turning to face the party as the chapter ends.
+  conservatory**, turning to face the party as the chapter ends. Ch. 89 kills all three.
+  Added by ch. 89: **a flameskull in Elisabeth Durst's prize rose garden**, burning, and by the
+  DM's decree tending her roses until the end of time.
 - **Strahd von Zarovich** knows nothing of the party yet, which is the whole plan. The Dark Powers
   and the Dark Lords above and beside him are new and unexplained.
 - **Dolor's parents built Landro** — cipher, watch, voices in the fluid, workshop insignia — and he
   hasn't told anyone. Why tinkerer pacifists from another plane worked on a Cyran war machine is
   unanswered. **Landro looked at him in ch. 84 and said "You look familiar."** He said nothing.
   Their names, Amar and Alegría, have still never been spoken in a chapter.
+  **In ch. 89 a revived priest wears his mother's face**, and he says "Mom?" out loud in front of
+  the whole party.
 - **Bilwin's dead company**, and the sentence he surfaced under Alustriel's guidance: *"We will start
   with the one and the rest will come after."* Tasha has offered to try again when he's ready.
   **Landro told him "You came back"** in ch. 84 and would not elaborate; Bilwin has no memory of it.
