@@ -70,6 +70,20 @@ under this too.
 So the citation test decides whether something *can* be cited. It does not mean everything that
 passes earns an entry. "Every foe the party meets" means every foe that matters to the story.
 
+### Exception — the place the party is inside
+
+**Tod's ruling, 14 Nov 2026, from the chapter 89 pass.** A place the party is physically inside
+gets a chapter link for every chapter they spend in it, **as long as they're inside it**, whether
+or not the prose names it. The **Death House** is the case: ch. 88 and ch. 89 never say "Death
+House" (the prose names rooms, or says "this house"), and Tod had both linked anyway, ch. 88
+retroactively. For a place the party is inside, test 2 (*it has to be there*) is the one that
+counts; test 1 (*named in the prose*) is waived. Keep adding Death House links until the party
+leaves the house.
+
+The same pass also linked ch. 89 to the **Priests of Osybus**, whose prose says only "priests",
+because the whole chapter is a fight with them. That was Tod's call on this chapter; ch. 87's
+"necromancers" still stand as unlinked.
+
 ### Exception — things the party carries take no more chapter links
 
 **Step 3 does not apply to the party's own kit or to Landro.** These entries record what a thing
