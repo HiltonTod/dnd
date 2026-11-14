@@ -56,6 +56,10 @@ smallest. Bilwin is shorter than Xantic.
 - **Instrument** a hurdy-gurdy carried in a studded leather case on his back, up to ch. 55. **He no
   longer carries it** (Tod's ruling, 18 Oct 2026 — see "The hurdy-gurdy is gone" below).
 - **Weapon** the hurdy-gurdy, still in its case, up to ch. 55; a **+1 battle axe** from ch. 55 on.
+- **Stein** a magic beer stein that's never empty and pours whatever its drinker wants most. He has
+  always carried it (Tod, 12 Nov 2026). On the page in ch. 85, 86 and 89; in ch. 89 he douses a
+  flameskull with it in place of holy water. Not his *Spiritual Weapon*, which is a floating spectral
+  stein.
 - **Demeanor** loud, very talkative, obnoxious. Speaks without thinking about consequences. Loves
   beer, both brewing and drinking it.
 
