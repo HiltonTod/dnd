@@ -514,6 +514,19 @@ one scene and a clear register on the page already ("Wipe your feet"; "scholar o
 arcane manipulations"; "Lovely doing business with you! Come back soon, and best of luck in the
 graveyard"). If she gets a second scene, revisit then — until then, do not propose this again.
 
+## One-shot NPCs from ch. 90
+
+The time-travel one-shot, DMed by Tod, adds three NPCs. Each has a single scene, so their one-line
+registers live in the table in `writing-voice.md` rather than here. Build one out only if they come
+back:
+
+- **Granny Verdigris**: an adult copper dragon posing as an old woman, who scores every reaction.
+  She leaves with *"Until next time,"* so a return is possible.
+- **Landro's pilot**: alive before the Day of Mourning and a skeleton by ch. 82. He can only return
+  by more time travel.
+- **Grandpa Shellbert**: Dave's guest character, played on the page and credited as a guest player.
+  His character sheet is at `assets/ch90-grandpa-shellbert-character-sheet.pdf`.
+
 ## Still to build out
 
 NPCs who recur and have a register recorded in `writing-voice.md` but no entry here yet. Highest

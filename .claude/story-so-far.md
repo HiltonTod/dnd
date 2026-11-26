@@ -4,7 +4,7 @@ Storylines and character arcs, for use when drafting or revising. The appendix
 (`_posts/2023-01-23-appendix.md`) is the reference index — who, what, where. This is the shape of
 the story: what each arc was about, what changed for each character, and what was left open.
 
-**Coverage: chapters 1–89**, the complete campaign as published, read in full and cross-checked
+**Coverage: chapters 1–90**, the complete campaign as published, read in full and cross-checked
 against the appendix. **There are no longer any missing chapters.**
 
 Chapters 53, 54, and 55 were written a year and a half after their sessions — ch. 53 on 22–23 August
@@ -580,6 +580,38 @@ sheet music: *"They'd have nailed it."*
 No piece recovered, no level. Humanoid foes are "they" in the prose from this chapter on (Tod's
 edit).
 
+**Ch. 90 is a one-shot, DMed by Tod, with Dave playing Grandpa Shellbert.** A fourth Priest of
+Osybus arrives late for the recital (*"Sorry to miss the opening song… Well, fuck this recital"*)
+and throws a crystal that drops the party into **Landro before the Day of Mourning**: a new pilot's
+room, green fields through the viewport, work crews at the colossus's feet. The pilot is alive and
+asleep in the chair where Dolor found his skeleton in ch. 82, his helmet stamped with **Dolor's
+parents' workshop mark, which Dolor doesn't notice**. He complains about the engineers, hires the
+party as mercenaries to recover his missing **control crystal**, and assigns **Grandpa Shellbert**,
+an old tortle Wild Magic barbarian, as escort. Bilwin asks whether they've traveled back in time;
+Landro assumes so.
+
+The climb to the mouth runs ch. 82–84 in reverse with everything working: Bilwin hugs the map-table
+golem, everyone warns Shellbert off the uvula, the cannon is crewed. A pilotless skiff of wood and
+steel flies them west over **a living Ialos** (the windmill turning, the statue bare, the river full)
+— Landro: *"There are people in it. I did not know that there were people in it."*
+
+**Granny Verdigris**, a tiny old woman in a cottage that's bigger inside, scores every reaction out
+loud and turns every crystal in her bowls into a copy of the one on Mond's staff. Dolor's best
+persuasion earns a fight instead. She fights with her mind (Mind Spikes on Dolor and Shellbert,
+Giggling Magic on Mond through a Counterspell that finds nothing to pinch), shrugs off Mond's
+domination, and turns into a **copper dragon** when Mond's Poison Spray annoys her, blowing the
+cottage apart. Bilwin calls his dwarven company back as spirit guardians. After one round as a
+dragon she yields, rates the turtle funniest and the dwarf entertaining, is glad they skipped the
+hurdy-gurdy, and flies off. Grindlefoot, as a wolf, relieves himself on her favorite rug.
+
+Back at Landro, Mond reasons that giving the crystal dooms everyone aboard and withholding it dooms
+them anyway; Landro: *"Wibbly wobbly. Timey-wimey."* Dolor punches the pilot, keeps the crystal
+from Shellbert, and puts it in the pilot's hand himself — the same crystal he will pry from the
+skeleton in ch. 82 and that holds Landro now. **The loop closes.** They snap back to the
+conservatory: door shut, no Shellbert, and **the three bodies gone**. Short rest only.
+
+No piece recovered, no level. The party has gone two sessions without a long rest.
+
 ---
 
 ## Character threads
@@ -691,7 +723,7 @@ own small argument that he intends to stay.
 a child's doll before anyone can stop him, knocks himself out on a table and sleeps through the
 Battle of Wayside. Leaves to protect Wayside. Has his own character post.
 
-## Threads left open at ch. 89
+## Threads left open at ch. 90
 
 **Live and load-bearing:**
 
@@ -712,6 +744,9 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   conservatory**, turning to face the party as the chapter ends. Ch. 89 kills all three.
   Added by ch. 89: **a flameskull in Elisabeth Durst's prize rose garden**, burning, and by the
   DM's decree tending her roses until the end of time.
+  Added by ch. 90: **a fourth Priest of Osybus**, late for the recital, who throws the party out
+  of time; when they return, **the three conservatory bodies are gone**. Presumed taken for their
+  souls. The library bodies from ch. 88 weren't checked.
 - **Strahd von Zarovich** knows nothing of the party yet, which is the whole plan. The Dark Powers
   and the Dark Lords above and beside him are new and unexplained.
 - **Dolor's parents built Landro** — cipher, watch, voices in the fluid, workshop insignia — and he
@@ -719,12 +754,15 @@ Battle of Wayside. Leaves to protect Wayside. Has his own character post.
   unanswered. **Landro looked at him in ch. 84 and said "You look familiar."** He said nothing.
   Their names, Amar and Alegría, have still never been spoken in a chapter.
   **In ch. 89 a revived priest wears his mother's face**, and he says "Mom?" out loud in front of
-  the whole party.
+  the whole party. **In ch. 90 he stands in the pilot's room before the Day of Mourning**, next to
+  a helmet stamped with his parents' workshop mark, and doesn't notice it.
 - **Bilwin's dead company**, and the sentence he surfaced under Alustriel's guidance: *"We will start
   with the one and the rest will come after."* Tasha has offered to try again when he's ready.
   **Landro told him "You came back"** in ch. 84 and would not elaborate; Bilwin has no memory of it.
   This is the first outside confirmation that his missing years touch this arc.
-- **Landro travels with the party** from ch. 84, in a crystal on Mond's staff. It cannot leave the
+- **Landro travels with the party** from ch. 84, in a crystal on Mond's staff. In ch. 90 it sees
+  its own body before the war and Ialos with people in it, and the party delivers the crystal it
+  now lives in to its pilot, closing the loop with ch. 82 and 84. It cannot leave the
   crystal, speaks telepathically, and knows things about Bilwin and Dolor that they do not.
 - **Grindlefoot could not release a wild shape** for most of a day in ch. 84. Unexplained on the
   page, and it sits directly on his existing thread — the affinity that has been quietly becoming

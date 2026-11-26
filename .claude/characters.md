@@ -166,6 +166,9 @@ Eritz along the Ha-derech between Mirganor and Elsemar, "never charging more tha
 their clients could afford." He has a **sister, Lucha**, a painter — Dolor turned sand into glass,
 she painted.
 
+**Ch. 90 adds a near miss:** back in the pilot's room before the Day of Mourning, the living
+pilot's helmet carries the workshop mark, and Dolor, watching the man in the chair, doesn't notice it.
+
 **Reveal status, stated precisely:** the names are *published* — the character post is live at
 `/dnd/adventurers/dolor-vagarpie/`, so a reader who goes looking has them. They have **never
 appeared in any of the 81 chapters**, including the entire Landro arc (ch. 75–84), which is built
