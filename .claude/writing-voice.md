@@ -608,6 +608,9 @@ campaign. This is the hardest thing to imitate and the most important to get rig
 | Whelm (warhammer) | Telepathic, olde dwarven, single-minded about giants. "Aye, lad! Where them giants be hidin'?" |
 | Umberto Noblin | Gnome historian; answers a question by first listing his own book titles |
 | The water elemental (ch. 57) | Telegraphic pidgin, arriving through Dolor's translation. "No mood for fighting today. Friend offer escape, but tiny. No fit." |
+| Granny Verdigris (ch. 90) | Scores every reaction out loud, like a judge: "Ten points to the little one, for not knowing how to say colossi." "Minus ten." A copper dragon who wants entertainment, not anything you have |
+| Landro's pilot (ch. 90) | Complains about the engineers before saying anything useful. "Those damn engineers." "The chair is too important." |
+| Grandpa Shellbert (ch. 90) | Dave's guest character, a cranky old tortle. "Get off my lawn!" Keeps the score on his own shell in chalk. **Not** phonetic Scots, unlike the ch. 16 tortle |
 
 Give every new NPC one rule like this and hold it for every line they speak.
 
